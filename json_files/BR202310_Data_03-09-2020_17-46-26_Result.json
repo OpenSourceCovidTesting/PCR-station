@@ -1,0 +1,3975 @@
+﻿{
+  "labName": "Calcinate Lab",
+  "username": "JohnSmith",
+  "plateBarcode": "default",
+  "pcrSerial": "BR202310",
+  "runDate": "03-09-2020",
+  "runTime": "17-46-26",
+  "testKitName": "KHB SARS-CoV-2",
+  "fluorophores": [
+    "HEX",
+    "FAM",
+    "ROX",
+    "Cy5"
+  ],
+  "numCycles": 5,
+  "numWells": 96,
+  "NEC_PCT_results": {
+    "NEC_hexCq": "3.79",
+    "PCT_hexCq": "3.69",
+    "NEC_famCq": "NaN",
+    "PCT_famCq": "1.49",
+    "NEC_roxCq": "NaN",
+    "PCT_roxCq": "2.86",
+    "NEC_cy5Cq": "4.5",
+    "PCT_cy5Cq": "2.74",
+    "NEC_hexRFU_endpoint": 1.09,
+    "PCT_hexRFU_endpoint": 2.35,
+    "NEC_famRFU_endpoint": -0.93,
+    "PCT_famRFU_endpoint": 2.14,
+    "NEC_roxRFU_endpoint": -0.59,
+    "PCT_roxRFU_endpoint": 0.79,
+    "NEC_cy5RFU_endpoint": -0.06,
+    "PCT_cy5RFU_endpoint": -0.18,
+    "NECresult": "SUCCESS",
+    "PCTresult": "FAIL"
+  },
+  "Wells": [
+    {
+      "wellNum": "A01",
+      "wellContent": "Neg Ctrl",
+      "hexCq": "3.79",
+      "famCq": "NaN",
+      "roxCq": "NaN",
+      "cy5Cq": "4.5",
+      "hexRFU_endpoint": 1.09,
+      "famRFU_endpoint": -0.93,
+      "roxRFU_endpoint": -0.59,
+      "cy5RFU_endpoint": -0.06,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        1.5,
+        -1.11,
+        0.08,
+        2.03,
+        1.15
+      ],
+      "famRFU_points": [
+        -0.97,
+        0.6,
+        -0.09,
+        -1.96,
+        -0.74
+      ],
+      "roxRFU_points": [
+        0.56,
+        -1.39,
+        -0.22,
+        -1.09,
+        -0.47
+      ],
+      "cy5RFU_points": [
+        0.54,
+        1.5,
+        -2.63,
+        1.09,
+        1.36
+      ]
+    },
+    {
+      "wellNum": "A02",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "3.19",
+      "roxCq": "4.99",
+      "cy5Cq": "4.91",
+      "hexRFU_endpoint": -0.72,
+      "famRFU_endpoint": 0.65,
+      "roxRFU_endpoint": 1.24,
+      "cy5RFU_endpoint": -0.39,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        -0.83,
+        0.03,
+        -1.11,
+        1.49,
+        -2.55
+      ],
+      "famRFU_points": [
+        0.45,
+        -1.53,
+        0.28,
+        3.39,
+        -1.73
+      ],
+      "roxRFU_points": [
+        0.35,
+        -0.55,
+        2.62,
+        -0.28,
+        1.38
+      ],
+      "cy5RFU_points": [
+        0.77,
+        0.54,
+        -1.94,
+        -0.62,
+        1.4
+      ]
+    },
+    {
+      "wellNum": "A03",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "roxCq": "NaN",
+      "cy5Cq": "1.64",
+      "hexRFU_endpoint": -0.82,
+      "famRFU_endpoint": -2.47,
+      "roxRFU_endpoint": -1.03,
+      "cy5RFU_endpoint": 2.06,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        -0.5,
+        -0.54,
+        0.14,
+        -1.36,
+        -1.25
+      ],
+      "famRFU_points": [
+        -1.35,
+        -1.59,
+        -0.71,
+        -2.23,
+        -4.48
+      ],
+      "roxRFU_points": [
+        -0.52,
+        -0.09,
+        -1.02,
+        -0.54,
+        -1.54
+      ],
+      "cy5RFU_points": [
+        -0.55,
+        2.25,
+        1.61,
+        2.77,
+        1.81
+      ]
+    },
+    {
+      "wellNum": "A04",
+      "wellContent": "Unkn",
+      "hexCq": "3.3",
+      "famCq": "2.51",
+      "roxCq": "NaN",
+      "cy5Cq": "3.45",
+      "hexRFU_endpoint": 2.36,
+      "famRFU_endpoint": -2.51,
+      "roxRFU_endpoint": 0.5,
+      "cy5RFU_endpoint": 2.05,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        2.39,
+        -1.27,
+        0.63,
+        3.92,
+        2.53
+      ],
+      "famRFU_points": [
+        -3.1,
+        0.21,
+        1.5,
+        -5.14,
+        -3.89
+      ],
+      "roxRFU_points": [
+        0.68,
+        -0.86,
+        0.76,
+        0.14,
+        0.61
+      ],
+      "cy5RFU_points": [
+        1.44,
+        0.85,
+        0.31,
+        2.33,
+        3.5
+      ]
+    },
+    {
+      "wellNum": "A05",
+      "wellContent": "Unkn",
+      "hexCq": "4.52",
+      "famCq": "1.68",
+      "roxCq": "1.47",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": 0.89,
+      "famRFU_endpoint": -2.36,
+      "roxRFU_endpoint": 3.53,
+      "cy5RFU_endpoint": -2.7,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        -0.83,
+        3.72,
+        -0.5,
+        0.58,
+        2.58
+      ],
+      "famRFU_points": [
+        -2.38,
+        2.37,
+        -3.29,
+        -0.47,
+        -3.32
+      ],
+      "roxRFU_points": [
+        -0.02,
+        2.95,
+        2.74,
+        3.78,
+        4.07
+      ],
+      "cy5RFU_points": [
+        -1.81,
+        1.21,
+        -2.85,
+        -2.29,
+        -2.97
+      ]
+    },
+    {
+      "wellNum": "A06",
+      "wellContent": "Unkn",
+      "hexCq": "1.84",
+      "famCq": "NaN",
+      "roxCq": "1.85",
+      "cy5Cq": "4.92",
+      "hexRFU_endpoint": 2.85,
+      "famRFU_endpoint": -5.02,
+      "roxRFU_endpoint": 0.04,
+      "cy5RFU_endpoint": -0.05,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        0.23,
+        1.88,
+        2.21,
+        3.22,
+        3.11
+      ],
+      "famRFU_points": [
+        -2.8,
+        -1.36,
+        -2.32,
+        -5.68,
+        -7.05
+      ],
+      "roxRFU_points": [
+        -0.01,
+        1.61,
+        -1.76,
+        1.01,
+        0.86
+      ],
+      "cy5RFU_points": [
+        0.12,
+        0.6,
+        0.15,
+        -1.81,
+        1.51
+      ]
+    },
+    {
+      "wellNum": "A07",
+      "wellContent": "Unkn",
+      "hexCq": "1.67",
+      "famCq": "NaN",
+      "roxCq": "4.59",
+      "cy5Cq": "2.47",
+      "hexRFU_endpoint": 2.67,
+      "famRFU_endpoint": -5.99,
+      "roxRFU_endpoint": 1.05,
+      "cy5RFU_endpoint": 1.5,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        -0.07,
+        2.45,
+        2.45,
+        1.88,
+        3.68
+      ],
+      "famRFU_points": [
+        -3.09,
+        0.08,
+        -4.8,
+        -6.24,
+        -6.92
+      ],
+      "roxRFU_points": [
+        1.77,
+        -1.5,
+        0.61,
+        0.76,
+        1.78
+      ],
+      "cy5RFU_points": [
+        -0.65,
+        0.13,
+        2.46,
+        2.58,
+        -0.54
+      ]
+    },
+    {
+      "wellNum": "A08",
+      "wellContent": "Unkn",
+      "hexCq": "1.76",
+      "famCq": "1.54",
+      "roxCq": "NaN",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": -2.17,
+      "famRFU_endpoint": -1.0,
+      "roxRFU_endpoint": -2.61,
+      "cy5RFU_endpoint": -0.48,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        -2.76,
+        3.01,
+        -3.05,
+        -0.24,
+        -3.23
+      ],
+      "famRFU_points": [
+        -2.89,
+        4.04,
+        -1.4,
+        -0.21,
+        -1.38
+      ],
+      "roxRFU_points": [
+        -0.8,
+        -0.24,
+        -2.64,
+        -2.62,
+        -2.57
+      ],
+      "cy5RFU_points": [
+        0.1,
+        -0.96,
+        0.18,
+        -0.96,
+        -0.67
+      ]
+    },
+    {
+      "wellNum": "A09",
+      "wellContent": "Unkn",
+      "hexCq": "3.6",
+      "famCq": "NaN",
+      "roxCq": "4.42",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": -0.65,
+      "famRFU_endpoint": -1.99,
+      "roxRFU_endpoint": 1.03,
+      "cy5RFU_endpoint": 0.1,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        -1.56,
+        -0.06,
+        -0.75,
+        3.16,
+        -4.37
+      ],
+      "famRFU_points": [
+        -0.36,
+        -0.12,
+        -1.97,
+        -2.88,
+        -1.13
+      ],
+      "roxRFU_points": [
+        -1.83,
+        5.52,
+        -0.14,
+        0.09,
+        3.15
+      ],
+      "cy5RFU_points": [
+        0.72,
+        -0.46,
+        -0.33,
+        -0.1,
+        0.73
+      ]
+    },
+    {
+      "wellNum": "A10",
+      "wellContent": "Pos Ctrl",
+      "hexCq": "3.69",
+      "famCq": "1.49",
+      "roxCq": "2.86",
+      "cy5Cq": "2.74",
+      "hexRFU_endpoint": 2.35,
+      "famRFU_endpoint": 2.14,
+      "roxRFU_endpoint": 0.79,
+      "cy5RFU_endpoint": -0.18,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        1.53,
+        0.51,
+        1.38,
+        1.73,
+        3.95
+      ],
+      "famRFU_points": [
+        -1.72,
+        3.54,
+        3.92,
+        -0.61,
+        3.1
+      ],
+      "roxRFU_points": [
+        1.02,
+        -2.51,
+        1.97,
+        0.7,
+        -0.3
+      ],
+      "cy5RFU_points": [
+        -0.21,
+        -1.81,
+        2.29,
+        -1.71,
+        -1.11
+      ]
+    },
+    {
+      "wellNum": "A11",
+      "wellContent": "Unkn",
+      "hexCq": "4.87",
+      "famCq": "3.49",
+      "roxCq": "NaN",
+      "cy5Cq": "4.09",
+      "hexRFU_endpoint": 1.57,
+      "famRFU_endpoint": 1.77,
+      "roxRFU_endpoint": -0.32,
+      "cy5RFU_endpoint": 3.15,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        2.12,
+        -3.16,
+        3.1,
+        -0.29,
+        1.9
+      ],
+      "famRFU_points": [
+        1.72,
+        0.33,
+        0.19,
+        1.57,
+        3.56
+      ],
+      "roxRFU_points": [
+        1.63,
+        -1.75,
+        -0.44,
+        -1.83,
+        1.3
+      ],
+      "cy5RFU_points": [
+        1.67,
+        0.63,
+        3.13,
+        0.83,
+        5.48
+      ]
+    },
+    {
+      "wellNum": "A12",
+      "wellContent": "Unkn",
+      "hexCq": "1.31",
+      "famCq": "NaN",
+      "roxCq": "3.11",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": 6.3,
+      "famRFU_endpoint": -4.09,
+      "roxRFU_endpoint": 3.1,
+      "cy5RFU_endpoint": -3.92,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        0.09,
+        5.01,
+        5.29,
+        6.03,
+        7.58
+      ],
+      "famRFU_points": [
+        -2.35,
+        -0.04,
+        -2.99,
+        -4.03,
+        -5.24
+      ],
+      "roxRFU_points": [
+        -0.25,
+        3.61,
+        0.88,
+        5.27,
+        3.14
+      ],
+      "cy5RFU_points": [
+        -2.15,
+        0.63,
+        -3.96,
+        -3.06,
+        -4.74
+      ]
+    },
+    {
+      "wellNum": "B01",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "4.6",
+      "roxCq": "NaN",
+      "cy5Cq": "2.45",
+      "hexRFU_endpoint": -4.3,
+      "famRFU_endpoint": 0.34,
+      "roxRFU_endpoint": -3.55,
+      "cy5RFU_endpoint": 0.85,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        -2.79,
+        0.05,
+        -2.29,
+        -5.24,
+        -5.36
+      ],
+      "famRFU_points": [
+        1.08,
+        0.05,
+        0.32,
+        -2.25,
+        2.95
+      ],
+      "roxRFU_points": [
+        -0.05,
+        -0.36,
+        -4.78,
+        -3.92,
+        -1.96
+      ],
+      "cy5RFU_points": [
+        -0.81,
+        -0.67,
+        3.5,
+        -0.3,
+        -0.64
+      ]
+    },
+    {
+      "wellNum": "B02",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "4.27",
+      "roxCq": "4.45",
+      "cy5Cq": "1.53",
+      "hexRFU_endpoint": -1.27,
+      "famRFU_endpoint": 0.81,
+      "roxRFU_endpoint": 0.02,
+      "cy5RFU_endpoint": 3.15,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        1.39,
+        -0.95,
+        -2.45,
+        -2.31,
+        0.94
+      ],
+      "famRFU_points": [
+        2.35,
+        -2.9,
+        0.52,
+        0.77,
+        1.13
+      ],
+      "roxRFU_points": [
+        1.73,
+        0.85,
+        -2.97,
+        -0.02,
+        3.04
+      ],
+      "cy5RFU_points": [
+        0.29,
+        2.06,
+        2.33,
+        3.75,
+        3.38
+      ]
+    },
+    {
+      "wellNum": "B03",
+      "wellContent": "Unkn",
+      "hexCq": "3.39",
+      "famCq": "NaN",
+      "roxCq": "NaN",
+      "cy5Cq": "1.91",
+      "hexRFU_endpoint": 1.9,
+      "famRFU_endpoint": 3.57,
+      "roxRFU_endpoint": -0.98,
+      "cy5RFU_endpoint": -1.78,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        0.26,
+        1.74,
+        -0.29,
+        4.59,
+        1.4
+      ],
+      "famRFU_points": [
+        1.17,
+        2.82,
+        1.14,
+        4.19,
+        5.39
+      ],
+      "roxRFU_points": [
+        -0.71,
+        1.19,
+        -2.09,
+        0.18,
+        -1.02
+      ],
+      "cy5RFU_points": [
+        -1.45,
+        1.49,
+        -1.75,
+        -2.21,
+        -1.37
+      ]
+    },
+    {
+      "wellNum": "B04",
+      "wellContent": "Unkn",
+      "hexCq": "1.54",
+      "famCq": "2.16",
+      "roxCq": "4.82",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": 3.68,
+      "famRFU_endpoint": -0.02,
+      "roxRFU_endpoint": 0.61,
+      "cy5RFU_endpoint": -1.77,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        -0.2,
+        3.14,
+        4.02,
+        1.98,
+        5.04
+      ],
+      "famRFU_points": [
+        -1.22,
+        0.8,
+        1.23,
+        -0.61,
+        -0.68
+      ],
+      "roxRFU_points": [
+        0.33,
+        0.81,
+        0.01,
+        0.18,
+        1.63
+      ],
+      "cy5RFU_points": [
+        -0.93,
+        -0.27,
+        -0.89,
+        -2.37,
+        -2.05
+      ]
+    },
+    {
+      "wellNum": "B05",
+      "wellContent": "Unkn",
+      "hexCq": "1.27",
+      "famCq": "3.32",
+      "roxCq": "NaN",
+      "cy5Cq": "1.85",
+      "hexRFU_endpoint": 4.08,
+      "famRFU_endpoint": 1.59,
+      "roxRFU_endpoint": -3.56,
+      "cy5RFU_endpoint": 0.5,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        0.77,
+        3.87,
+        1.82,
+        4.18,
+        6.25
+      ],
+      "famRFU_points": [
+        0.9,
+        0.72,
+        -0.18,
+        3.12,
+        1.84
+      ],
+      "roxRFU_points": [
+        0.32,
+        -6.17,
+        -0.78,
+        -3.23,
+        -6.66
+      ],
+      "cy5RFU_points": [
+        -2.97,
+        1.96,
+        4.47,
+        -2.29,
+        -0.68
+      ]
+    },
+    {
+      "wellNum": "B06",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "roxCq": "NaN",
+      "cy5Cq": "2.01",
+      "hexRFU_endpoint": -1.38,
+      "famRFU_endpoint": -3.74,
+      "roxRFU_endpoint": -1.43,
+      "cy5RFU_endpoint": 5.09,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        -2.0,
+        1.29,
+        -1.11,
+        -0.13,
+        -2.91
+      ],
+      "famRFU_points": [
+        0.36,
+        -0.36,
+        -3.98,
+        -7.35,
+        0.11
+      ],
+      "roxRFU_points": [
+        -1.45,
+        0.64,
+        0.42,
+        -3.76,
+        -0.96
+      ],
+      "cy5RFU_points": [
+        1.02,
+        1.19,
+        4.18,
+        7.29,
+        3.79
+      ]
+    },
+    {
+      "wellNum": "B07",
+      "wellContent": "Unkn",
+      "hexCq": "2.5",
+      "famCq": "NaN",
+      "roxCq": "3.86",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": 2.57,
+      "famRFU_endpoint": -2.23,
+      "roxRFU_endpoint": 0.41,
+      "cy5RFU_endpoint": -0.09,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        0.85,
+        0.37,
+        2.88,
+        1.66,
+        3.18
+      ],
+      "famRFU_points": [
+        0.0,
+        -1.75,
+        -2.82,
+        -0.35,
+        -3.52
+      ],
+      "roxRFU_points": [
+        0.71,
+        -1.31,
+        0.17,
+        1.56,
+        -0.51
+      ],
+      "cy5RFU_points": [
+        0.76,
+        -0.62,
+        -0.4,
+        -0.57,
+        0.7
+      ]
+    },
+    {
+      "wellNum": "B08",
+      "wellContent": "Unkn",
+      "hexCq": "1.67",
+      "famCq": "2.67",
+      "roxCq": "2.12",
+      "cy5Cq": "3.04",
+      "hexRFU_endpoint": 2.43,
+      "famRFU_endpoint": 0.9,
+      "roxRFU_endpoint": 4.58,
+      "cy5RFU_endpoint": 2.35,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        -1.99,
+        3.39,
+        3.89,
+        1.61,
+        1.8
+      ],
+      "famRFU_points": [
+        0.1,
+        -1.17,
+        1.87,
+        1.57,
+        -0.73
+      ],
+      "roxRFU_points": [
+        1.56,
+        1.08,
+        3.34,
+        5.67,
+        4.72
+      ],
+      "cy5RFU_points": [
+        0.26,
+        1.74,
+        1.14,
+        3.52,
+        2.38
+      ]
+    },
+    {
+      "wellNum": "B09",
+      "wellContent": "Unkn",
+      "hexCq": "1.81",
+      "famCq": "4.76",
+      "roxCq": "4.67",
+      "cy5Cq": "4.78",
+      "hexRFU_endpoint": -0.12,
+      "famRFU_endpoint": 0.27,
+      "roxRFU_endpoint": 0.58,
+      "cy5RFU_endpoint": 0.13,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        -2.81,
+        2.66,
+        1.76,
+        -0.94,
+        -1.19
+      ],
+      "famRFU_points": [
+        0.23,
+        0.1,
+        1.53,
+        -2.77,
+        2.05
+      ],
+      "roxRFU_points": [
+        -0.73,
+        2.92,
+        0.44,
+        -1.45,
+        2.76
+      ],
+      "cy5RFU_points": [
+        -0.33,
+        2.09,
+        -0.72,
+        -0.64,
+        1.76
+      ]
+    },
+    {
+      "wellNum": "B10",
+      "wellContent": "Unkn",
+      "hexCq": "3.31",
+      "famCq": "NaN",
+      "roxCq": "4.83",
+      "cy5Cq": "2.37",
+      "hexRFU_endpoint": 1.77,
+      "famRFU_endpoint": -1.48,
+      "roxRFU_endpoint": -0.56,
+      "cy5RFU_endpoint": 3.22,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        0.93,
+        -0.22,
+        1.1,
+        2.77,
+        1.44
+      ],
+      "famRFU_points": [
+        1.29,
+        -2.92,
+        -1.65,
+        -1.2,
+        -1.6
+      ],
+      "roxRFU_points": [
+        2.53,
+        -2.84,
+        -0.13,
+        -3.99,
+        2.45
+      ],
+      "cy5RFU_points": [
+        1.83,
+        0.08,
+        3.22,
+        1.4,
+        5.03
+      ]
+    },
+    {
+      "wellNum": "B11",
+      "wellContent": "Unkn",
+      "hexCq": "3.56",
+      "famCq": "NaN",
+      "roxCq": "3.73",
+      "cy5Cq": "1.68",
+      "hexRFU_endpoint": 1.52,
+      "famRFU_endpoint": -3.34,
+      "roxRFU_endpoint": -0.42,
+      "cy5RFU_endpoint": 2.35,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        0.77,
+        1.35,
+        -0.9,
+        3.58,
+        1.87
+      ],
+      "famRFU_points": [
+        -1.24,
+        -1.39,
+        -2.27,
+        -3.23,
+        -4.53
+      ],
+      "roxRFU_points": [
+        -1.47,
+        1.15,
+        -0.96,
+        2.23,
+        -2.54
+      ],
+      "cy5RFU_points": [
+        0.07,
+        1.78,
+        1.67,
+        2.9,
+        2.47
+      ]
+    },
+    {
+      "wellNum": "B12",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "roxCq": "2.93",
+      "cy5Cq": "3.61",
+      "hexRFU_endpoint": 0.01,
+      "famRFU_endpoint": -2.76,
+      "roxRFU_endpoint": -0.47,
+      "cy5RFU_endpoint": 1.05,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        -1.22,
+        0.9,
+        0.7,
+        0.4,
+        -1.06
+      ],
+      "famRFU_points": [
+        0.61,
+        -2.08,
+        -2.98,
+        -3.26,
+        -2.05
+      ],
+      "roxRFU_points": [
+        0.42,
+        -3.71,
+        1.72,
+        -0.26,
+        -2.87
+      ],
+      "cy5RFU_points": [
+        0.35,
+        0.37,
+        0.44,
+        1.74,
+        0.96
+      ]
+    },
+    {
+      "wellNum": "C01",
+      "wellContent": "Unkn",
+      "hexCq": "3.97",
+      "famCq": "NaN",
+      "roxCq": "1.5",
+      "cy5Cq": "4.74",
+      "hexRFU_endpoint": 1.93,
+      "famRFU_endpoint": -2.29,
+      "roxRFU_endpoint": 2.06,
+      "cy5RFU_endpoint": 1.19,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        -0.38,
+        3.16,
+        0.92,
+        1.64,
+        3.23
+      ],
+      "famRFU_points": [
+        0.47,
+        -0.09,
+        -3.77,
+        -2.72,
+        -0.37
+      ],
+      "roxRFU_points": [
+        -1.51,
+        4.25,
+        1.51,
+        2.16,
+        2.51
+      ],
+      "cy5RFU_points": [
+        0.56,
+        -0.37,
+        2.05,
+        -0.23,
+        1.74
+      ]
+    },
+    {
+      "wellNum": "C02",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "1.7",
+      "roxCq": "3",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": -3.71,
+      "famRFU_endpoint": 2.74,
+      "roxRFU_endpoint": 1.44,
+      "cy5RFU_endpoint": -0.44,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        -1.31,
+        -2.39,
+        -0.69,
+        -5.97,
+        -4.46
+      ],
+      "famRFU_points": [
+        -0.8,
+        1.59,
+        4.28,
+        1.87,
+        2.06
+      ],
+      "roxRFU_points": [
+        -3.0,
+        4.59,
+        1.36,
+        3.4,
+        -0.43
+      ],
+      "cy5RFU_points": [
+        0.23,
+        -0.28,
+        -0.11,
+        -1.67,
+        0.47
+      ]
+    },
+    {
+      "wellNum": "C03",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "2.71",
+      "roxCq": "NaN",
+      "cy5Cq": "3.86",
+      "hexRFU_endpoint": -0.36,
+      "famRFU_endpoint": 0.36,
+      "roxRFU_endpoint": -0.82,
+      "cy5RFU_endpoint": -0.25,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        0.22,
+        -0.68,
+        -0.82,
+        0.75,
+        -1.01
+      ],
+      "famRFU_points": [
+        0.72,
+        -2.94,
+        2.45,
+        -0.49,
+        -0.89
+      ],
+      "roxRFU_points": [
+        0.16,
+        -1.4,
+        -0.82,
+        0.25,
+        -1.9
+      ],
+      "cy5RFU_points": [
+        0.9,
+        -1.76,
+        -1.04,
+        1.6,
+        -1.32
+      ]
+    },
+    {
+      "wellNum": "C04",
+      "wellContent": "Unkn",
+      "hexCq": "2.9",
+      "famCq": "4.26",
+      "roxCq": "NaN",
+      "cy5Cq": "4.54",
+      "hexRFU_endpoint": -0.22,
+      "famRFU_endpoint": 1.49,
+      "roxRFU_endpoint": -0.99,
+      "cy5RFU_endpoint": 0.8,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        -0.03,
+        -2.31,
+        2.04,
+        -1.04,
+        -1.66
+      ],
+      "famRFU_points": [
+        0.95,
+        0.27,
+        1.41,
+        0.17,
+        2.9
+      ],
+      "roxRFU_points": [
+        1.61,
+        -3.75,
+        -0.61,
+        -0.78,
+        -1.58
+      ],
+      "cy5RFU_points": [
+        0.45,
+        1.1,
+        0.11,
+        -0.06,
+        2.34
+      ]
+    },
+    {
+      "wellNum": "C05",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "roxCq": "2.97",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": -0.52,
+      "famRFU_endpoint": -3.54,
+      "roxRFU_endpoint": -0.24,
+      "cy5RFU_endpoint": 0.02,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        0.24,
+        -1.15,
+        0.96,
+        -2.72,
+        0.2
+      ],
+      "famRFU_points": [
+        -0.03,
+        -0.84,
+        -4.8,
+        -3.09,
+        -2.74
+      ],
+      "roxRFU_points": [
+        1.21,
+        -4.5,
+        1.54,
+        0.24,
+        -2.49
+      ],
+      "cy5RFU_points": [
+        0.38,
+        -0.64,
+        0.76,
+        -1.37,
+        0.68
+      ]
+    },
+    {
+      "wellNum": "C06",
+      "wellContent": "Unkn",
+      "hexCq": "1.68",
+      "famCq": "NaN",
+      "roxCq": "NaN",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": 4.92,
+      "famRFU_endpoint": -3.51,
+      "roxRFU_endpoint": -1.29,
+      "cy5RFU_endpoint": -0.63,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        0.34,
+        2.22,
+        5.1,
+        4.86,
+        4.8
+      ],
+      "famRFU_points": [
+        2.35,
+        -4.88,
+        -5.07,
+        -2.03,
+        -3.43
+      ],
+      "roxRFU_points": [
+        -0.77,
+        -2.38,
+        0.98,
+        -1.1,
+        -3.76
+      ],
+      "cy5RFU_points": [
+        -0.11,
+        -1.12,
+        0.22,
+        -0.81,
+        -1.3
+      ]
+    },
+    {
+      "wellNum": "C07",
+      "wellContent": "Unkn",
+      "hexCq": "3.48",
+      "famCq": "NaN",
+      "roxCq": "2.21",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": 1.62,
+      "famRFU_endpoint": -0.81,
+      "roxRFU_endpoint": 5.24,
+      "cy5RFU_endpoint": -1.11,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        -0.92,
+        2.95,
+        0.69,
+        2.62,
+        1.54
+      ],
+      "famRFU_points": [
+        -0.77,
+        0.03,
+        0.06,
+        -1.36,
+        -1.13
+      ],
+      "roxRFU_points": [
+        2.22,
+        0.38,
+        5.07,
+        4.24,
+        6.4
+      ],
+      "cy5RFU_points": [
+        -1.08,
+        -0.18,
+        0.04,
+        -1.36,
+        -2.02
+      ]
+    },
+    {
+      "wellNum": "C08",
+      "wellContent": "Unkn",
+      "hexCq": "1.71",
+      "famCq": "1.8",
+      "roxCq": "NaN",
+      "cy5Cq": "2.9",
+      "hexRFU_endpoint": -0.62,
+      "famRFU_endpoint": -2.62,
+      "roxRFU_endpoint": -4.12,
+      "cy5RFU_endpoint": 1.37,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        -1.53,
+        2.91,
+        -0.01,
+        -3.24,
+        1.39
+      ],
+      "famRFU_points": [
+        -1.6,
+        1.48,
+        -1.94,
+        -4.82,
+        -1.11
+      ],
+      "roxRFU_points": [
+        0.56,
+        -2.94,
+        -4.74,
+        -3.61,
+        -4.02
+      ],
+      "cy5RFU_points": [
+        0.04,
+        0.47,
+        1.31,
+        2.0,
+        0.81
+      ]
+    },
+    {
+      "wellNum": "C09",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "roxCq": "1.71",
+      "cy5Cq": "1.47",
+      "hexRFU_endpoint": -2.46,
+      "famRFU_endpoint": -2.32,
+      "roxRFU_endpoint": -1.09,
+      "cy5RFU_endpoint": 2.42,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        -1.16,
+        -0.57,
+        -1.03,
+        -3.73,
+        -2.61
+      ],
+      "famRFU_points": [
+        -2.34,
+        -0.01,
+        -1.29,
+        -0.43,
+        -5.23
+      ],
+      "roxRFU_points": [
+        -0.05,
+        1.93,
+        -3.74,
+        0.03,
+        0.43
+      ],
+      "cy5RFU_points": [
+        -1.73,
+        4.61,
+        2.08,
+        2.45,
+        2.74
+      ]
+    },
+    {
+      "wellNum": "C10",
+      "wellContent": "Unkn",
+      "hexCq": "1.83",
+      "famCq": "1.78",
+      "roxCq": "NaN",
+      "cy5Cq": "1.9",
+      "hexRFU_endpoint": 2.81,
+      "famRFU_endpoint": -2.73,
+      "roxRFU_endpoint": -2.51,
+      "cy5RFU_endpoint": -3.6,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        -0.47,
+        2.05,
+        3.94,
+        1.19,
+        3.29
+      ],
+      "famRFU_points": [
+        -3.59,
+        2.15,
+        -1.5,
+        -1.96,
+        -4.74
+      ],
+      "roxRFU_points": [
+        -1.45,
+        -0.85,
+        -1.4,
+        -1.95,
+        -4.18
+      ],
+      "cy5RFU_points": [
+        -1.77,
+        1.55,
+        -4.34,
+        -3.58,
+        -2.87
+      ]
+    },
+    {
+      "wellNum": "C11",
+      "wellContent": "Unkn",
+      "hexCq": "3.4",
+      "famCq": "NaN",
+      "roxCq": "3.81",
+      "cy5Cq": "3.44",
+      "hexRFU_endpoint": 1.13,
+      "famRFU_endpoint": -3.24,
+      "roxRFU_endpoint": -0.11,
+      "cy5RFU_endpoint": 1.1,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        0.46,
+        -0.81,
+        1.19,
+        2.26,
+        -0.06
+      ],
+      "famRFU_points": [
+        -2.34,
+        0.53,
+        -1.94,
+        -3.72,
+        -4.06
+      ],
+      "roxRFU_points": [
+        2.02,
+        -3.99,
+        -0.48,
+        1.79,
+        -1.64
+      ],
+      "cy5RFU_points": [
+        -0.03,
+        1.59,
+        -1.29,
+        4.4,
+        0.18
+      ]
+    },
+    {
+      "wellNum": "C12",
+      "wellContent": "Unkn",
+      "hexCq": "3.13",
+      "famCq": "3.73",
+      "roxCq": "NaN",
+      "cy5Cq": "2.11",
+      "hexRFU_endpoint": 3.87,
+      "famRFU_endpoint": 0.39,
+      "roxRFU_endpoint": 0.04,
+      "cy5RFU_endpoint": 2.03,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        2.0,
+        1.67,
+        1.09,
+        5.18,
+        5.35
+      ],
+      "famRFU_points": [
+        1.56,
+        -0.78,
+        -1.54,
+        1.76,
+        0.95
+      ],
+      "roxRFU_points": [
+        -0.05,
+        0.45,
+        -0.47,
+        0.47,
+        0.11
+      ],
+      "cy5RFU_points": [
+        -0.96,
+        0.93,
+        3.55,
+        2.03,
+        0.51
+      ]
+    },
+    {
+      "wellNum": "D01",
+      "wellContent": "Unkn",
+      "hexCq": "3.98",
+      "famCq": "NaN",
+      "roxCq": "NaN",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": -0.38,
+      "famRFU_endpoint": -3.06,
+      "roxRFU_endpoint": 0.32,
+      "cy5RFU_endpoint": -0.64,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        -1.34,
+        0.93,
+        -0.58,
+        1.66,
+        -2.23
+      ],
+      "famRFU_points": [
+        1.34,
+        -3.25,
+        -4.51,
+        -1.37,
+        -3.31
+      ],
+      "roxRFU_points": [
+        -1.02,
+        0.78,
+        0.92,
+        0.86,
+        -0.83
+      ],
+      "cy5RFU_points": [
+        0.17,
+        -0.62,
+        -1.34,
+        0.71,
+        -1.29
+      ]
+    },
+    {
+      "wellNum": "D02",
+      "wellContent": "Unkn",
+      "hexCq": "2.69",
+      "famCq": "NaN",
+      "roxCq": "NaN",
+      "cy5Cq": "3.54",
+      "hexRFU_endpoint": 0.62,
+      "famRFU_endpoint": -1.59,
+      "roxRFU_endpoint": -2.81,
+      "cy5RFU_endpoint": 0.82,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        -0.41,
+        -2.77,
+        3.57,
+        1.06,
+        -2.76
+      ],
+      "famRFU_points": [
+        0.24,
+        -2.45,
+        -0.71,
+        -1.48,
+        -2.58
+      ],
+      "roxRFU_points": [
+        0.65,
+        -2.7,
+        -2.47,
+        -3.55,
+        -2.41
+      ],
+      "cy5RFU_points": [
+        0.92,
+        -0.2,
+        -0.96,
+        3.06,
+        0.35
+      ]
+    },
+    {
+      "wellNum": "D03",
+      "wellContent": "Unkn",
+      "hexCq": "2.85",
+      "famCq": "NaN",
+      "roxCq": "2.77",
+      "cy5Cq": "4.09",
+      "hexRFU_endpoint": 0.67,
+      "famRFU_endpoint": -0.96,
+      "roxRFU_endpoint": 2.1,
+      "cy5RFU_endpoint": 0.34,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        -0.08,
+        -1.61,
+        2.19,
+        1.19,
+        -1.37
+      ],
+      "famRFU_points": [
+        1.27,
+        -3.38,
+        -0.8,
+        0.0,
+        -2.09
+      ],
+      "roxRFU_points": [
+        0.82,
+        0.0,
+        1.78,
+        2.66,
+        1.87
+      ],
+      "cy5RFU_points": [
+        1.89,
+        1.86,
+        -3.86,
+        0.95,
+        3.93
+      ]
+    },
+    {
+      "wellNum": "D04",
+      "wellContent": "Unkn",
+      "hexCq": "4.83",
+      "famCq": "3.34",
+      "roxCq": "NaN",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": 0.37,
+      "famRFU_endpoint": 1.49,
+      "roxRFU_endpoint": -1.35,
+      "cy5RFU_endpoint": -2.19,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        -0.91,
+        2.62,
+        0.82,
+        -2.09,
+        2.39
+      ],
+      "famRFU_points": [
+        2.57,
+        -2.1,
+        0.71,
+        1.18,
+        2.58
+      ],
+      "roxRFU_points": [
+        0.04,
+        -0.89,
+        -0.18,
+        -3.66,
+        -0.2
+      ],
+      "cy5RFU_points": [
+        -0.61,
+        -0.55,
+        -1.01,
+        -4.19,
+        -1.36
+      ]
+    },
+    {
+      "wellNum": "D05",
+      "wellContent": "Unkn",
+      "hexCq": "3.64",
+      "famCq": "1.98",
+      "roxCq": "NaN",
+      "cy5Cq": "3.35",
+      "hexRFU_endpoint": 0.36,
+      "famRFU_endpoint": -0.25,
+      "roxRFU_endpoint": -0.54,
+      "cy5RFU_endpoint": 1.65,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        -2.17,
+        2.32,
+        0.58,
+        2.2,
+        -1.7
+      ],
+      "famRFU_points": [
+        -1.67,
+        0.92,
+        2.1,
+        -2.27,
+        -0.57
+      ],
+      "roxRFU_points": [
+        -0.37,
+        -0.3,
+        0.01,
+        -0.7,
+        -0.94
+      ],
+      "cy5RFU_points": [
+        -0.39,
+        2.44,
+        0.33,
+        2.9,
+        1.71
+      ]
+    },
+    {
+      "wellNum": "D06",
+      "wellContent": "Unkn",
+      "hexCq": "2.35",
+      "famCq": "4.55",
+      "roxCq": "NaN",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": 3.53,
+      "famRFU_endpoint": 1.03,
+      "roxRFU_endpoint": 0.0,
+      "cy5RFU_endpoint": -1.07,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        -0.13,
+        0.07,
+        4.44,
+        5.48,
+        0.67
+      ],
+      "famRFU_points": [
+        0.34,
+        0.79,
+        1.84,
+        -1.78,
+        3.04
+      ],
+      "roxRFU_points": [
+        -0.37,
+        0.19,
+        -0.1,
+        0.88,
+        -0.78
+      ],
+      "cy5RFU_points": [
+        0.14,
+        0.22,
+        -2.07,
+        -0.89,
+        -0.26
+      ]
+    },
+    {
+      "wellNum": "D07",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "roxCq": "NaN",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": -0.98,
+      "famRFU_endpoint": -4.17,
+      "roxRFU_endpoint": 0.26,
+      "cy5RFU_endpoint": -2.07,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        0.09,
+        0.02,
+        -0.86,
+        -2.5,
+        0.41
+      ],
+      "famRFU_points": [
+        -2.55,
+        0.18,
+        -1.51,
+        -7.16,
+        -3.85
+      ],
+      "roxRFU_points": [
+        1.08,
+        -1.08,
+        0.0,
+        -0.04,
+        0.82
+      ],
+      "cy5RFU_points": [
+        0.49,
+        0.11,
+        -4.97,
+        0.17,
+        -1.41
+      ]
+    },
+    {
+      "wellNum": "D08",
+      "wellContent": "Unkn",
+      "hexCq": "3.18",
+      "famCq": "3.73",
+      "roxCq": "NaN",
+      "cy5Cq": "2.46",
+      "hexRFU_endpoint": 4.53,
+      "famRFU_endpoint": 0.7,
+      "roxRFU_endpoint": -0.03,
+      "cy5RFU_endpoint": 0.28,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        1.96,
+        3.25,
+        0.6,
+        6.27,
+        6.72
+      ],
+      "famRFU_points": [
+        1.42,
+        1.34,
+        -2.7,
+        2.17,
+        2.62
+      ],
+      "roxRFU_points": [
+        -0.24,
+        -1.07,
+        0.9,
+        0.51,
+        -1.5
+      ],
+      "cy5RFU_points": [
+        -1.02,
+        0.81,
+        1.72,
+        -0.96,
+        0.07
+      ]
+    },
+    {
+      "wellNum": "D09",
+      "wellContent": "Unkn",
+      "hexCq": "1.76",
+      "famCq": "3.16",
+      "roxCq": "1.43",
+      "cy5Cq": "4.37",
+      "hexRFU_endpoint": 0.42,
+      "famRFU_endpoint": 2.24,
+      "roxRFU_endpoint": 4.48,
+      "cy5RFU_endpoint": 0.64,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        -2.17,
+        2.8,
+        2.69,
+        -2.6,
+        1.16
+      ],
+      "famRFU_points": [
+        -0.52,
+        3.15,
+        0.06,
+        4.99,
+        1.67
+      ],
+      "roxRFU_points": [
+        0.25,
+        2.82,
+        4.1,
+        4.36,
+        4.99
+      ],
+      "cy5RFU_points": [
+        0.39,
+        2.73,
+        -1.48,
+        -0.07,
+        3.47
+      ]
+    },
+    {
+      "wellNum": "D10",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "2.68",
+      "roxCq": "3.65",
+      "cy5Cq": "1.84",
+      "hexRFU_endpoint": -3.29,
+      "famRFU_endpoint": 0.28,
+      "roxRFU_endpoint": -0.64,
+      "cy5RFU_endpoint": 0.95,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        -1.09,
+        -2.71,
+        -0.07,
+        -5.61,
+        -4.19
+      ],
+      "famRFU_points": [
+        -0.32,
+        -0.1,
+        1.33,
+        -0.5,
+        0.02
+      ],
+      "roxRFU_points": [
+        -2.11,
+        1.93,
+        -1.56,
+        2.96,
+        -3.33
+      ],
+      "cy5RFU_points": [
+        -1.4,
+        1.74,
+        2.7,
+        -0.76,
+        0.92
+      ]
+    },
+    {
+      "wellNum": "D11",
+      "wellContent": "Unkn",
+      "hexCq": "3.71",
+      "famCq": "4.89",
+      "roxCq": "NaN",
+      "cy5Cq": "3.37",
+      "hexRFU_endpoint": -0.06,
+      "famRFU_endpoint": -0.1,
+      "roxRFU_endpoint": 0.7,
+      "cy5RFU_endpoint": 1.54,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        -0.67,
+        -0.02,
+        -0.45,
+        2.48,
+        -2.2
+      ],
+      "famRFU_points": [
+        0.33,
+        0.44,
+        -0.66,
+        -0.7,
+        1.06
+      ],
+      "roxRFU_points": [
+        0.15,
+        -0.24,
+        0.72,
+        1.35,
+        0.03
+      ],
+      "cy5RFU_points": [
+        0.72,
+        0.55,
+        0.01,
+        3.28,
+        1.32
+      ]
+    },
+    {
+      "wellNum": "D12",
+      "wellContent": "Unkn",
+      "hexCq": "2.84",
+      "famCq": "2.18",
+      "roxCq": "3.58",
+      "cy5Cq": "2.24",
+      "hexRFU_endpoint": 2.38,
+      "famRFU_endpoint": -1.63,
+      "roxRFU_endpoint": 1.65,
+      "cy5RFU_endpoint": -0.03,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        1.47,
+        -0.32,
+        1.99,
+        2.16,
+        3.0
+      ],
+      "famRFU_points": [
+        -3.27,
+        0.72,
+        1.53,
+        -2.07,
+        -4.36
+      ],
+      "roxRFU_points": [
+        2.68,
+        -1.4,
+        -0.44,
+        2.67,
+        2.73
+      ],
+      "cy5RFU_points": [
+        -1.76,
+        0.71,
+        2.87,
+        -2.34,
+        -0.62
+      ]
+    },
+    {
+      "wellNum": "E01",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "4.47",
+      "roxCq": "4.58",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": -1.15,
+      "famRFU_endpoint": 0.63,
+      "roxRFU_endpoint": -0.06,
+      "cy5RFU_endpoint": -2.24,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        1.39,
+        -4.06,
+        0.81,
+        -3.17,
+        -1.1
+      ],
+      "famRFU_points": [
+        -1.27,
+        3.39,
+        0.07,
+        0.11,
+        1.72
+      ],
+      "roxRFU_points": [
+        1.96,
+        0.16,
+        -2.06,
+        -1.62,
+        3.5
+      ],
+      "cy5RFU_points": [
+        -1.26,
+        0.26,
+        -1.84,
+        -2.37,
+        -2.52
+      ]
+    },
+    {
+      "wellNum": "E02",
+      "wellContent": "Unkn",
+      "hexCq": "3.62",
+      "famCq": "NaN",
+      "roxCq": "NaN",
+      "cy5Cq": "2.49",
+      "hexRFU_endpoint": 0.41,
+      "famRFU_endpoint": -2.43,
+      "roxRFU_endpoint": -2.26,
+      "cy5RFU_endpoint": 3.94,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        1.33,
+        -1.93,
+        -0.91,
+        3.15,
+        -1.01
+      ],
+      "famRFU_points": [
+        -0.5,
+        -0.28,
+        -0.95,
+        -6.0,
+        -0.34
+      ],
+      "roxRFU_points": [
+        -1.57,
+        -2.07,
+        0.04,
+        -1.46,
+        -5.35
+      ],
+      "cy5RFU_points": [
+        2.09,
+        0.0,
+        2.5,
+        5.21,
+        4.12
+      ]
+    },
+    {
+      "wellNum": "E03",
+      "wellContent": "Unkn",
+      "hexCq": "1.37",
+      "famCq": "4.34",
+      "roxCq": "NaN",
+      "cy5Cq": "1.41",
+      "hexRFU_endpoint": 4.61,
+      "famRFU_endpoint": 0.09,
+      "roxRFU_endpoint": -2.14,
+      "cy5RFU_endpoint": 3.27,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        0.1,
+        4.26,
+        2.02,
+        7.06,
+        4.76
+      ],
+      "famRFU_points": [
+        2.99,
+        -0.73,
+        -2.88,
+        -0.62,
+        3.78
+      ],
+      "roxRFU_points": [
+        -0.66,
+        0.7,
+        -3.33,
+        -1.28,
+        -1.8
+      ],
+      "cy5RFU_points": [
+        0.42,
+        2.38,
+        3.31,
+        1.38,
+        5.13
+      ]
+    },
+    {
+      "wellNum": "E04",
+      "wellContent": "Unkn",
+      "hexCq": "1.69",
+      "famCq": "NaN",
+      "roxCq": "3.56",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": 1.44,
+      "famRFU_endpoint": -4.14,
+      "roxRFU_endpoint": 1.47,
+      "cy5RFU_endpoint": -1.16,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        -2.25,
+        3.37,
+        1.91,
+        2.32,
+        0.08
+      ],
+      "famRFU_points": [
+        -0.68,
+        -1.71,
+        -5.21,
+        -1.47,
+        -5.74
+      ],
+      "roxRFU_points": [
+        -0.12,
+        2.8,
+        -0.76,
+        3.05,
+        2.12
+      ],
+      "cy5RFU_points": [
+        -1.2,
+        -0.64,
+        -0.38,
+        0.37,
+        -3.48
+      ]
+    },
+    {
+      "wellNum": "E05",
+      "wellContent": "Unkn",
+      "hexCq": "4.38",
+      "famCq": "3.88",
+      "roxCq": "2.91",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": 2.09,
+      "famRFU_endpoint": -1.69,
+      "roxRFU_endpoint": 1.0,
+      "cy5RFU_endpoint": -0.52,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        -0.3,
+        2.63,
+        2.24,
+        0.32,
+        3.72
+      ],
+      "famRFU_points": [
+        1.41,
+        -2.11,
+        -4.29,
+        1.58,
+        -2.36
+      ],
+      "roxRFU_points": [
+        0.67,
+        -1.91,
+        1.69,
+        2.0,
+        -0.69
+      ],
+      "cy5RFU_points": [
+        0.66,
+        -0.73,
+        -0.49,
+        -1.65,
+        0.57
+      ]
+    },
+    {
+      "wellNum": "E06",
+      "wellContent": "Unkn",
+      "hexCq": "1.65",
+      "famCq": "3.38",
+      "roxCq": "3.72",
+      "cy5Cq": "3.35",
+      "hexRFU_endpoint": -0.72,
+      "famRFU_endpoint": 0.71,
+      "roxRFU_endpoint": 1.44,
+      "cy5RFU_endpoint": 2.88,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        -1.97,
+        3.58,
+        -2.16,
+        0.73,
+        -0.72
+      ],
+      "famRFU_points": [
+        -0.07,
+        0.49,
+        -0.15,
+        2.53,
+        -0.24
+      ],
+      "roxRFU_points": [
+        1.84,
+        -0.09,
+        -0.55,
+        2.1,
+        2.77
+      ],
+      "cy5RFU_points": [
+        1.54,
+        2.38,
+        -1.08,
+        5.59,
+        4.12
+      ]
+    },
+    {
+      "wellNum": "E07",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "roxCq": "1.27",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": -3.51,
+      "famRFU_endpoint": -3.0,
+      "roxRFU_endpoint": 4.1,
+      "cy5RFU_endpoint": -1.26,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        -0.77,
+        -3.16,
+        -1.88,
+        -2.96,
+        -5.69
+      ],
+      "famRFU_points": [
+        1.95,
+        -2.18,
+        -5.68,
+        -2.22,
+        -1.1
+      ],
+      "roxRFU_points": [
+        0.95,
+        2.48,
+        3.94,
+        1.87,
+        6.49
+      ],
+      "cy5RFU_points": [
+        -0.92,
+        -1.13,
+        0.22,
+        -1.13,
+        -2.86
+      ]
+    },
+    {
+      "wellNum": "E08",
+      "wellContent": "Unkn",
+      "hexCq": "3.53",
+      "famCq": "3.08",
+      "roxCq": "NaN",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": 2.46,
+      "famRFU_endpoint": 2.7,
+      "roxRFU_endpoint": -0.95,
+      "cy5RFU_endpoint": -0.14,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        1.73,
+        0.77,
+        0.8,
+        2.35,
+        4.24
+      ],
+      "famRFU_points": [
+        -0.15,
+        2.33,
+        0.38,
+        6.55,
+        1.18
+      ],
+      "roxRFU_points": [
+        0.37,
+        -2.05,
+        0.95,
+        -3.26,
+        -0.53
+      ],
+      "cy5RFU_points": [
+        -1.26,
+        1.15,
+        0.29,
+        0.29,
+        -1.01
+      ]
+    },
+    {
+      "wellNum": "E09",
+      "wellContent": "Unkn",
+      "hexCq": "2.62",
+      "famCq": "2.18",
+      "roxCq": "2.02",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": 2.0,
+      "famRFU_endpoint": -0.74,
+      "roxRFU_endpoint": 3.76,
+      "cy5RFU_endpoint": -4.22,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        0.36,
+        -0.18,
+        2.73,
+        1.87,
+        1.4
+      ],
+      "famRFU_points": [
+        -2.79,
+        0.42,
+        2.85,
+        -1.93,
+        -3.13
+      ],
+      "roxRFU_points": [
+        -0.88,
+        1.24,
+        6.48,
+        2.36,
+        2.44
+      ],
+      "cy5RFU_points": [
+        -1.98,
+        -1.44,
+        -3.07,
+        -3.03,
+        -6.55
+      ]
+    },
+    {
+      "wellNum": "E10",
+      "wellContent": "Unkn",
+      "hexCq": "2.69",
+      "famCq": "NaN",
+      "roxCq": "1.9",
+      "cy5Cq": "1.61",
+      "hexRFU_endpoint": -1.3,
+      "famRFU_endpoint": -2.21,
+      "roxRFU_endpoint": 2.33,
+      "cy5RFU_endpoint": -0.22,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        -0.53,
+        -3.52,
+        3.93,
+        -5.78,
+        -2.06
+      ],
+      "famRFU_points": [
+        -1.17,
+        0.82,
+        -2.47,
+        -2.13,
+        -2.02
+      ],
+      "roxRFU_points": [
+        -2.27,
+        1.78,
+        5.52,
+        1.38,
+        0.1
+      ],
+      "cy5RFU_points": [
+        -1.25,
+        2.84,
+        -1.01,
+        -0.25,
+        0.6
+      ]
+    },
+    {
+      "wellNum": "E11",
+      "wellContent": "Unkn",
+      "hexCq": "3.02",
+      "famCq": "NaN",
+      "roxCq": "2.72",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": 5.65,
+      "famRFU_endpoint": -0.1,
+      "roxRFU_endpoint": 2.76,
+      "cy5RFU_endpoint": -1.45,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        1.74,
+        4.24,
+        1.48,
+        7.91,
+        7.55
+      ],
+      "famRFU_points": [
+        0.39,
+        0.39,
+        -0.98,
+        -0.14,
+        0.82
+      ],
+      "roxRFU_points": [
+        2.13,
+        -2.06,
+        2.71,
+        3.41,
+        2.17
+      ],
+      "cy5RFU_points": [
+        1.52,
+        -3.5,
+        -1.27,
+        -1.47,
+        -1.6
+      ]
+    },
+    {
+      "wellNum": "E12",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "4.76",
+      "roxCq": "3.72",
+      "cy5Cq": "3.59",
+      "hexRFU_endpoint": 0.47,
+      "famRFU_endpoint": -0.83,
+      "roxRFU_endpoint": 2.7,
+      "cy5RFU_endpoint": 1.05,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        1.45,
+        -1.79,
+        0.86,
+        -0.71,
+        1.26
+      ],
+      "famRFU_points": [
+        -0.32,
+        2.17,
+        -1.45,
+        -3.2,
+        2.15
+      ],
+      "roxRFU_points": [
+        0.87,
+        3.32,
+        0.65,
+        1.64,
+        5.8
+      ],
+      "cy5RFU_points": [
+        0.22,
+        1.7,
+        -0.98,
+        2.73,
+        1.39
+      ]
+    },
+    {
+      "wellNum": "F01",
+      "wellContent": "Unkn",
+      "hexCq": "1.8",
+      "famCq": "3.76",
+      "roxCq": "3.36",
+      "cy5Cq": "3.64",
+      "hexRFU_endpoint": -1.03,
+      "famRFU_endpoint": -1.63,
+      "roxRFU_endpoint": 2.2,
+      "cy5RFU_endpoint": 1.55,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        -2.0,
+        2.49,
+        -1.38,
+        -0.19,
+        -1.52
+      ],
+      "famRFU_points": [
+        0.97,
+        -1.29,
+        -4.79,
+        2.65,
+        -2.74
+      ],
+      "roxRFU_points": [
+        1.96,
+        -0.16,
+        0.17,
+        3.48,
+        2.94
+      ],
+      "cy5RFU_points": [
+        1.76,
+        -0.88,
+        0.75,
+        1.49,
+        2.42
+      ]
+    },
+    {
+      "wellNum": "F02",
+      "wellContent": "Unkn",
+      "hexCq": "1.89",
+      "famCq": "1.62",
+      "roxCq": "NaN",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": -0.51,
+      "famRFU_endpoint": 1.97,
+      "roxRFU_endpoint": -1.95,
+      "cy5RFU_endpoint": -1.19,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        -3.58,
+        2.24,
+        2.22,
+        -0.68,
+        -3.08
+      ],
+      "famRFU_points": [
+        0.48,
+        1.11,
+        1.6,
+        1.57,
+        2.75
+      ],
+      "roxRFU_points": [
+        1.45,
+        -4.14,
+        -0.25,
+        -4.25,
+        -1.35
+      ],
+      "cy5RFU_points": [
+        -0.84,
+        0.8,
+        -0.99,
+        -1.89,
+        -0.69
+      ]
+    },
+    {
+      "wellNum": "F03",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "1.78",
+      "roxCq": "NaN",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": -1.19,
+      "famRFU_endpoint": -1.34,
+      "roxRFU_endpoint": -0.78,
+      "cy5RFU_endpoint": -4.55,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        0.54,
+        -0.9,
+        -1.21,
+        -2.3,
+        -0.07
+      ],
+      "famRFU_points": [
+        -1.43,
+        1.5,
+        -1.55,
+        -0.95,
+        -1.51
+      ],
+      "roxRFU_points": [
+        -0.02,
+        1.17,
+        -2.96,
+        0.89,
+        -0.27
+      ],
+      "cy5RFU_points": [
+        0.06,
+        -1.5,
+        -6.22,
+        -3.44,
+        -4.0
+      ]
+    },
+    {
+      "wellNum": "F04",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "1.49",
+      "roxCq": "2.55",
+      "cy5Cq": "4.92",
+      "hexRFU_endpoint": -5.58,
+      "famRFU_endpoint": 2.25,
+      "roxRFU_endpoint": 2.66,
+      "cy5RFU_endpoint": 0.88,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        -1.8,
+        -4.03,
+        -2.46,
+        -5.87,
+        -8.4
+      ],
+      "famRFU_points": [
+        -1.2,
+        3.03,
+        2.15,
+        2.84,
+        1.75
+      ],
+      "roxRFU_points": [
+        0.77,
+        0.65,
+        1.95,
+        3.6,
+        2.43
+      ],
+      "cy5RFU_points": [
+        -0.34,
+        1.6,
+        0.38,
+        1.02,
+        1.24
+      ]
+    },
+    {
+      "wellNum": "F05",
+      "wellContent": "Unkn",
+      "hexCq": "4.19",
+      "famCq": "NaN",
+      "roxCq": "1.95",
+      "cy5Cq": "1.57",
+      "hexRFU_endpoint": 1.67,
+      "famRFU_endpoint": -2.32,
+      "roxRFU_endpoint": -0.03,
+      "cy5RFU_endpoint": 1.69,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        0.49,
+        1.93,
+        0.48,
+        1.22,
+        3.32
+      ],
+      "famRFU_points": [
+        -2.31,
+        0.66,
+        -0.43,
+        -3.39,
+        -3.15
+      ],
+      "roxRFU_points": [
+        -1.09,
+        1.49,
+        0.08,
+        0.16,
+        -0.32
+      ],
+      "cy5RFU_points": [
+        -1.27,
+        3.1,
+        1.73,
+        1.55,
+        1.8
+      ]
+    },
+    {
+      "wellNum": "F06",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "roxCq": "3.02",
+      "cy5Cq": "2.04",
+      "hexRFU_endpoint": -1.26,
+      "famRFU_endpoint": -2.68,
+      "roxRFU_endpoint": 2.38,
+      "cy5RFU_endpoint": 3.2,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        -0.25,
+        0.52,
+        -2.29,
+        -0.66,
+        -0.83
+      ],
+      "famRFU_points": [
+        -1.85,
+        -0.67,
+        -0.35,
+        -3.94,
+        -3.74
+      ],
+      "roxRFU_points": [
+        -0.12,
+        1.94,
+        1.32,
+        3.96,
+        1.87
+      ],
+      "cy5RFU_points": [
+        0.39,
+        1.13,
+        3.58,
+        2.74,
+        3.29
+      ]
+    },
+    {
+      "wellNum": "F07",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "1.62",
+      "roxCq": "NaN",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": 0.16,
+      "famRFU_endpoint": -2.04,
+      "roxRFU_endpoint": -5.68,
+      "cy5RFU_endpoint": 8.13,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        0.3,
+        0.16,
+        -0.89,
+        1.33,
+        0.03
+      ],
+      "famRFU_points": [
+        -1.23,
+        2.16,
+        -3.11,
+        -2.27,
+        -0.75
+      ],
+      "roxRFU_points": [
+        -1.56,
+        -2.03,
+        -4.03,
+        -7.13,
+        -5.88
+      ],
+      "cy5RFU_points": [
+        1.3,
+        5.37,
+        5.7,
+        8.73,
+        9.97
+      ]
+    },
+    {
+      "wellNum": "F08",
+      "wellContent": "Unkn",
+      "hexCq": "1.73",
+      "famCq": "NaN",
+      "roxCq": "2.19",
+      "cy5Cq": "3.64",
+      "hexRFU_endpoint": 0.62,
+      "famRFU_endpoint": -2.99,
+      "roxRFU_endpoint": 3.95,
+      "cy5RFU_endpoint": 0.4,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        -0.59,
+        2.41,
+        -0.54,
+        1.11,
+        1.28
+      ],
+      "famRFU_points": [
+        -0.68,
+        -0.84,
+        -2.49,
+        -3.76,
+        -2.72
+      ],
+      "roxRFU_points": [
+        1.41,
+        0.76,
+        3.99,
+        2.8,
+        5.06
+      ],
+      "cy5RFU_points": [
+        1.54,
+        -0.41,
+        -2.58,
+        3.35,
+        0.43
+      ]
+    },
+    {
+      "wellNum": "F09",
+      "wellContent": "Unkn",
+      "hexCq": "1.42",
+      "famCq": "1.71",
+      "roxCq": "NaN",
+      "cy5Cq": "2.28",
+      "hexRFU_endpoint": 4.7,
+      "famRFU_endpoint": 1.21,
+      "roxRFU_endpoint": -1.62,
+      "cy5RFU_endpoint": 2.1,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        1.21,
+        2.16,
+        4.62,
+        2.73,
+        6.76
+      ],
+      "famRFU_points": [
+        -1.68,
+        1.9,
+        2.06,
+        2.04,
+        -0.46
+      ],
+      "roxRFU_points": [
+        -1.94,
+        0.53,
+        -0.81,
+        -0.56,
+        -3.48
+      ],
+      "cy5RFU_points": [
+        0.1,
+        0.98,
+        1.85,
+        2.81,
+        1.64
+      ]
+    },
+    {
+      "wellNum": "F10",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "roxCq": "3.4",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": -0.47,
+      "famRFU_endpoint": -0.22,
+      "roxRFU_endpoint": 2.0,
+      "cy5RFU_endpoint": 0.12,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        -1.65,
+        0.23,
+        1.08,
+        -0.01,
+        -2.47
+      ],
+      "famRFU_points": [
+        0.69,
+        -0.56,
+        -0.61,
+        -0.58,
+        0.52
+      ],
+      "roxRFU_points": [
+        1.65,
+        0.19,
+        -0.19,
+        3.69,
+        2.51
+      ],
+      "cy5RFU_points": [
+        0.39,
+        0.19,
+        -0.58,
+        0.28,
+        0.66
+      ]
+    },
+    {
+      "wellNum": "F11",
+      "wellContent": "Unkn",
+      "hexCq": "4.79",
+      "famCq": "NaN",
+      "roxCq": "3.24",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": 0.33,
+      "famRFU_endpoint": -3.41,
+      "roxRFU_endpoint": 2.74,
+      "cy5RFU_endpoint": -2.56,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        0.86,
+        0.31,
+        -0.14,
+        -1.22,
+        2.35
+      ],
+      "famRFU_points": [
+        -2.68,
+        0.65,
+        -4.1,
+        0.64,
+        -6.76
+      ],
+      "roxRFU_points": [
+        1.25,
+        1.55,
+        0.56,
+        3.94,
+        3.73
+      ],
+      "cy5RFU_points": [
+        0.59,
+        -3.45,
+        -2.31,
+        -1.43,
+        -3.93
+      ]
+    },
+    {
+      "wellNum": "F12",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "roxCq": "2.33",
+      "cy5Cq": "4.36",
+      "hexRFU_endpoint": -2.8,
+      "famRFU_endpoint": -4.45,
+      "roxRFU_endpoint": 4.16,
+      "cy5RFU_endpoint": 1.52,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        -1.79,
+        -1.08,
+        0.19,
+        -5.02,
+        -3.58
+      ],
+      "famRFU_points": [
+        -0.91,
+        -3.36,
+        -2.94,
+        -3.91,
+        -6.51
+      ],
+      "roxRFU_points": [
+        1.86,
+        0.13,
+        3.91,
+        3.65,
+        4.93
+      ],
+      "cy5RFU_points": [
+        0.83,
+        1.15,
+        1.04,
+        -0.12,
+        3.64
+      ]
+    },
+    {
+      "wellNum": "G01",
+      "wellContent": "Unkn",
+      "hexCq": "3.45",
+      "famCq": "1.79",
+      "roxCq": "NaN",
+      "cy5Cq": "2.8",
+      "hexRFU_endpoint": 1.92,
+      "famRFU_endpoint": -3.07,
+      "roxRFU_endpoint": -1.4,
+      "cy5RFU_endpoint": 0.83,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        -1.53,
+        4.45,
+        0.93,
+        2.47,
+        2.35
+      ],
+      "famRFU_points": [
+        -1.62,
+        1.53,
+        -3.91,
+        -2.71,
+        -2.6
+      ],
+      "roxRFU_points": [
+        -1.72,
+        0.94,
+        0.31,
+        -3.21,
+        -1.3
+      ],
+      "cy5RFU_points": [
+        0.5,
+        -1.52,
+        1.9,
+        0.71,
+        -0.13
+      ]
+    },
+    {
+      "wellNum": "G02",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "3.97",
+      "roxCq": "NaN",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": 6.35,
+      "famRFU_endpoint": -0.89,
+      "roxRFU_endpoint": -1.89,
+      "cy5RFU_endpoint": -0.05,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        2.07,
+        3.27,
+        4.86,
+        4.72,
+        9.48
+      ],
+      "famRFU_points": [
+        -0.64,
+        1.46,
+        -2.62,
+        0.97,
+        -1.01
+      ],
+      "roxRFU_points": [
+        -0.6,
+        -0.93,
+        -2.12,
+        -0.16,
+        -3.39
+      ],
+      "cy5RFU_points": [
+        -1.48,
+        0.28,
+        1.17,
+        0.92,
+        -2.25
+      ]
+    },
+    {
+      "wellNum": "G03",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "2.08",
+      "roxCq": "NaN",
+      "cy5Cq": "1.83",
+      "hexRFU_endpoint": -1.41,
+      "famRFU_endpoint": 1.92,
+      "roxRFU_endpoint": -0.56,
+      "cy5RFU_endpoint": 2.8,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        0.07,
+        -1.63,
+        -1.29,
+        -0.53,
+        -2.41
+      ],
+      "famRFU_points": [
+        -1.21,
+        0.64,
+        3.42,
+        2.97,
+        -0.64
+      ],
+      "roxRFU_points": [
+        0.44,
+        0.32,
+        -1.79,
+        -0.36,
+        0.48
+      ],
+      "cy5RFU_points": [
+        -0.31,
+        1.55,
+        2.21,
+        5.03,
+        1.16
+      ]
+    },
+    {
+      "wellNum": "G04",
+      "wellContent": "Unkn",
+      "hexCq": "3.96",
+      "famCq": "NaN",
+      "roxCq": "3.57",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": 1.39,
+      "famRFU_endpoint": -0.34,
+      "roxRFU_endpoint": 1.34,
+      "cy5RFU_endpoint": -4.66,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        0.48,
+        3.61,
+        -1.75,
+        1.76,
+        4.15
+      ],
+      "famRFU_points": [
+        0.13,
+        0.58,
+        -1.71,
+        0.73,
+        -0.05
+      ],
+      "roxRFU_points": [
+        -0.4,
+        3.92,
+        -2.02,
+        3.94,
+        2.11
+      ],
+      "cy5RFU_points": [
+        -2.14,
+        0.48,
+        -4.1,
+        -5.55,
+        -4.33
+      ]
+    },
+    {
+      "wellNum": "G05",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "1.55",
+      "roxCq": "NaN",
+      "cy5Cq": "1.61",
+      "hexRFU_endpoint": -0.92,
+      "famRFU_endpoint": 1.52,
+      "roxRFU_endpoint": -2.05,
+      "cy5RFU_endpoint": 1.93,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        -0.44,
+        1.57,
+        -1.82,
+        -1.48,
+        0.54
+      ],
+      "famRFU_points": [
+        -1.95,
+        3.18,
+        1.69,
+        2.6,
+        0.27
+      ],
+      "roxRFU_points": [
+        -1.4,
+        0.13,
+        -0.1,
+        -4.47,
+        -1.57
+      ],
+      "cy5RFU_points": [
+        -1.32,
+        2.82,
+        2.36,
+        1.84,
+        1.6
+      ]
+    },
+    {
+      "wellNum": "G06",
+      "wellContent": "Unkn",
+      "hexCq": "4.51",
+      "famCq": "1.72",
+      "roxCq": "4.39",
+      "cy5Cq": "3.86",
+      "hexRFU_endpoint": 1.18,
+      "famRFU_endpoint": 1.27,
+      "roxRFU_endpoint": 1.72,
+      "cy5RFU_endpoint": 0.38,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        1.43,
+        0.55,
+        0.42,
+        -0.85,
+        3.97
+      ],
+      "famRFU_points": [
+        -2.07,
+        1.99,
+        3.64,
+        -0.01,
+        0.17
+      ],
+      "roxRFU_points": [
+        0.31,
+        0.35,
+        2.23,
+        1.0,
+        1.93
+      ],
+      "cy5RFU_points": [
+        -0.87,
+        0.55,
+        0.82,
+        1.29,
+        -0.97
+      ]
+    },
+    {
+      "wellNum": "G07",
+      "wellContent": "Unkn",
+      "hexCq": "4.13",
+      "famCq": "3.32",
+      "roxCq": "2.44",
+      "cy5Cq": "2.72",
+      "hexRFU_endpoint": 4.17,
+      "famRFU_endpoint": 2.07,
+      "roxRFU_endpoint": 3.4,
+      "cy5RFU_endpoint": 0.89,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        1.34,
+        0.83,
+        5.4,
+        0.93,
+        6.18
+      ],
+      "famRFU_points": [
+        0.22,
+        2.94,
+        -0.58,
+        3.95,
+        2.84
+      ],
+      "roxRFU_points": [
+        1.37,
+        0.88,
+        1.97,
+        4.55,
+        3.68
+      ],
+      "cy5RFU_points": [
+        -0.12,
+        -0.75,
+        1.98,
+        1.19,
+        -0.49
+      ]
+    },
+    {
+      "wellNum": "G08",
+      "wellContent": "Unkn",
+      "hexCq": "3.89",
+      "famCq": "4.3",
+      "roxCq": "3.17",
+      "cy5Cq": "2.96",
+      "hexRFU_endpoint": -0.53,
+      "famRFU_endpoint": 0.67,
+      "roxRFU_endpoint": 2.62,
+      "cy5RFU_endpoint": 2.81,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        -0.32,
+        -0.02,
+        -1.61,
+        2.0,
+        -1.98
+      ],
+      "famRFU_points": [
+        1.34,
+        1.74,
+        -1.61,
+        -0.58,
+        4.2
+      ],
+      "roxRFU_points": [
+        0.34,
+        1.63,
+        0.38,
+        6.11,
+        1.38
+      ],
+      "cy5RFU_points": [
+        2.75,
+        -0.75,
+        1.31,
+        2.52,
+        4.59
+      ]
+    },
+    {
+      "wellNum": "G09",
+      "wellContent": "Unkn",
+      "hexCq": "1.36",
+      "famCq": "2.87",
+      "roxCq": "1.62",
+      "cy5Cq": "1.06",
+      "hexRFU_endpoint": 4.3,
+      "famRFU_endpoint": 0.35,
+      "roxRFU_endpoint": 2.36,
+      "cy5RFU_endpoint": 4.6,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        0.6,
+        3.42,
+        3.5,
+        2.9,
+        6.49
+      ],
+      "famRFU_points": [
+        -0.29,
+        -1.19,
+        1.17,
+        1.79,
+        -1.92
+      ],
+      "roxRFU_points": [
+        0.72,
+        1.76,
+        2.17,
+        0.25,
+        4.67
+      ],
+      "cy5RFU_points": [
+        1.1,
+        3.16,
+        3.55,
+        3.08,
+        7.16
+      ]
+    },
+    {
+      "wellNum": "G10",
+      "wellContent": "Unkn",
+      "hexCq": "3.82",
+      "famCq": "4.51",
+      "roxCq": "2.4",
+      "cy5Cq": "4.42",
+      "hexRFU_endpoint": 1.02,
+      "famRFU_endpoint": 0.38,
+      "roxRFU_endpoint": -1.0,
+      "cy5RFU_endpoint": 0.97,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        2.33,
+        -0.79,
+        -1.56,
+        2.3,
+        2.32
+      ],
+      "famRFU_points": [
+        1.37,
+        0.18,
+        -0.52,
+        -1.37,
+        3.03
+      ],
+      "roxRFU_points": [
+        -3.18,
+        0.31,
+        2.94,
+        -1.91,
+        -4.03
+      ],
+      "cy5RFU_points": [
+        1.2,
+        0.03,
+        0.13,
+        0.37,
+        2.42
+      ]
+    },
+    {
+      "wellNum": "G11",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "roxCq": "1.92",
+      "cy5Cq": "4.94",
+      "hexRFU_endpoint": -1.48,
+      "famRFU_endpoint": -2.03,
+      "roxRFU_endpoint": -0.67,
+      "cy5RFU_endpoint": -0.45,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        0.27,
+        0.3,
+        -2.2,
+        -2.74,
+        0.5
+      ],
+      "famRFU_points": [
+        -1.57,
+        -0.1,
+        -1.23,
+        -1.33,
+        -3.54
+      ],
+      "roxRFU_points": [
+        -1.95,
+        1.67,
+        1.45,
+        -3.15,
+        -0.3
+      ],
+      "cy5RFU_points": [
+        1.08,
+        -0.3,
+        -1.44,
+        -1.29,
+        1.39
+      ]
+    },
+    {
+      "wellNum": "G12",
+      "wellContent": "Unkn",
+      "hexCq": "1.54",
+      "famCq": "3.88",
+      "roxCq": "NaN",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": 4.01,
+      "famRFU_endpoint": -0.68,
+      "roxRFU_endpoint": -0.83,
+      "cy5RFU_endpoint": -3.94,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        0.44,
+        2.63,
+        4.69,
+        1.13,
+        6.21
+      ],
+      "famRFU_points": [
+        -1.66,
+        3.16,
+        -2.45,
+        1.33,
+        -0.92
+      ],
+      "roxRFU_points": [
+        -1.38,
+        1.1,
+        0.96,
+        -3.39,
+        -0.06
+      ],
+      "cy5RFU_points": [
+        -3.6,
+        1.03,
+        -2.11,
+        -3.67,
+        -6.05
+      ]
+    },
+    {
+      "wellNum": "H01",
+      "wellContent": "Unkn",
+      "hexCq": "2.72",
+      "famCq": "NaN",
+      "roxCq": "3.7",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": 4.23,
+      "famRFU_endpoint": -3.14,
+      "roxRFU_endpoint": 0.3,
+      "cy5RFU_endpoint": -0.9,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        3.38,
+        -0.88,
+        2.6,
+        4.17,
+        5.92
+      ],
+      "famRFU_points": [
+        -1.45,
+        -0.74,
+        -1.91,
+        -3.66,
+        -3.86
+      ],
+      "roxRFU_points": [
+        0.39,
+        -0.83,
+        -0.27,
+        2.08,
+        -0.91
+      ],
+      "cy5RFU_points": [
+        0.69,
+        0.1,
+        -2.58,
+        -0.46,
+        0.33
+      ]
+    },
+    {
+      "wellNum": "H02",
+      "wellContent": "Unkn",
+      "hexCq": "2.59",
+      "famCq": "1.84",
+      "roxCq": "4.85",
+      "cy5Cq": "1.45",
+      "hexRFU_endpoint": 3.49,
+      "famRFU_endpoint": 3.35,
+      "roxRFU_endpoint": -0.02,
+      "cy5RFU_endpoint": 2.87,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        1.86,
+        -0.01,
+        2.73,
+        3.56,
+        4.19
+      ],
+      "famRFU_points": [
+        0.32,
+        0.97,
+        3.82,
+        3.27,
+        2.95
+      ],
+      "roxRFU_points": [
+        0.92,
+        -0.68,
+        0.83,
+        -3.06,
+        2.17
+      ],
+      "cy5RFU_points": [
+        -0.68,
+        3.55,
+        1.35,
+        4.68,
+        2.59
+      ]
+    },
+    {
+      "wellNum": "H03",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "1.21",
+      "roxCq": "NaN",
+      "cy5Cq": "3.7",
+      "hexRFU_endpoint": -2.57,
+      "famRFU_endpoint": 6.83,
+      "roxRFU_endpoint": -2.05,
+      "cy5RFU_endpoint": 3.14,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        1.0,
+        -1.23,
+        -4.03,
+        -2.86,
+        -0.83
+      ],
+      "famRFU_points": [
+        -0.16,
+        4.77,
+        7.46,
+        4.87,
+        8.15
+      ],
+      "roxRFU_points": [
+        -0.61,
+        0.81,
+        -3.27,
+        -1.4,
+        -1.48
+      ],
+      "cy5RFU_points": [
+        1.47,
+        4.17,
+        -0.03,
+        1.77,
+        7.69
+      ]
+    },
+    {
+      "wellNum": "H04",
+      "wellContent": "Unkn",
+      "hexCq": "3.72",
+      "famCq": "4.28",
+      "roxCq": "NaN",
+      "cy5Cq": "3.76",
+      "hexRFU_endpoint": 0.17,
+      "famRFU_endpoint": 1.86,
+      "roxRFU_endpoint": -1.95,
+      "cy5RFU_endpoint": -0.08,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        -1.85,
+        3.19,
+        -1.22,
+        2.74,
+        -1.01
+      ],
+      "famRFU_points": [
+        2.45,
+        -2.55,
+        2.58,
+        0.02,
+        2.99
+      ],
+      "roxRFU_points": [
+        -0.82,
+        0.25,
+        -3.26,
+        0.49,
+        -3.09
+      ],
+      "cy5RFU_points": [
+        -0.08,
+        0.44,
+        -1.47,
+        2.08,
+        -0.86
+      ]
+    },
+    {
+      "wellNum": "H05",
+      "wellContent": "Unkn",
+      "hexCq": "4.96",
+      "famCq": "1.75",
+      "roxCq": "4.9",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": -0.46,
+      "famRFU_endpoint": -0.35,
+      "roxRFU_endpoint": 0.27,
+      "cy5RFU_endpoint": -2.26,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        0.85,
+        0.18,
+        -1.27,
+        -1.88,
+        1.76
+      ],
+      "famRFU_points": [
+        -0.43,
+        1.31,
+        -1.39,
+        0.33,
+        0.0
+      ],
+      "roxRFU_points": [
+        -0.39,
+        0.98,
+        1.47,
+        -2.43,
+        1.78
+      ],
+      "cy5RFU_points": [
+        -1.0,
+        0.12,
+        -2.78,
+        -1.02,
+        -2.98
+      ]
+    },
+    {
+      "wellNum": "H06",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "1.95",
+      "roxCq": "3.02",
+      "cy5Cq": "4.51",
+      "hexRFU_endpoint": -3.34,
+      "famRFU_endpoint": 1.91,
+      "roxRFU_endpoint": 2.29,
+      "cy5RFU_endpoint": -0.31,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        2.15,
+        -1.75,
+        -7.05,
+        -2.09,
+        -0.88
+      ],
+      "famRFU_points": [
+        -0.38,
+        0.94,
+        2.07,
+        2.92,
+        0.73
+      ],
+      "roxRFU_points": [
+        1.56,
+        -0.45,
+        1.33,
+        3.09,
+        2.46
+      ],
+      "cy5RFU_points": [
+        2.04,
+        -0.41,
+        -3.36,
+        0.72,
+        1.71
+      ]
+    },
+    {
+      "wellNum": "H07",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "2.65",
+      "roxCq": "NaN",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": -1.14,
+      "famRFU_endpoint": 0.94,
+      "roxRFU_endpoint": -1.4,
+      "cy5RFU_endpoint": -2.09,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        -0.67,
+        -0.56,
+        -0.75,
+        -0.34,
+        -2.33
+      ],
+      "famRFU_points": [
+        0.44,
+        -1.85,
+        2.36,
+        0.96,
+        -0.5
+      ],
+      "roxRFU_points": [
+        -1.27,
+        -0.19,
+        -0.51,
+        -0.87,
+        -2.81
+      ],
+      "cy5RFU_points": [
+        -0.09,
+        -0.72,
+        -2.15,
+        -2.63,
+        -1.5
+      ]
+    },
+    {
+      "wellNum": "H08",
+      "wellContent": "Unkn",
+      "hexCq": "1.64",
+      "famCq": "4.23",
+      "roxCq": "4.02",
+      "cy5Cq": "2.62",
+      "hexRFU_endpoint": 0.6,
+      "famRFU_endpoint": 2.64,
+      "roxRFU_endpoint": 2.83,
+      "cy5RFU_endpoint": 2.58,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        -2.32,
+        3.82,
+        1.4,
+        -0.57,
+        0.98
+      ],
+      "famRFU_points": [
+        1.14,
+        0.64,
+        3.41,
+        -0.34,
+        4.86
+      ],
+      "roxRFU_points": [
+        1.81,
+        0.59,
+        2.09,
+        1.3,
+        5.09
+      ],
+      "cy5RFU_points": [
+        0.52,
+        0.26,
+        1.82,
+        4.86,
+        1.06
+      ]
+    },
+    {
+      "wellNum": "H09",
+      "wellContent": "Unkn",
+      "hexCq": "1.45",
+      "famCq": "NaN",
+      "roxCq": "2.95",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": 3.46,
+      "famRFU_endpoint": -1.76,
+      "roxRFU_endpoint": -0.29,
+      "cy5RFU_endpoint": -0.21,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        -0.17,
+        3.79,
+        1.78,
+        4.39,
+        4.2
+      ],
+      "famRFU_points": [
+        -0.46,
+        0.2,
+        -2.43,
+        -1.31,
+        -1.55
+      ],
+      "roxRFU_points": [
+        0.09,
+        -1.97,
+        1.54,
+        -1.19,
+        -1.21
+      ],
+      "cy5RFU_points": [
+        0.06,
+        0.16,
+        -0.26,
+        -0.77,
+        0.39
+      ]
+    },
+    {
+      "wellNum": "H10",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "roxCq": "NaN",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": -0.56,
+      "famRFU_endpoint": -4.04,
+      "roxRFU_endpoint": -2.14,
+      "cy5RFU_endpoint": -1.72,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        -1.11,
+        0.93,
+        0.27,
+        -1.38,
+        -0.58
+      ],
+      "famRFU_points": [
+        0.52,
+        -3.97,
+        -2.97,
+        -4.97,
+        -4.17
+      ],
+      "roxRFU_points": [
+        -0.08,
+        -1.7,
+        -1.57,
+        -2.37,
+        -2.47
+      ],
+      "cy5RFU_points": [
+        0.07,
+        -0.08,
+        -3.71,
+        0.49,
+        -1.93
+      ]
+    },
+    {
+      "wellNum": "H11",
+      "wellContent": "Unkn",
+      "hexCq": "3.66",
+      "famCq": "NaN",
+      "roxCq": "NaN",
+      "cy5Cq": "2.97",
+      "hexRFU_endpoint": 1.33,
+      "famRFU_endpoint": -1.93,
+      "roxRFU_endpoint": -0.65,
+      "cy5RFU_endpoint": 0.68,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        -0.09,
+        1.43,
+        0.49,
+        2.19,
+        1.31
+      ],
+      "famRFU_points": [
+        -0.59,
+        0.28,
+        -1.95,
+        -2.72,
+        -1.13
+      ],
+      "roxRFU_points": [
+        -0.46,
+        0.74,
+        -1.3,
+        0.0,
+        -0.65
+      ],
+      "cy5RFU_points": [
+        1.33,
+        -3.08,
+        1.36,
+        1.56,
+        -0.88
+      ]
+    },
+    {
+      "wellNum": "H12",
+      "wellContent": "Unkn",
+      "hexCq": "2.58",
+      "famCq": "2.82",
+      "roxCq": "1.36",
+      "cy5Cq": "1.83",
+      "hexRFU_endpoint": 2.88,
+      "famRFU_endpoint": 0.93,
+      "roxRFU_endpoint": 4.36,
+      "cy5RFU_endpoint": -1.63,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        1.41,
+        -1.18,
+        3.61,
+        2.54,
+        2.5
+      ],
+      "famRFU_points": [
+        0.08,
+        -0.05,
+        1.07,
+        1.47,
+        0.26
+      ],
+      "roxRFU_points": [
+        -0.12,
+        3.98,
+        2.7,
+        5.72,
+        4.66
+      ],
+      "cy5RFU_points": [
+        -1.97,
+        1.88,
+        -2.12,
+        -0.14,
+        -2.62
+      ]
+    }
+  ]
+}
