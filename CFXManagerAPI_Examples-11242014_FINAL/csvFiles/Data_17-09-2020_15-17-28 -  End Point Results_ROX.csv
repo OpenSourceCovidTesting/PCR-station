@@ -1,0 +1,97 @@
+,Well,Fluor,Target,Content,Sample,End RFU,Call,Sample Type,CallType,Is Control
+,A01,ROX,N_covid,Neg Ctrl,,146.31394575132,,ControlNegative,Negative,True
+,A02,ROX,N_covid,Unkn,,23.7346905495975,,Unknown,NoCall,False
+,A03,ROX,N_covid,Unkn,,53.8800178824929,,Unknown,NoCall,False
+,A04,ROX,N_covid,Unkn,,64.3206086199332,,Unknown,NoCall,False
+,A05,ROX,N_covid,Unkn,,17.1162476638068,,Unknown,NoCall,False
+,A06,ROX,N_covid,Unkn,,17.9759764184184,,Unknown,NoCall,False
+,A07,ROX,N_covid,Unkn,,310.38416333771,(+) Positive,Unknown,Positive,False
+,A08,ROX,N_covid,Unkn,,161.396168513045,,Unknown,NoCall,False
+,A09,ROX,N_covid,Unkn,,11.3046222668008,,Unknown,NoCall,False
+,A10,ROX,N_covid,Pos Ctrl,,62.2135490134888,,ControlPositive,NoCall,False
+,A11,ROX,N_covid,Unkn,,129.626793896506,,Unknown,NoCall,False
+,A12,ROX,N_covid,Unkn,,135.19187998967,,Unknown,NoCall,False
+,B01,ROX,N_covid,Unkn,,58.1381837571413,,Unknown,NoCall,False
+,B02,ROX,N_covid,Unkn,,20.9690186067388,,Unknown,NoCall,False
+,B03,ROX,N_covid,Unkn,,141.365475340704,,Unknown,NoCall,False
+,B04,ROX,N_covid,Unkn,,63.8754917009766,,Unknown,NoCall,False
+,B05,ROX,N_covid,Unkn,,27.4756709602443,,Unknown,NoCall,False
+,B06,ROX,N_covid,Unkn,,165.064979761943,,Unknown,NoCall,False
+,B07,ROX,N_covid,Unkn,,20.1545292665565,,Unknown,NoCall,False
+,B08,ROX,N_covid,Unkn,,160.751239069443,,Unknown,NoCall,False
+,B09,ROX,N_covid,Unkn,,144.807186640101,,Unknown,NoCall,False
+,B10,ROX,N_covid,Unkn,,73.753854407859,,Unknown,NoCall,False
+,B11,ROX,N_covid,Unkn,,330.832935954286,(+) Positive,Unknown,Positive,False
+,B12,ROX,N_covid,Unkn,,167.98998862668,(+) Positive,Unknown,Positive,False
+,C01,ROX,N_covid,Unkn,,19.0822987198353,,Unknown,NoCall,False
+,C02,ROX,N_covid,Unkn,,355.781541333829,(+) Positive,Unknown,Positive,False
+,C03,ROX,N_covid,Unkn,,145.999192153864,,Unknown,NoCall,False
+,C04,ROX,N_covid,Unkn,,60.5907908893938,,Unknown,NoCall,False
+,C05,ROX,N_covid,Unkn,,30.1221232909351,,Unknown,NoCall,False
+,C06,ROX,N_covid,Unkn,,14.2246050388234,,Unknown,NoCall,False
+,C07,ROX,N_covid,Unkn,,61.4458267390723,,Unknown,NoCall,False
+,C08,ROX,N_covid,Unkn,,55.4144374039522,,Unknown,NoCall,False
+,C09,ROX,N_covid,Unkn,,19.1122796777601,,Unknown,NoCall,False
+,C10,ROX,N_covid,Unkn,,141.683738976969,,Unknown,NoCall,False
+,C11,ROX,N_covid,Unkn,,128.248982567076,,Unknown,NoCall,False
+,C12,ROX,N_covid,Unkn,,296.205491744704,(+) Positive,Unknown,Positive,False
+,D01,ROX,N_covid,Unkn,,324.905989370306,(+) Positive,Unknown,Positive,False
+,D02,ROX,N_covid,Unkn,,11.782655701594,,Unknown,NoCall,False
+,D03,ROX,N_covid,Unkn,,148.749084621873,,Unknown,NoCall,False
+,D04,ROX,N_covid,Unkn,,268.949271590049,(+) Positive,Unknown,Positive,False
+,D05,ROX,N_covid,Unkn,,62.0465483417287,,Unknown,NoCall,False
+,D06,ROX,N_covid,Unkn,,47.0685937797907,,Unknown,NoCall,False
+,D07,ROX,N_covid,Unkn,,275.409358982927,(+) Positive,Unknown,Positive,False
+,D08,ROX,N_covid,Unkn,,7.44403996567835,,Unknown,NoCall,False
+,D09,ROX,N_covid,Unkn,,164.535408791599,,Unknown,NoCall,False
+,D10,ROX,N_covid,Unkn,,176.188819419922,(+) Positive,Unknown,Positive,False
+,D11,ROX,N_covid,Unkn,,323.890580118953,(+) Positive,Unknown,Positive,False
+,D12,ROX,N_covid,Unkn,,144.291702739365,,Unknown,NoCall,False
+,E01,ROX,N_covid,Unkn,,16.6296958474659,,Unknown,NoCall,False
+,E02,ROX,N_covid,Unkn,,149.485958746471,,Unknown,NoCall,False
+,E03,ROX,N_covid,Unkn,,14.9173496621424,,Unknown,NoCall,False
+,E04,ROX,N_covid,Unkn,,7.8054511053806,,Unknown,NoCall,False
+,E05,ROX,N_covid,Unkn,,25.1263839751375,,Unknown,NoCall,False
+,E06,ROX,N_covid,Unkn,,60.5575653352251,,Unknown,NoCall,False
+,E07,ROX,N_covid,Unkn,,58.0693922400566,,Unknown,NoCall,False
+,E08,ROX,N_covid,Unkn,,140.414640113174,,Unknown,NoCall,False
+,E09,ROX,N_covid,Unkn,,49.2475246011132,,Unknown,NoCall,False
+,E10,ROX,N_covid,Unkn,,77.9570022372793,,Unknown,NoCall,False
+,E11,ROX,N_covid,Unkn,,64.73077975569,,Unknown,NoCall,False
+,E12,ROX,N_covid,Unkn,,16.998136419514,,Unknown,NoCall,False
+,F01,ROX,N_covid,Unkn,,58.1799932181855,,Unknown,NoCall,False
+,F02,ROX,N_covid,Unkn,,139.681817162761,,Unknown,NoCall,False
+,F03,ROX,N_covid,Unkn,,315.479575352857,(+) Positive,Unknown,Positive,False
+,F04,ROX,N_covid,Unkn,,287.178135829872,(+) Positive,Unknown,Positive,False
+,F05,ROX,N_covid,Unkn,,66.0006174853741,,Unknown,NoCall,False
+,F06,ROX,N_covid,Unkn,,350.614897480323,(+) Positive,Unknown,Positive,False
+,F07,ROX,N_covid,Unkn,,323.988349951519,(+) Positive,Unknown,Positive,False
+,F08,ROX,N_covid,Unkn,,64.9103188484161,,Unknown,NoCall,False
+,F09,ROX,N_covid,Unkn,,20.7188595677331,,Unknown,NoCall,False
+,F10,ROX,N_covid,Unkn,,69.8783289151997,,Unknown,NoCall,False
+,F11,ROX,N_covid,Unkn,,131.137287592569,,Unknown,NoCall,False
+,F12,ROX,N_covid,Unkn,,16.4601637540167,,Unknown,NoCall,False
+,G01,ROX,N_covid,Unkn,,49.8594365253723,,Unknown,NoCall,False
+,G02,ROX,N_covid,Unkn,,19.6575864121614,,Unknown,NoCall,False
+,G03,ROX,N_covid,Unkn,,271.596740932118,(+) Positive,Unknown,Positive,False
+,G04,ROX,N_covid,Unkn,,47.5369311714718,,Unknown,NoCall,False
+,G05,ROX,N_covid,Unkn,,359.495141880796,(+) Positive,Unknown,Positive,False
+,G06,ROX,N_covid,Unkn,,13.1497821573539,,Unknown,NoCall,False
+,G07,ROX,N_covid,Unkn,,18.554338093592,,Unknown,NoCall,False
+,G08,ROX,N_covid,Unkn,,180.139230061119,(+) Positive,Unknown,Positive,False
+,G09,ROX,N_covid,Unkn,,18.1356997569976,,Unknown,NoCall,False
+,G10,ROX,N_covid,Unkn,,277.328501559281,(+) Positive,Unknown,Positive,False
+,G11,ROX,N_covid,Unkn,,127.603247819175,,Unknown,NoCall,False
+,G12,ROX,N_covid,Unkn,,63.7861164464104,,Unknown,NoCall,False
+,H01,ROX,N_covid,Unkn,,17.243209696415,,Unknown,NoCall,False
+,H02,ROX,N_covid,Unkn,,177.279982269043,(+) Positive,Unknown,Positive,False
+,H03,ROX,N_covid,Unkn,,64.7542828602238,,Unknown,NoCall,False
+,H04,ROX,N_covid,Unkn,,18.8009890990621,,Unknown,NoCall,False
+,H05,ROX,N_covid,Unkn,,316.379220388825,(+) Positive,Unknown,Positive,False
+,H06,ROX,N_covid,Unkn,,272.736135830234,(+) Positive,Unknown,Positive,False
+,H07,ROX,N_covid,Unkn,,358.959485737998,(+) Positive,Unknown,Positive,False
+,H08,ROX,N_covid,Unkn,,70.271105324953,,Unknown,NoCall,False
+,H09,ROX,N_covid,Unkn,,157.77403718258,,Unknown,NoCall,False
+,H10,ROX,N_covid,Unkn,,72.0482462322107,,Unknown,NoCall,False
+,H11,ROX,N_covid,Unkn,,23.6456184592233,,Unknown,NoCall,False
+,H12,ROX,N_covid,Unkn,,59.6330988784572,,Unknown,NoCall,False

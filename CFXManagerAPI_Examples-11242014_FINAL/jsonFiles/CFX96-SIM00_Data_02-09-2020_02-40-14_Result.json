@@ -1,0 +1,3975 @@
+﻿{
+  "labName": "Calcinate Lab",
+  "username": "JohnSmith",
+  "plateBarcode": "default",
+  "pcrSerial": "CFX96-SIM00",
+  "runDate": "02-09-2020",
+  "runTime": "02-40-14",
+  "testKitName": "KHB SARS-CoV-2",
+  "fluorophores": [
+    "HEX",
+    "FAM",
+    "ROX",
+    "Cy5"
+  ],
+  "numCycles": 5,
+  "numWells": 96,
+  "pos_neg_control": {
+    "NEC_hexCq": "3.44",
+    "PCT_hexCq": "1.34",
+    "NEC_famCq": "NaN",
+    "PCT_famCq": "3.55",
+    "NEC_roxCq": "3.46",
+    "PCT_roxCq": "NaN",
+    "NEC_cy5Cq": "NaN",
+    "PCT_cy5Cq": "1.61",
+    "NEC_hexRFU_endpoint": 105.45,
+    "PCT_hexRFU_endpoint": 221.38,
+    "NEC_famRFU_endpoint": 44.37,
+    "PCT_famRFU_endpoint": 105.02,
+    "NEC_roxRFU_endpoint": 114.86,
+    "PCT_roxRFU_endpoint": 24.23,
+    "NEC_cy5RFU_endpoint": 52.25,
+    "PCT_cy5RFU_endpoint": 199.69,
+    "NECresult": "SUCCESS",
+    "PCTresult": "FAIL"
+  },
+  "Wells": [
+    {
+      "wellNum": "A01",
+      "wellContent": "Neg Ctrl",
+      "hexCq": "3.44",
+      "famCq": "NaN",
+      "roxCq": "3.46",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": 105.45,
+      "famRFU_endpoint": 44.37,
+      "roxRFU_endpoint": 114.86,
+      "cy5RFU_endpoint": 52.25,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        35.34,
+        50.19,
+        71.31,
+        101.3,
+        143.75
+      ],
+      "famRFU_points": [
+        14.91,
+        21.12,
+        29.97,
+        42.59,
+        60.55
+      ],
+      "roxRFU_points": [
+        38.47,
+        54.67,
+        77.69,
+        110.35,
+        156.54
+      ],
+      "cy5RFU_points": [
+        17.56,
+        24.87,
+        35.29,
+        50.15,
+        71.31
+      ]
+    },
+    {
+      "wellNum": "A02",
+      "wellContent": "Unkn",
+      "hexCq": "1.39",
+      "famCq": "3.35",
+      "roxCq": "NaN",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": 217.26,
+      "famRFU_endpoint": 112.52,
+      "roxRFU_endpoint": 28.38,
+      "cy5RFU_endpoint": 46.51,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        72.45,
+        103.42,
+        147.24,
+        209.0,
+        295.54
+      ],
+      "famRFU_points": [
+        37.7,
+        53.55,
+        76.09,
+        108.09,
+        153.37
+      ],
+      "roxRFU_points": [
+        9.55,
+        13.5,
+        19.15,
+        27.22,
+        38.76
+      ],
+      "cy5RFU_points": [
+        15.63,
+        22.13,
+        31.41,
+        44.64,
+        63.48
+      ]
+    },
+    {
+      "wellNum": "A03",
+      "wellContent": "Unkn",
+      "hexCq": "2.1",
+      "famCq": "NaN",
+      "roxCq": "4.29",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": 170.35,
+      "famRFU_endpoint": 36.36,
+      "roxRFU_endpoint": 86.12,
+      "cy5RFU_endpoint": 50.37,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        56.93,
+        81.08,
+        115.33,
+        163.77,
+        231.94
+      ],
+      "famRFU_points": [
+        12.22,
+        17.3,
+        24.56,
+        34.9,
+        49.63
+      ],
+      "roxRFU_points": [
+        28.89,
+        40.99,
+        58.22,
+        82.71,
+        117.44
+      ],
+      "cy5RFU_points": [
+        16.92,
+        23.97,
+        34.02,
+        48.35,
+        68.73
+      ]
+    },
+    {
+      "wellNum": "A04",
+      "wellContent": "Unkn",
+      "hexCq": "3.73",
+      "famCq": "NaN",
+      "roxCq": "3.81",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": 95.5,
+      "famRFU_endpoint": 46.59,
+      "roxRFU_endpoint": 102.38,
+      "cy5RFU_endpoint": 53.75,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        32.02,
+        45.45,
+        64.57,
+        91.72,
+        130.2
+      ],
+      "famRFU_points": [
+        15.65,
+        22.17,
+        31.47,
+        44.72,
+        63.58
+      ],
+      "roxRFU_points": [
+        34.31,
+        48.72,
+        69.23,
+        98.34,
+        139.56
+      ],
+      "cy5RFU_points": [
+        18.05,
+        25.58,
+        36.31,
+        51.6,
+        73.33
+      ]
+    },
+    {
+      "wellNum": "A05",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "3.46",
+      "roxCq": "3.34",
+      "cy5Cq": "3.48",
+      "hexRFU_endpoint": 32.32,
+      "famRFU_endpoint": 108.22,
+      "roxRFU_endpoint": 120.12,
+      "cy5RFU_endpoint": 103.46,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        10.87,
+        15.38,
+        21.82,
+        31.01,
+        44.12
+      ],
+      "famRFU_points": [
+        36.27,
+        51.5,
+        73.18,
+        103.95,
+        147.52
+      ],
+      "roxRFU_points": [
+        40.23,
+        57.17,
+        81.26,
+        115.41,
+        163.69
+      ],
+      "cy5RFU_points": [
+        34.7,
+        49.24,
+        69.94,
+        99.36,
+        141.07
+      ]
+    },
+    {
+      "wellNum": "A06",
+      "wellContent": "Unkn",
+      "hexCq": "2.99",
+      "famCq": "NaN",
+      "roxCq": "NaN",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": 125.32,
+      "famRFU_endpoint": 40.09,
+      "roxRFU_endpoint": 33.97,
+      "cy5RFU_endpoint": 46.09,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        41.96,
+        59.64,
+        84.77,
+        120.41,
+        170.77
+      ],
+      "famRFU_points": [
+        13.48,
+        19.08,
+        27.08,
+        38.48,
+        54.72
+      ],
+      "roxRFU_points": [
+        11.42,
+        16.16,
+        22.94,
+        32.6,
+        46.37
+      ],
+      "cy5RFU_points": [
+        15.49,
+        21.93,
+        31.13,
+        44.24,
+        62.9
+      ]
+    },
+    {
+      "wellNum": "A07",
+      "wellContent": "Unkn",
+      "hexCq": "4.12",
+      "famCq": "2.02",
+      "roxCq": "1.53",
+      "cy5Cq": "4.92",
+      "hexRFU_endpoint": 83.65,
+      "famRFU_endpoint": 182.11,
+      "roxRFU_endpoint": 227.17,
+      "cy5RFU_endpoint": 63.09,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        28.07,
+        39.81,
+        56.54,
+        80.33,
+        114.09
+      ],
+      "famRFU_points": [
+        60.84,
+        86.68,
+        123.31,
+        175.09,
+        247.92
+      ],
+      "roxRFU_points": [
+        75.73,
+        108.13,
+        153.98,
+        218.55,
+        308.97
+      ],
+      "cy5RFU_points": [
+        21.13,
+        30.03,
+        42.67,
+        60.61,
+        85.98
+      ]
+    },
+    {
+      "wellNum": "A08",
+      "wellContent": "Unkn",
+      "hexCq": "3.6",
+      "famCq": "NaN",
+      "roxCq": "NaN",
+      "cy5Cq": "3.41",
+      "hexRFU_endpoint": 99.59,
+      "famRFU_endpoint": 40.63,
+      "roxRFU_endpoint": 37.34,
+      "cy5RFU_endpoint": 106.06,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        33.39,
+        47.4,
+        67.34,
+        95.66,
+        135.78
+      ],
+      "famRFU_points": [
+        13.66,
+        19.34,
+        27.44,
+        39.0,
+        55.46
+      ],
+      "roxRFU_points": [
+        12.55,
+        17.77,
+        25.22,
+        35.84,
+        50.97
+      ],
+      "cy5RFU_points": [
+        35.56,
+        50.48,
+        71.71,
+        101.87,
+        144.61
+      ]
+    },
+    {
+      "wellNum": "A09",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "3.16",
+      "roxCq": "NaN",
+      "cy5Cq": "1.25",
+      "hexRFU_endpoint": 35.79,
+      "famRFU_endpoint": 121.05,
+      "roxRFU_endpoint": 31.88,
+      "cy5RFU_endpoint": 227.54,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        12.04,
+        17.04,
+        24.17,
+        34.35,
+        48.86
+      ],
+      "famRFU_points": [
+        40.55,
+        57.62,
+        81.88,
+        116.3,
+        164.98
+      ],
+      "roxRFU_points": [
+        10.73,
+        15.17,
+        21.51,
+        30.58,
+        43.55
+      ],
+      "cy5RFU_points": [
+        75.95,
+        108.3,
+        154.14,
+        218.83,
+        309.64
+      ]
+    },
+    {
+      "wellNum": "A10",
+      "wellContent": "Pos Ctrl",
+      "hexCq": "1.34",
+      "famCq": "3.55",
+      "roxCq": "NaN",
+      "cy5Cq": "1.61",
+      "hexRFU_endpoint": 221.38,
+      "famRFU_endpoint": 105.02,
+      "roxRFU_endpoint": 24.23,
+      "cy5RFU_endpoint": 199.69,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        73.82,
+        105.38,
+        150.04,
+        212.98,
+        301.13
+      ],
+      "famRFU_points": [
+        35.2,
+        49.99,
+        71.01,
+        100.88,
+        143.18
+      ],
+      "roxRFU_points": [
+        8.18,
+        11.53,
+        16.34,
+        23.23,
+        33.13
+      ],
+      "cy5RFU_points": [
+        66.69,
+        95.05,
+        135.24,
+        192.02,
+        271.81
+      ]
+    },
+    {
+      "wellNum": "A11",
+      "wellContent": "Unkn",
+      "hexCq": "3.46",
+      "famCq": "2.08",
+      "roxCq": "3.39",
+      "cy5Cq": "3.71",
+      "hexRFU_endpoint": 104.57,
+      "famRFU_endpoint": 177.33,
+      "roxRFU_endpoint": 117.7,
+      "cy5RFU_endpoint": 95.81,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        35.05,
+        49.77,
+        70.71,
+        100.45,
+        142.55
+      ],
+      "famRFU_points": [
+        59.26,
+        84.4,
+        120.07,
+        170.48,
+        241.43
+      ],
+      "roxRFU_points": [
+        39.42,
+        56.02,
+        79.62,
+        113.09,
+        160.4
+      ],
+      "cy5RFU_points": [
+        32.14,
+        45.6,
+        64.77,
+        92.01,
+        130.66
+      ]
+    },
+    {
+      "wellNum": "A12",
+      "wellContent": "Unkn",
+      "hexCq": "2.18",
+      "famCq": "3.38",
+      "roxCq": "NaN",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": 164.96,
+      "famRFU_endpoint": 111.25,
+      "roxRFU_endpoint": 40.31,
+      "cy5RFU_endpoint": 49.98,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        55.14,
+        78.52,
+        111.68,
+        158.58,
+        224.61
+      ],
+      "famRFU_points": [
+        37.28,
+        52.95,
+        75.23,
+        106.87,
+        151.65
+      ],
+      "roxRFU_points": [
+        13.55,
+        19.18,
+        27.22,
+        38.68,
+        55.02
+      ],
+      "cy5RFU_points": [
+        16.79,
+        23.79,
+        33.77,
+        47.98,
+        68.2
+      ]
+    },
+    {
+      "wellNum": "B01",
+      "wellContent": "Unkn",
+      "hexCq": "4.07",
+      "famCq": "3.11",
+      "roxCq": "2.42",
+      "cy5Cq": "3.01",
+      "hexRFU_endpoint": 85.46,
+      "famRFU_endpoint": 123.13,
+      "roxRFU_endpoint": 165.61,
+      "cy5RFU_endpoint": 123.47,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        28.66,
+        40.67,
+        57.77,
+        82.07,
+        116.53
+      ],
+      "famRFU_points": [
+        41.24,
+        58.6,
+        83.28,
+        118.3,
+        167.8
+      ],
+      "roxRFU_points": [
+        55.35,
+        78.83,
+        112.13,
+        159.22,
+        225.49
+      ],
+      "cy5RFU_points": [
+        41.37,
+        58.77,
+        83.51,
+        118.62,
+        168.29
+      ]
+    },
+    {
+      "wellNum": "B02",
+      "wellContent": "Unkn",
+      "hexCq": "4.04",
+      "famCq": "3.18",
+      "roxCq": "2.14",
+      "cy5Cq": "4.84",
+      "hexRFU_endpoint": 86.37,
+      "famRFU_endpoint": 119.87,
+      "roxRFU_endpoint": 184.31,
+      "cy5RFU_endpoint": 64.74,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        28.97,
+        41.11,
+        58.39,
+        82.95,
+        117.78
+      ],
+      "famRFU_points": [
+        40.16,
+        57.05,
+        81.08,
+        115.16,
+        163.37
+      ],
+      "roxRFU_points": [
+        61.56,
+        87.73,
+        124.83,
+        177.23,
+        250.88
+      ],
+      "cy5RFU_points": [
+        21.71,
+        30.81,
+        43.76,
+        62.17,
+        88.28
+      ]
+    },
+    {
+      "wellNum": "B03",
+      "wellContent": "Unkn",
+      "hexCq": "2.07",
+      "famCq": "1.73",
+      "roxCq": "NaN",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": 172.11,
+      "famRFU_endpoint": 199.83,
+      "roxRFU_endpoint": 31.16,
+      "cy5RFU_endpoint": 48.54,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        57.51,
+        81.92,
+        116.54,
+        165.48,
+        234.32
+      ],
+      "famRFU_points": [
+        66.71,
+        95.12,
+        135.36,
+        192.17,
+        271.96
+      ],
+      "roxRFU_points": [
+        10.48,
+        14.83,
+        21.04,
+        29.9,
+        42.54
+      ],
+      "cy5RFU_points": [
+        16.31,
+        23.1,
+        32.79,
+        46.6,
+        66.23
+      ]
+    },
+    {
+      "wellNum": "B04",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "roxCq": "3.97",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": 32.76,
+      "famRFU_endpoint": 42.9,
+      "roxRFU_endpoint": 97.33,
+      "cy5RFU_endpoint": 50.82,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        11.01,
+        15.59,
+        22.12,
+        31.44,
+        44.72
+      ],
+      "famRFU_points": [
+        14.42,
+        20.42,
+        28.97,
+        41.18,
+        58.55
+      ],
+      "roxRFU_points": [
+        32.63,
+        46.32,
+        65.81,
+        93.49,
+        132.7
+      ],
+      "cy5RFU_points": [
+        17.07,
+        24.19,
+        34.33,
+        48.79,
+        69.34
+      ]
+    },
+    {
+      "wellNum": "B05",
+      "wellContent": "Unkn",
+      "hexCq": "2.05",
+      "famCq": "3.95",
+      "roxCq": "1.72",
+      "cy5Cq": "1.5",
+      "hexRFU_endpoint": 174.04,
+      "famRFU_endpoint": 92.19,
+      "roxRFU_endpoint": 213.08,
+      "cy5RFU_endpoint": 207.61,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        58.15,
+        82.84,
+        117.85,
+        167.33,
+        236.94
+      ],
+      "famRFU_points": [
+        30.92,
+        43.88,
+        62.32,
+        88.54,
+        125.71
+      ],
+      "roxRFU_points": [
+        71.05,
+        101.42,
+        144.41,
+        204.98,
+        289.84
+      ],
+      "cy5RFU_points": [
+        69.31,
+        98.82,
+        140.63,
+        199.66,
+        282.55
+      ]
+    },
+    {
+      "wellNum": "B06",
+      "wellContent": "Unkn",
+      "hexCq": "3.87",
+      "famCq": "1.79",
+      "roxCq": "3.69",
+      "cy5Cq": "1.19",
+      "hexRFU_endpoint": 91.47,
+      "famRFU_endpoint": 195.79,
+      "roxRFU_endpoint": 106.44,
+      "cy5RFU_endpoint": 233.24,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        30.68,
+        43.53,
+        61.83,
+        87.85,
+        124.73
+      ],
+      "famRFU_points": [
+        65.38,
+        93.19,
+        132.61,
+        188.27,
+        266.48
+      ],
+      "roxRFU_points": [
+        35.67,
+        50.66,
+        71.98,
+        102.24,
+        145.1
+      ],
+      "cy5RFU_points": [
+        77.77,
+        111.02,
+        158.07,
+        224.37,
+        317.27
+      ]
+    },
+    {
+      "wellNum": "B07",
+      "wellContent": "Unkn",
+      "hexCq": "3.92",
+      "famCq": "3.93",
+      "roxCq": "4.2",
+      "cy5Cq": "1.69",
+      "hexRFU_endpoint": 90.0,
+      "famRFU_endpoint": 92.7,
+      "roxRFU_endpoint": 89.15,
+      "cy5RFU_endpoint": 194.27,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        30.18,
+        42.84,
+        60.85,
+        86.44,
+        122.72
+      ],
+      "famRFU_points": [
+        31.09,
+        44.12,
+        62.67,
+        89.03,
+        126.41
+      ],
+      "roxRFU_points": [
+        29.9,
+        42.43,
+        60.27,
+        85.62,
+        121.57
+      ],
+      "cy5RFU_points": [
+        64.89,
+        92.47,
+        131.57,
+        186.8,
+        264.45
+      ]
+    },
+    {
+      "wellNum": "B08",
+      "wellContent": "Unkn",
+      "hexCq": "1.64",
+      "famCq": "3.32",
+      "roxCq": "NaN",
+      "cy5Cq": "4.84",
+      "hexRFU_endpoint": 198.79,
+      "famRFU_endpoint": 113.77,
+      "roxRFU_endpoint": 41.18,
+      "cy5RFU_endpoint": 64.71,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        66.35,
+        94.62,
+        134.67,
+        191.19,
+        270.51
+      ],
+      "famRFU_points": [
+        38.12,
+        54.15,
+        76.94,
+        109.3,
+        155.08
+      ],
+      "roxRFU_points": [
+        13.85,
+        19.6,
+        27.81,
+        39.52,
+        56.22
+      ],
+      "cy5RFU_points": [
+        21.72,
+        30.8,
+        43.73,
+        62.13,
+        88.28
+      ]
+    },
+    {
+      "wellNum": "B09",
+      "wellContent": "Unkn",
+      "hexCq": "1.78",
+      "famCq": "1.82",
+      "roxCq": "NaN",
+      "cy5Cq": "4.79",
+      "hexRFU_endpoint": 190.19,
+      "famRFU_endpoint": 194.0,
+      "roxRFU_endpoint": 33.4,
+      "cy5RFU_endpoint": 65.83,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        63.5,
+        90.53,
+        128.83,
+        182.9,
+        258.84
+      ],
+      "famRFU_points": [
+        64.78,
+        92.34,
+        131.39,
+        186.55,
+        264.05
+      ],
+      "roxRFU_points": [
+        11.24,
+        15.9,
+        22.55,
+        32.05,
+        45.61
+      ],
+      "cy5RFU_points": [
+        22.05,
+        31.33,
+        44.53,
+        63.25,
+        89.72
+      ]
+    },
+    {
+      "wellNum": "B10",
+      "wellContent": "Unkn",
+      "hexCq": "3.84",
+      "famCq": "NaN",
+      "roxCq": "NaN",
+      "cy5Cq": "3.09",
+      "hexRFU_endpoint": 92.45,
+      "famRFU_endpoint": 36.55,
+      "roxRFU_endpoint": 31.94,
+      "cy5RFU_endpoint": 119.95,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        31.0,
+        44.0,
+        62.5,
+        88.79,
+        126.05
+      ],
+      "famRFU_points": [
+        12.29,
+        17.39,
+        24.68,
+        35.08,
+        49.88
+      ],
+      "roxRFU_points": [
+        10.74,
+        15.2,
+        21.57,
+        30.65,
+        43.61
+      ],
+      "cy5RFU_points": [
+        40.2,
+        57.09,
+        81.12,
+        115.23,
+        163.51
+      ]
+    },
+    {
+      "wellNum": "B11",
+      "wellContent": "Unkn",
+      "hexCq": "3.96",
+      "famCq": "3.15",
+      "roxCq": "3.85",
+      "cy5Cq": "3.39",
+      "hexRFU_endpoint": 89.04,
+      "famRFU_endpoint": 121.23,
+      "roxRFU_endpoint": 100.93,
+      "cy5RFU_endpoint": 106.94,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        29.86,
+        42.38,
+        60.19,
+        85.51,
+        121.41
+      ],
+      "famRFU_points": [
+        40.61,
+        57.7,
+        82.0,
+        116.47,
+        165.22
+      ],
+      "roxRFU_points": [
+        33.83,
+        48.03,
+        68.25,
+        96.95,
+        137.58
+      ],
+      "cy5RFU_points": [
+        35.86,
+        50.9,
+        72.3,
+        102.71,
+        145.81
+      ]
+    },
+    {
+      "wellNum": "B12",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "1.96",
+      "roxCq": "2.17",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": 25.49,
+      "famRFU_endpoint": 185.54,
+      "roxRFU_endpoint": 181.53,
+      "cy5RFU_endpoint": 50.2,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        8.59,
+        12.13,
+        17.2,
+        24.45,
+        34.83
+      ],
+      "famRFU_points": [
+        61.98,
+        88.32,
+        125.65,
+        178.4,
+        252.58
+      ],
+      "roxRFU_points": [
+        60.64,
+        86.4,
+        122.93,
+        174.54,
+        247.12
+      ],
+      "cy5RFU_points": [
+        16.86,
+        23.89,
+        33.91,
+        48.19,
+        68.49
+      ]
+    },
+    {
+      "wellNum": "C01",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "3.11",
+      "roxCq": "1.85",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": 33.64,
+      "famRFU_endpoint": 123.29,
+      "roxRFU_endpoint": 204.34,
+      "cy5RFU_endpoint": 44.61,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        11.32,
+        16.01,
+        22.71,
+        32.28,
+        45.93
+      ],
+      "famRFU_points": [
+        41.3,
+        58.68,
+        83.4,
+        118.45,
+        168.03
+      ],
+      "roxRFU_points": [
+        68.19,
+        97.26,
+        138.44,
+        196.53,
+        278.05
+      ],
+      "cy5RFU_points": [
+        15.0,
+        21.23,
+        30.13,
+        42.81,
+        60.9
+      ]
+    },
+    {
+      "wellNum": "C02",
+      "wellContent": "Unkn",
+      "hexCq": "3.92",
+      "famCq": "3.97",
+      "roxCq": "2.14",
+      "cy5Cq": "3.05",
+      "hexRFU_endpoint": 90.17,
+      "famRFU_endpoint": 91.67,
+      "roxRFU_endpoint": 183.68,
+      "cy5RFU_endpoint": 121.6,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        30.24,
+        42.92,
+        60.96,
+        86.61,
+        122.95
+      ],
+      "famRFU_points": [
+        30.75,
+        43.63,
+        61.97,
+        88.04,
+        125.01
+      ],
+      "roxRFU_points": [
+        61.34,
+        87.43,
+        124.41,
+        176.63,
+        250.01
+      ],
+      "cy5RFU_points": [
+        40.73,
+        57.87,
+        82.24,
+        116.82,
+        165.73
+      ]
+    },
+    {
+      "wellNum": "C03",
+      "wellContent": "Unkn",
+      "hexCq": "1.87",
+      "famCq": "NaN",
+      "roxCq": "NaN",
+      "cy5Cq": "1.57",
+      "hexRFU_endpoint": 184.83,
+      "famRFU_endpoint": 35.45,
+      "roxRFU_endpoint": 30.17,
+      "cy5RFU_endpoint": 202.24,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        61.74,
+        87.98,
+        125.17,
+        177.72,
+        251.6
+      ],
+      "famRFU_points": [
+        11.92,
+        16.87,
+        23.94,
+        34.02,
+        48.38
+      ],
+      "roxRFU_points": [
+        10.17,
+        14.36,
+        20.35,
+        28.94,
+        41.22
+      ],
+      "cy5RFU_points": [
+        67.54,
+        96.26,
+        136.98,
+        194.48,
+        275.27
+      ]
+    },
+    {
+      "wellNum": "C04",
+      "wellContent": "Unkn",
+      "hexCq": "1.53",
+      "famCq": "3.86",
+      "roxCq": "NaN",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": 206.13,
+      "famRFU_endpoint": 94.78,
+      "roxRFU_endpoint": 41.15,
+      "cy5RFU_endpoint": 54.12,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        68.78,
+        98.12,
+        139.66,
+        198.26,
+        280.46
+      ],
+      "famRFU_points": [
+        31.79,
+        45.11,
+        64.08,
+        91.03,
+        129.24
+      ],
+      "roxRFU_points": [
+        13.84,
+        19.58,
+        27.78,
+        39.49,
+        56.17
+      ],
+      "cy5RFU_points": [
+        18.18,
+        25.75,
+        36.56,
+        51.95,
+        73.85
+      ]
+    },
+    {
+      "wellNum": "C05",
+      "wellContent": "Unkn",
+      "hexCq": "3.08",
+      "famCq": "NaN",
+      "roxCq": "2.1",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": 120.75,
+      "famRFU_endpoint": 44.87,
+      "roxRFU_endpoint": 186.81,
+      "cy5RFU_endpoint": 42.45,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        40.44,
+        57.47,
+        81.68,
+        116.01,
+        164.55
+      ],
+      "famRFU_points": [
+        15.08,
+        21.36,
+        30.31,
+        43.07,
+        61.24
+      ],
+      "roxRFU_points": [
+        62.38,
+        88.92,
+        126.53,
+        179.64,
+        254.27
+      ],
+      "cy5RFU_points": [
+        14.27,
+        20.2,
+        28.67,
+        40.74,
+        57.95
+      ]
+    },
+    {
+      "wellNum": "C06",
+      "wellContent": "Unkn",
+      "hexCq": "1.27",
+      "famCq": "NaN",
+      "roxCq": "3.76",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": 227.46,
+      "famRFU_endpoint": 45.84,
+      "roxRFU_endpoint": 103.96,
+      "cy5RFU_endpoint": 52.97,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        75.83,
+        108.27,
+        154.17,
+        218.83,
+        309.37
+      ],
+      "famRFU_points": [
+        15.4,
+        21.82,
+        30.96,
+        44.0,
+        62.56
+      ],
+      "roxRFU_points": [
+        34.84,
+        49.48,
+        70.29,
+        99.86,
+        141.72
+      ],
+      "cy5RFU_points": [
+        17.8,
+        25.21,
+        35.78,
+        50.85,
+        72.29
+      ]
+    },
+    {
+      "wellNum": "C07",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "3.05",
+      "roxCq": "1.61",
+      "cy5Cq": "2.99",
+      "hexRFU_endpoint": 30.4,
+      "famRFU_endpoint": 126.44,
+      "roxRFU_endpoint": 220.48,
+      "cy5RFU_endpoint": 124.64,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        10.23,
+        14.47,
+        20.52,
+        29.17,
+        41.51
+      ],
+      "famRFU_points": [
+        42.34,
+        60.18,
+        85.53,
+        121.48,
+        172.3
+      ],
+      "roxRFU_points": [
+        73.51,
+        104.95,
+        149.43,
+        212.1,
+        299.9
+      ],
+      "cy5RFU_points": [
+        41.75,
+        59.32,
+        84.3,
+        119.74,
+        169.88
+      ]
+    },
+    {
+      "wellNum": "C08",
+      "wellContent": "Unkn",
+      "hexCq": "3.29",
+      "famCq": "1.79",
+      "roxCq": "1.65",
+      "cy5Cq": "3.2",
+      "hexRFU_endpoint": 111.38,
+      "famRFU_endpoint": 195.95,
+      "roxRFU_endpoint": 218.06,
+      "cy5RFU_endpoint": 114.62,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        37.32,
+        53.01,
+        75.33,
+        107.0,
+        151.82
+      ],
+      "famRFU_points": [
+        65.43,
+        93.27,
+        132.72,
+        188.44,
+        266.7
+      ],
+      "roxRFU_points": [
+        72.71,
+        103.8,
+        147.79,
+        209.78,
+        296.61
+      ],
+      "cy5RFU_points": [
+        38.42,
+        54.55,
+        77.5,
+        110.09,
+        156.26
+      ]
+    },
+    {
+      "wellNum": "C09",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "3.04",
+      "roxCq": "2.13",
+      "cy5Cq": "1.77",
+      "hexRFU_endpoint": 39.64,
+      "famRFU_endpoint": 127.18,
+      "roxRFU_endpoint": 185.05,
+      "cy5RFU_endpoint": 189.42,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        13.33,
+        18.86,
+        26.76,
+        38.04,
+        54.11
+      ],
+      "famRFU_points": [
+        42.59,
+        60.53,
+        86.03,
+        122.19,
+        173.31
+      ],
+      "roxRFU_points": [
+        61.79,
+        88.08,
+        125.34,
+        177.95,
+        251.87
+      ],
+      "cy5RFU_points": [
+        63.32,
+        90.16,
+        128.24,
+        182.1,
+        257.93
+      ]
+    },
+    {
+      "wellNum": "C10",
+      "wellContent": "Unkn",
+      "hexCq": "1.69",
+      "famCq": "1.3",
+      "roxCq": "2.42",
+      "cy5Cq": "2.87",
+      "hexRFU_endpoint": 195.7,
+      "famRFU_endpoint": 231.65,
+      "roxRFU_endpoint": 165.45,
+      "cy5RFU_endpoint": 129.25,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        65.32,
+        93.15,
+        132.58,
+        188.22,
+        266.31
+      ],
+      "famRFU_points": [
+        77.23,
+        110.27,
+        157.01,
+        222.86,
+        315.09
+      ],
+      "roxRFU_points": [
+        55.29,
+        78.75,
+        112.02,
+        159.06,
+        225.27
+      ],
+      "cy5RFU_points": [
+        43.29,
+        61.52,
+        87.42,
+        124.17,
+        176.15
+      ]
+    },
+    {
+      "wellNum": "C11",
+      "wellContent": "Unkn",
+      "hexCq": "3.64",
+      "famCq": "NaN",
+      "roxCq": "NaN",
+      "cy5Cq": "4.51",
+      "hexRFU_endpoint": 98.54,
+      "famRFU_endpoint": 44.28,
+      "roxRFU_endpoint": 35.23,
+      "cy5RFU_endpoint": 71.97,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        33.03,
+        46.9,
+        66.63,
+        94.65,
+        134.34
+      ],
+      "famRFU_points": [
+        14.88,
+        21.07,
+        29.91,
+        42.5,
+        60.43
+      ],
+      "roxRFU_points": [
+        11.85,
+        16.77,
+        23.79,
+        33.81,
+        48.1
+      ],
+      "cy5RFU_points": [
+        24.12,
+        34.26,
+        48.67,
+        69.14,
+        98.11
+      ]
+    },
+    {
+      "wellNum": "C12",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "roxCq": "2.06",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": 45.32,
+      "famRFU_endpoint": 47.01,
+      "roxRFU_endpoint": 190.27,
+      "cy5RFU_endpoint": 48.55,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        15.23,
+        21.57,
+        30.61,
+        43.5,
+        61.86
+      ],
+      "famRFU_points": [
+        15.8,
+        22.37,
+        31.75,
+        45.12,
+        64.16
+      ],
+      "roxRFU_points": [
+        63.53,
+        90.57,
+        128.87,
+        182.97,
+        258.97
+      ],
+      "cy5RFU_points": [
+        16.31,
+        23.1,
+        32.79,
+        46.6,
+        66.25
+      ]
+    },
+    {
+      "wellNum": "D01",
+      "wellContent": "Unkn",
+      "hexCq": "1.82",
+      "famCq": "1.27",
+      "roxCq": "NaN",
+      "cy5Cq": "4.87",
+      "hexRFU_endpoint": 187.6,
+      "famRFU_endpoint": 234.75,
+      "roxRFU_endpoint": 39.86,
+      "cy5RFU_endpoint": 64.06,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        62.64,
+        89.29,
+        127.07,
+        180.4,
+        255.33
+      ],
+      "famRFU_points": [
+        78.25,
+        111.74,
+        159.12,
+        225.85,
+        319.28
+      ],
+      "roxRFU_points": [
+        13.4,
+        18.97,
+        26.91,
+        38.25,
+        54.41
+      ],
+      "cy5RFU_points": [
+        21.49,
+        30.49,
+        43.31,
+        61.52,
+        87.36
+      ]
+    },
+    {
+      "wellNum": "D02",
+      "wellContent": "Unkn",
+      "hexCq": "1.73",
+      "famCq": "3.24",
+      "roxCq": "1.75",
+      "cy5Cq": "3.29",
+      "hexRFU_endpoint": 192.86,
+      "famRFU_endpoint": 117.06,
+      "roxRFU_endpoint": 210.76,
+      "cy5RFU_endpoint": 110.74,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        64.38,
+        91.8,
+        130.64,
+        185.47,
+        262.46
+      ],
+      "famRFU_points": [
+        39.22,
+        55.72,
+        79.17,
+        112.46,
+        159.56
+      ],
+      "roxRFU_points": [
+        70.29,
+        100.32,
+        142.82,
+        202.74,
+        286.72
+      ],
+      "cy5RFU_points": [
+        37.13,
+        52.7,
+        74.87,
+        106.36,
+        150.98
+      ]
+    },
+    {
+      "wellNum": "D03",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "3.07",
+      "roxCq": "3.57",
+      "cy5Cq": "4.88",
+      "hexRFU_endpoint": 42.94,
+      "famRFU_endpoint": 125.23,
+      "roxRFU_endpoint": 110.64,
+      "cy5RFU_endpoint": 63.9,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        14.43,
+        20.43,
+        29.0,
+        41.21,
+        58.6
+      ],
+      "famRFU_points": [
+        41.94,
+        59.6,
+        84.71,
+        120.32,
+        170.66
+      ],
+      "roxRFU_points": [
+        37.07,
+        52.66,
+        74.82,
+        106.29,
+        150.81
+      ],
+      "cy5RFU_points": [
+        21.4,
+        30.41,
+        43.22,
+        61.39,
+        87.08
+      ]
+    },
+    {
+      "wellNum": "D04",
+      "wellContent": "Unkn",
+      "hexCq": "3.36",
+      "famCq": "3.25",
+      "roxCq": "2.05",
+      "cy5Cq": "3.08",
+      "hexRFU_endpoint": 108.59,
+      "famRFU_endpoint": 116.99,
+      "roxRFU_endpoint": 190.85,
+      "cy5RFU_endpoint": 120.38,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        36.38,
+        51.68,
+        73.44,
+        104.31,
+        148.01
+      ],
+      "famRFU_points": [
+        39.19,
+        55.68,
+        79.12,
+        112.39,
+        159.45
+      ],
+      "roxRFU_points": [
+        63.71,
+        90.84,
+        129.28,
+        183.54,
+        259.73
+      ],
+      "cy5RFU_points": [
+        40.33,
+        57.3,
+        81.42,
+        115.65,
+        164.07
+      ]
+    },
+    {
+      "wellNum": "D05",
+      "wellContent": "Unkn",
+      "hexCq": "3.94",
+      "famCq": "1.73",
+      "roxCq": "NaN",
+      "cy5Cq": "2.02",
+      "hexRFU_endpoint": 89.51,
+      "famRFU_endpoint": 199.79,
+      "roxRFU_endpoint": 40.37,
+      "cy5RFU_endpoint": 174.72,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        30.02,
+        42.6,
+        60.5,
+        85.96,
+        122.06
+      ],
+      "famRFU_points": [
+        66.7,
+        95.1,
+        135.33,
+        192.14,
+        271.91
+      ],
+      "roxRFU_points": [
+        13.57,
+        19.21,
+        27.26,
+        38.74,
+        55.1
+      ],
+      "cy5RFU_points": [
+        58.41,
+        83.16,
+        118.28,
+        167.96,
+        237.93
+      ]
+    },
+    {
+      "wellNum": "D06",
+      "wellContent": "Unkn",
+      "hexCq": "3.88",
+      "famCq": "3.5",
+      "roxCq": "2.08",
+      "cy5Cq": "1.24",
+      "hexRFU_endpoint": 91.06,
+      "famRFU_endpoint": 106.63,
+      "roxRFU_endpoint": 188.26,
+      "cy5RFU_endpoint": 228.74,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        30.54,
+        43.34,
+        61.56,
+        87.46,
+        124.17
+      ],
+      "famRFU_points": [
+        35.74,
+        50.75,
+        72.1,
+        102.43,
+        145.36
+      ],
+      "roxRFU_points": [
+        62.85,
+        89.61,
+        127.52,
+        181.04,
+        256.21
+      ],
+      "cy5RFU_points": [
+        76.32,
+        108.88,
+        154.99,
+        220.02,
+        311.22
+      ]
+    },
+    {
+      "wellNum": "D07",
+      "wellContent": "Unkn",
+      "hexCq": "1.35",
+      "famCq": "3.89",
+      "roxCq": "4.27",
+      "cy5Cq": "2.81",
+      "hexRFU_endpoint": 220.61,
+      "famRFU_endpoint": 93.85,
+      "roxRFU_endpoint": 86.64,
+      "cy5RFU_endpoint": 131.86,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        73.56,
+        105.01,
+        149.52,
+        212.23,
+        300.08
+      ],
+      "famRFU_points": [
+        31.47,
+        44.67,
+        63.45,
+        90.13,
+        127.97
+      ],
+      "roxRFU_points": [
+        29.06,
+        41.24,
+        58.57,
+        83.21,
+        118.15
+      ],
+      "cy5RFU_points": [
+        44.17,
+        62.76,
+        89.18,
+        126.68,
+        179.72
+      ]
+    },
+    {
+      "wellNum": "D08",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "1.63",
+      "roxCq": "2.14",
+      "cy5Cq": "3.43",
+      "hexRFU_endpoint": 35.43,
+      "famRFU_endpoint": 206.27,
+      "roxRFU_endpoint": 183.81,
+      "cy5RFU_endpoint": 105.34,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        11.93,
+        16.86,
+        23.91,
+        33.99,
+        48.39
+      ],
+      "famRFU_points": [
+        68.85,
+        98.18,
+        139.74,
+        198.38,
+        280.7
+      ],
+      "roxRFU_points": [
+        61.39,
+        87.49,
+        124.49,
+        176.75,
+        250.19
+      ],
+      "cy5RFU_points": [
+        35.32,
+        50.13,
+        71.22,
+        101.18,
+        143.63
+      ]
+    },
+    {
+      "wellNum": "D09",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "1.49",
+      "roxCq": "4.25",
+      "cy5Cq": "1.69",
+      "hexRFU_endpoint": 32.09,
+      "famRFU_endpoint": 216.52,
+      "roxRFU_endpoint": 87.45,
+      "cy5RFU_endpoint": 194.63,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        10.81,
+        15.27,
+        21.65,
+        30.78,
+        43.84
+      ],
+      "famRFU_points": [
+        72.23,
+        103.06,
+        146.71,
+        208.26,
+        294.58
+      ],
+      "roxRFU_points": [
+        29.33,
+        41.62,
+        59.12,
+        83.99,
+        119.25
+      ],
+      "cy5RFU_points": [
+        65.04,
+        92.64,
+        131.78,
+        187.11,
+        265.0
+      ]
+    },
+    {
+      "wellNum": "D10",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "1.34",
+      "roxCq": "1.67",
+      "cy5Cq": "3.07",
+      "hexRFU_endpoint": 31.74,
+      "famRFU_endpoint": 228.83,
+      "roxRFU_endpoint": 216.16,
+      "cy5RFU_endpoint": 120.84,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        10.7,
+        15.11,
+        21.41,
+        30.44,
+        43.38
+      ],
+      "famRFU_points": [
+        76.3,
+        108.93,
+        155.09,
+        220.14,
+        311.27
+      ],
+      "roxRFU_points": [
+        72.09,
+        102.89,
+        146.49,
+        207.94,
+        294.05
+      ],
+      "cy5RFU_points": [
+        40.49,
+        57.51,
+        81.73,
+        116.09,
+        164.71
+      ]
+    },
+    {
+      "wellNum": "D11",
+      "wellContent": "Unkn",
+      "hexCq": "4.11",
+      "famCq": "3.81",
+      "roxCq": "1.72",
+      "cy5Cq": "3.11",
+      "hexRFU_endpoint": 84.02,
+      "famRFU_endpoint": 96.28,
+      "roxRFU_endpoint": 213.02,
+      "cy5RFU_endpoint": 118.55,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        28.19,
+        39.99,
+        56.8,
+        80.69,
+        114.58
+      ],
+      "famRFU_points": [
+        32.29,
+        45.82,
+        65.09,
+        92.47,
+        131.28
+      ],
+      "roxRFU_points": [
+        71.04,
+        101.4,
+        144.36,
+        204.91,
+        289.78
+      ],
+      "cy5RFU_points": [
+        39.72,
+        56.43,
+        80.18,
+        113.89,
+        161.59
+      ]
+    },
+    {
+      "wellNum": "D12",
+      "wellContent": "Unkn",
+      "hexCq": "1.58",
+      "famCq": "3.61",
+      "roxCq": "1.99",
+      "cy5Cq": "3.17",
+      "hexRFU_endpoint": 202.76,
+      "famRFU_endpoint": 102.61,
+      "roxRFU_endpoint": 195.25,
+      "cy5RFU_endpoint": 115.87,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        67.66,
+        96.51,
+        137.37,
+        195.02,
+        275.89
+      ],
+      "famRFU_points": [
+        34.4,
+        48.84,
+        69.38,
+        98.56,
+        139.89
+      ],
+      "roxRFU_points": [
+        65.16,
+        92.94,
+        132.27,
+        187.78,
+        265.69
+      ],
+      "cy5RFU_points": [
+        38.84,
+        55.15,
+        78.35,
+        111.3,
+        157.97
+      ]
+    },
+    {
+      "wellNum": "E01",
+      "wellContent": "Unkn",
+      "hexCq": "3.59",
+      "famCq": "3.3",
+      "roxCq": "1.91",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": 100.06,
+      "famRFU_endpoint": 114.55,
+      "roxRFU_endpoint": 200.09,
+      "cy5RFU_endpoint": 58.14,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        33.54,
+        47.62,
+        67.66,
+        96.11,
+        136.4
+      ],
+      "famRFU_points": [
+        38.38,
+        54.52,
+        77.47,
+        110.04,
+        156.14
+      ],
+      "roxRFU_points": [
+        66.78,
+        95.24,
+        135.56,
+        192.44,
+        272.28
+      ],
+      "cy5RFU_points": [
+        19.51,
+        27.67,
+        39.29,
+        55.83,
+        79.29
+      ]
+    },
+    {
+      "wellNum": "E02",
+      "wellContent": "Unkn",
+      "hexCq": "3.17",
+      "famCq": "3.74",
+      "roxCq": "2.05",
+      "cy5Cq": "3.43",
+      "hexRFU_endpoint": 116.72,
+      "famRFU_endpoint": 98.57,
+      "roxRFU_endpoint": 191.13,
+      "cy5RFU_endpoint": 105.26,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        39.1,
+        55.55,
+        78.95,
+        112.14,
+        159.08
+      ],
+      "famRFU_points": [
+        33.05,
+        46.91,
+        66.64,
+        94.67,
+        134.39
+      ],
+      "roxRFU_points": [
+        63.8,
+        90.97,
+        129.47,
+        183.81,
+        260.11
+      ],
+      "cy5RFU_points": [
+        35.3,
+        50.1,
+        71.16,
+        101.1,
+        143.53
+      ]
+    },
+    {
+      "wellNum": "E03",
+      "wellContent": "Unkn",
+      "hexCq": "1.6",
+      "famCq": "3.89",
+      "roxCq": "2.55",
+      "cy5Cq": "2.84",
+      "hexRFU_endpoint": 201.78,
+      "famRFU_endpoint": 94.09,
+      "roxRFU_endpoint": 158.08,
+      "cy5RFU_endpoint": 130.31,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        67.33,
+        96.04,
+        136.7,
+        194.07,
+        274.56
+      ],
+      "famRFU_points": [
+        31.55,
+        44.78,
+        63.61,
+        90.36,
+        128.29
+      ],
+      "roxRFU_points": [
+        52.85,
+        75.24,
+        107.01,
+        151.96,
+        215.26
+      ],
+      "cy5RFU_points": [
+        43.64,
+        62.02,
+        88.15,
+        125.2,
+        177.58
+      ]
+    },
+    {
+      "wellNum": "E04",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "1.86",
+      "roxCq": "NaN",
+      "cy5Cq": "2",
+      "hexRFU_endpoint": 37.86,
+      "famRFU_endpoint": 191.47,
+      "roxRFU_endpoint": 41.83,
+      "cy5RFU_endpoint": 176.28,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        12.74,
+        18.02,
+        25.56,
+        36.32,
+        51.7
+      ],
+      "famRFU_points": [
+        63.94,
+        91.13,
+        129.67,
+        184.11,
+        260.62
+      ],
+      "roxRFU_points": [
+        14.06,
+        19.91,
+        28.24,
+        40.14,
+        57.1
+      ],
+      "cy5RFU_points": [
+        58.92,
+        83.9,
+        119.34,
+        169.46,
+        240.03
+      ]
+    },
+    {
+      "wellNum": "E05",
+      "wellContent": "Unkn",
+      "hexCq": "3.14",
+      "famCq": "3.99",
+      "roxCq": "2.59",
+      "cy5Cq": "1.13",
+      "hexRFU_endpoint": 117.94,
+      "famRFU_endpoint": 91.15,
+      "roxRFU_endpoint": 155.94,
+      "cy5RFU_endpoint": 238.76,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        39.5,
+        56.13,
+        79.78,
+        113.32,
+        160.73
+      ],
+      "famRFU_points": [
+        30.57,
+        43.38,
+        61.62,
+        87.54,
+        124.29
+      ],
+      "roxRFU_points": [
+        52.14,
+        74.22,
+        105.56,
+        149.9,
+        212.36
+      ],
+      "cy5RFU_points": [
+        79.63,
+        113.65,
+        161.8,
+        229.67,
+        324.8
+      ]
+    },
+    {
+      "wellNum": "E06",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "3.11",
+      "roxCq": "NaN",
+      "cy5Cq": "1.7",
+      "hexRFU_endpoint": 29.24,
+      "famRFU_endpoint": 123.41,
+      "roxRFU_endpoint": 30.09,
+      "cy5RFU_endpoint": 193.73,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        9.84,
+        13.92,
+        19.74,
+        28.06,
+        39.93
+      ],
+      "famRFU_points": [
+        41.34,
+        58.74,
+        83.48,
+        118.57,
+        168.19
+      ],
+      "roxRFU_points": [
+        10.13,
+        14.32,
+        20.31,
+        28.87,
+        41.1
+      ],
+      "cy5RFU_points": [
+        64.71,
+        92.21,
+        131.2,
+        186.28,
+        263.72
+      ]
+    },
+    {
+      "wellNum": "E07",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "3.74",
+      "roxCq": "3.47",
+      "cy5Cq": "2.01",
+      "hexRFU_endpoint": 30.04,
+      "famRFU_endpoint": 98.46,
+      "roxRFU_endpoint": 114.37,
+      "cy5RFU_endpoint": 175.47,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        10.1,
+        14.29,
+        20.28,
+        28.82,
+        41.01
+      ],
+      "famRFU_points": [
+        33.02,
+        46.86,
+        66.57,
+        94.57,
+        134.25
+      ],
+      "roxRFU_points": [
+        38.31,
+        54.43,
+        77.35,
+        109.88,
+        155.87
+      ],
+      "cy5RFU_points": [
+        58.66,
+        83.52,
+        118.79,
+        168.68,
+        238.94
+      ]
+    },
+    {
+      "wellNum": "E08",
+      "wellContent": "Unkn",
+      "hexCq": "3.3",
+      "famCq": "1.88",
+      "roxCq": "NaN",
+      "cy5Cq": "3.17",
+      "hexRFU_endpoint": 111.02,
+      "famRFU_endpoint": 190.25,
+      "roxRFU_endpoint": 40.44,
+      "cy5RFU_endpoint": 115.86,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        37.2,
+        52.84,
+        75.08,
+        106.65,
+        151.32
+      ],
+      "famRFU_points": [
+        63.54,
+        90.56,
+        128.85,
+        182.94,
+        258.97
+      ],
+      "roxRFU_points": [
+        13.59,
+        19.25,
+        27.31,
+        38.81,
+        55.2
+      ],
+      "cy5RFU_points": [
+        38.84,
+        55.14,
+        78.34,
+        111.29,
+        157.95
+      ]
+    },
+    {
+      "wellNum": "E09",
+      "wellContent": "Unkn",
+      "hexCq": "2.1",
+      "famCq": "1.59",
+      "roxCq": "1.65",
+      "cy5Cq": "3.24",
+      "hexRFU_endpoint": 170.24,
+      "famRFU_endpoint": 209.22,
+      "roxRFU_endpoint": 217.7,
+      "cy5RFU_endpoint": 112.8,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        56.88,
+        81.03,
+        115.27,
+        163.67,
+        231.77
+      ],
+      "famRFU_points": [
+        69.82,
+        99.59,
+        141.74,
+        201.22,
+        284.69
+      ],
+      "roxRFU_points": [
+        72.58,
+        103.62,
+        147.55,
+        209.43,
+        296.11
+      ],
+      "cy5RFU_points": [
+        37.82,
+        53.69,
+        76.27,
+        108.35,
+        153.79
+      ]
+    },
+    {
+      "wellNum": "E10",
+      "wellContent": "Unkn",
+      "hexCq": "1.35",
+      "famCq": "3.87",
+      "roxCq": "4.24",
+      "cy5Cq": "3.1",
+      "hexRFU_endpoint": 220.51,
+      "famRFU_endpoint": 94.42,
+      "roxRFU_endpoint": 87.8,
+      "cy5RFU_endpoint": 119.1,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        73.53,
+        104.96,
+        149.45,
+        212.13,
+        299.94
+      ],
+      "famRFU_points": [
+        31.66,
+        44.93,
+        63.83,
+        90.68,
+        128.74
+      ],
+      "roxRFU_points": [
+        29.45,
+        41.79,
+        59.35,
+        84.32,
+        119.74
+      ],
+      "cy5RFU_points": [
+        39.9,
+        56.69,
+        80.56,
+        114.42,
+        162.33
+      ]
+    },
+    {
+      "wellNum": "E11",
+      "wellContent": "Unkn",
+      "hexCq": "3.33",
+      "famCq": "3.36",
+      "roxCq": "4.26",
+      "cy5Cq": "1.77",
+      "hexRFU_endpoint": 109.7,
+      "famRFU_endpoint": 111.96,
+      "roxRFU_endpoint": 87.2,
+      "cy5RFU_endpoint": 189.84,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        36.75,
+        52.21,
+        74.19,
+        105.38,
+        149.52
+      ],
+      "famRFU_points": [
+        37.52,
+        53.29,
+        75.71,
+        107.55,
+        152.61
+      ],
+      "roxRFU_points": [
+        29.25,
+        41.5,
+        58.95,
+        83.74,
+        118.91
+      ],
+      "cy5RFU_points": [
+        63.42,
+        90.36,
+        128.56,
+        182.53,
+        258.44
+      ]
+    },
+    {
+      "wellNum": "E12",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "roxCq": "1.62",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": 36.04,
+      "famRFU_endpoint": 39.12,
+      "roxRFU_endpoint": 220.11,
+      "cy5RFU_endpoint": 61.59,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        12.12,
+        17.15,
+        24.34,
+        34.59,
+        49.2
+      ],
+      "famRFU_points": [
+        13.15,
+        18.62,
+        26.42,
+        37.55,
+        53.4
+      ],
+      "roxRFU_points": [
+        73.4,
+        104.77,
+        149.17,
+        211.74,
+        299.41
+      ],
+      "cy5RFU_points": [
+        20.65,
+        29.32,
+        41.65,
+        59.16,
+        83.97
+      ]
+    },
+    {
+      "wellNum": "F01",
+      "wellContent": "Unkn",
+      "hexCq": "1.7",
+      "famCq": "NaN",
+      "roxCq": "NaN",
+      "cy5Cq": "4.4",
+      "hexRFU_endpoint": 194.75,
+      "famRFU_endpoint": 47.64,
+      "roxRFU_endpoint": 32.94,
+      "cy5RFU_endpoint": 74.95,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        65.02,
+        92.7,
+        131.92,
+        187.29,
+        265.05
+      ],
+      "famRFU_points": [
+        16.01,
+        22.67,
+        32.18,
+        45.73,
+        65.01
+      ],
+      "roxRFU_points": [
+        11.08,
+        15.67,
+        22.23,
+        31.6,
+        44.98
+      ],
+      "cy5RFU_points": [
+        25.12,
+        35.67,
+        50.68,
+        71.99,
+        102.18
+      ]
+    },
+    {
+      "wellNum": "F02",
+      "wellContent": "Unkn",
+      "hexCq": "4.15",
+      "famCq": "1.94",
+      "roxCq": "4.33",
+      "cy5Cq": "3.2",
+      "hexRFU_endpoint": 82.7,
+      "famRFU_endpoint": 186.66,
+      "roxRFU_endpoint": 84.75,
+      "cy5RFU_endpoint": 114.41,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        27.75,
+        39.36,
+        55.9,
+        79.42,
+        112.79
+      ],
+      "famRFU_points": [
+        62.35,
+        88.85,
+        126.41,
+        179.48,
+        254.1
+      ],
+      "roxRFU_points": [
+        28.42,
+        40.33,
+        57.29,
+        81.39,
+        115.56
+      ],
+      "cy5RFU_points": [
+        38.35,
+        54.45,
+        77.37,
+        109.9,
+        155.96
+      ]
+    },
+    {
+      "wellNum": "F03",
+      "wellContent": "Unkn",
+      "hexCq": "3.52",
+      "famCq": "3.73",
+      "roxCq": "3.32",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": 102.63,
+      "famRFU_endpoint": 98.75,
+      "roxRFU_endpoint": 120.73,
+      "cy5RFU_endpoint": 60.3,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        34.4,
+        48.84,
+        69.4,
+        98.58,
+        139.9
+      ],
+      "famRFU_points": [
+        33.11,
+        47.0,
+        66.76,
+        94.85,
+        134.64
+      ],
+      "roxRFU_points": [
+        40.43,
+        57.46,
+        81.67,
+        116.0,
+        164.53
+      ],
+      "cy5RFU_points": [
+        20.25,
+        28.7,
+        40.74,
+        57.89,
+        82.26
+      ]
+    },
+    {
+      "wellNum": "F04",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "3.28",
+      "roxCq": "NaN",
+      "cy5Cq": "1.2",
+      "hexRFU_endpoint": 32.64,
+      "famRFU_endpoint": 115.62,
+      "roxRFU_endpoint": 30.09,
+      "cy5RFU_endpoint": 232.52,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        10.98,
+        15.53,
+        22.04,
+        31.32,
+        44.56
+      ],
+      "famRFU_points": [
+        38.74,
+        55.03,
+        78.19,
+        111.07,
+        157.59
+      ],
+      "roxRFU_points": [
+        10.14,
+        14.32,
+        20.3,
+        28.86,
+        41.11
+      ],
+      "cy5RFU_points": [
+        77.54,
+        110.68,
+        157.58,
+        223.67,
+        316.3
+      ]
+    },
+    {
+      "wellNum": "F05",
+      "wellContent": "Unkn",
+      "hexCq": "2.22",
+      "famCq": "1.81",
+      "roxCq": "2.08",
+      "cy5Cq": "2.91",
+      "hexRFU_endpoint": 162.36,
+      "famRFU_endpoint": 194.28,
+      "roxRFU_endpoint": 188.58,
+      "cy5RFU_endpoint": 127.64,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        54.27,
+        77.28,
+        109.92,
+        156.08,
+        221.08
+      ],
+      "famRFU_points": [
+        64.88,
+        92.47,
+        131.59,
+        186.82,
+        264.43
+      ],
+      "roxRFU_points": [
+        62.96,
+        89.76,
+        127.74,
+        181.36,
+        256.65
+      ],
+      "cy5RFU_points": [
+        42.77,
+        60.75,
+        86.33,
+        122.62,
+        173.98
+      ]
+    },
+    {
+      "wellNum": "F06",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "1.55",
+      "roxCq": "NaN",
+      "cy5Cq": "1.7",
+      "hexRFU_endpoint": 32.08,
+      "famRFU_endpoint": 212.28,
+      "roxRFU_endpoint": 40.82,
+      "cy5RFU_endpoint": 193.84,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        10.8,
+        15.26,
+        21.64,
+        30.77,
+        43.82
+      ],
+      "famRFU_points": [
+        70.83,
+        101.05,
+        143.83,
+        204.18,
+        288.84
+      ],
+      "roxRFU_points": [
+        13.73,
+        19.42,
+        27.56,
+        39.17,
+        55.72
+      ],
+      "cy5RFU_points": [
+        64.75,
+        92.26,
+        131.27,
+        186.38,
+        263.87
+      ]
+    },
+    {
+      "wellNum": "F07",
+      "wellContent": "Unkn",
+      "hexCq": "3.85",
+      "famCq": "NaN",
+      "roxCq": "2.41",
+      "cy5Cq": "3.4",
+      "hexRFU_endpoint": 92.04,
+      "famRFU_endpoint": 37.21,
+      "roxRFU_endpoint": 166.19,
+      "cy5RFU_endpoint": 106.21,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        30.86,
+        43.8,
+        62.22,
+        88.4,
+        125.5
+      ],
+      "famRFU_points": [
+        12.51,
+        17.71,
+        25.13,
+        35.71,
+        50.79
+      ],
+      "roxRFU_points": [
+        55.54,
+        79.1,
+        112.52,
+        159.77,
+        226.27
+      ],
+      "cy5RFU_points": [
+        35.62,
+        50.55,
+        71.8,
+        102.01,
+        144.82
+      ]
+    },
+    {
+      "wellNum": "F08",
+      "wellContent": "Unkn",
+      "hexCq": "2.02",
+      "famCq": "3.97",
+      "roxCq": "3.76",
+      "cy5Cq": "3.09",
+      "hexRFU_endpoint": 175.86,
+      "famRFU_endpoint": 91.79,
+      "roxRFU_endpoint": 103.91,
+      "cy5RFU_endpoint": 119.76,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        58.75,
+        83.71,
+        119.09,
+        169.09,
+        239.41
+      ],
+      "famRFU_points": [
+        30.78,
+        43.69,
+        62.05,
+        88.15,
+        125.16
+      ],
+      "roxRFU_points": [
+        34.82,
+        49.45,
+        70.27,
+        99.81,
+        141.64
+      ],
+      "cy5RFU_points": [
+        40.14,
+        57.0,
+        80.99,
+        115.04,
+        163.26
+      ]
+    },
+    {
+      "wellNum": "F09",
+      "wellContent": "Unkn",
+      "hexCq": "2.05",
+      "famCq": "NaN",
+      "roxCq": "NaN",
+      "cy5Cq": "3.2",
+      "hexRFU_endpoint": 173.78,
+      "famRFU_endpoint": 41.57,
+      "roxRFU_endpoint": 36.4,
+      "cy5RFU_endpoint": 114.63,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        58.07,
+        82.72,
+        117.67,
+        167.08,
+        236.6
+      ],
+      "famRFU_points": [
+        13.97,
+        19.78,
+        28.07,
+        39.9,
+        56.73
+      ],
+      "roxRFU_points": [
+        12.24,
+        17.32,
+        24.58,
+        34.93,
+        49.7
+      ],
+      "cy5RFU_points": [
+        38.41,
+        54.56,
+        77.53,
+        110.12,
+        156.25
+      ]
+    },
+    {
+      "wellNum": "F10",
+      "wellContent": "Unkn",
+      "hexCq": "2.07",
+      "famCq": "3.37",
+      "roxCq": "2.1",
+      "cy5Cq": "4.56",
+      "hexRFU_endpoint": 172.6,
+      "famRFU_endpoint": 111.77,
+      "roxRFU_endpoint": 187.11,
+      "cy5RFU_endpoint": 70.96,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        57.67,
+        82.15,
+        116.88,
+        165.95,
+        234.98
+      ],
+      "famRFU_points": [
+        37.46,
+        53.2,
+        75.59,
+        107.37,
+        152.36
+      ],
+      "roxRFU_points": [
+        62.48,
+        89.06,
+        126.74,
+        179.93,
+        254.67
+      ],
+      "cy5RFU_points": [
+        23.77,
+        33.77,
+        48.0,
+        68.17,
+        96.71
+      ]
+    },
+    {
+      "wellNum": "F11",
+      "wellContent": "Unkn",
+      "hexCq": "1.69",
+      "famCq": "3.51",
+      "roxCq": "4.05",
+      "cy5Cq": "4.76",
+      "hexRFU_endpoint": 195.35,
+      "famRFU_endpoint": 106.34,
+      "roxRFU_endpoint": 94.45,
+      "cy5RFU_endpoint": 66.31,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        65.21,
+        92.98,
+        132.33,
+        187.87,
+        265.84
+      ],
+      "famRFU_points": [
+        35.64,
+        50.61,
+        71.91,
+        102.15,
+        144.97
+      ],
+      "roxRFU_points": [
+        31.67,
+        44.95,
+        63.86,
+        90.72,
+        128.78
+      ],
+      "cy5RFU_points": [
+        22.24,
+        31.56,
+        44.83,
+        63.69,
+        90.42
+      ]
+    },
+    {
+      "wellNum": "F12",
+      "wellContent": "Unkn",
+      "hexCq": "1.85",
+      "famCq": "NaN",
+      "roxCq": "1.87",
+      "cy5Cq": "3.31",
+      "hexRFU_endpoint": 185.54,
+      "famRFU_endpoint": 37.23,
+      "roxRFU_endpoint": 203.03,
+      "cy5RFU_endpoint": 109.97,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        61.97,
+        88.31,
+        125.66,
+        178.41,
+        252.55
+      ],
+      "famRFU_points": [
+        12.51,
+        17.72,
+        25.14,
+        35.73,
+        50.81
+      ],
+      "roxRFU_points": [
+        67.74,
+        96.64,
+        137.57,
+        195.29,
+        276.24
+      ],
+      "cy5RFU_points": [
+        36.86,
+        52.34,
+        74.36,
+        105.63,
+        149.92
+      ]
+    },
+    {
+      "wellNum": "G01",
+      "wellContent": "Unkn",
+      "hexCq": "3.62",
+      "famCq": "3.89",
+      "roxCq": "2.44",
+      "cy5Cq": "2.93",
+      "hexRFU_endpoint": 99.04,
+      "famRFU_endpoint": 94.11,
+      "roxRFU_endpoint": 164.38,
+      "cy5RFU_endpoint": 126.97,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        33.2,
+        47.14,
+        66.97,
+        95.13,
+        135.02
+      ],
+      "famRFU_points": [
+        31.56,
+        44.79,
+        63.62,
+        90.38,
+        128.32
+      ],
+      "roxRFU_points": [
+        54.94,
+        78.24,
+        111.29,
+        158.03,
+        223.81
+      ],
+      "cy5RFU_points": [
+        42.54,
+        60.43,
+        85.87,
+        121.97,
+        173.06
+      ]
+    },
+    {
+      "wellNum": "G02",
+      "wellContent": "Unkn",
+      "hexCq": "2",
+      "famCq": "1.83",
+      "roxCq": "2.12",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": 177.67,
+      "famRFU_endpoint": 192.93,
+      "roxRFU_endpoint": 185.61,
+      "cy5RFU_endpoint": 50.41,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        59.34,
+        84.57,
+        120.32,
+        170.83,
+        241.85
+      ],
+      "famRFU_points": [
+        64.43,
+        91.83,
+        130.67,
+        185.52,
+        262.6
+      ],
+      "roxRFU_points": [
+        61.98,
+        88.35,
+        125.71,
+        178.48,
+        252.63
+      ],
+      "cy5RFU_points": [
+        16.94,
+        23.99,
+        34.05,
+        48.38,
+        68.8
+      ]
+    },
+    {
+      "wellNum": "G03",
+      "wellContent": "Unkn",
+      "hexCq": "1.3",
+      "famCq": "3.12",
+      "roxCq": "NaN",
+      "cy5Cq": "3.31",
+      "hexRFU_endpoint": 224.4,
+      "famRFU_endpoint": 122.84,
+      "roxRFU_endpoint": 27.87,
+      "cy5RFU_endpoint": 109.98,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        74.81,
+        106.81,
+        152.1,
+        215.89,
+        305.21
+      ],
+      "famRFU_points": [
+        41.14,
+        58.46,
+        83.09,
+        118.01,
+        167.41
+      ],
+      "roxRFU_points": [
+        9.39,
+        13.26,
+        18.8,
+        26.73,
+        38.07
+      ],
+      "cy5RFU_points": [
+        36.87,
+        52.34,
+        74.36,
+        105.63,
+        149.94
+      ]
+    },
+    {
+      "wellNum": "G04",
+      "wellContent": "Unkn",
+      "hexCq": "3.44",
+      "famCq": "NaN",
+      "roxCq": "2.32",
+      "cy5Cq": "4.79",
+      "hexRFU_endpoint": 105.51,
+      "famRFU_endpoint": 40.49,
+      "roxRFU_endpoint": 172.0,
+      "cy5RFU_endpoint": 65.75,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        35.36,
+        50.22,
+        71.35,
+        101.36,
+        143.83
+      ],
+      "famRFU_points": [
+        13.61,
+        19.27,
+        27.34,
+        38.86,
+        55.26
+      ],
+      "roxRFU_points": [
+        57.47,
+        81.87,
+        116.47,
+        165.37,
+        234.17
+      ],
+      "cy5RFU_points": [
+        22.06,
+        31.29,
+        44.44,
+        63.14,
+        89.66
+      ]
+    },
+    {
+      "wellNum": "G05",
+      "wellContent": "Unkn",
+      "hexCq": "3.4",
+      "famCq": "3.53",
+      "roxCq": "NaN",
+      "cy5Cq": "4.5",
+      "hexRFU_endpoint": 106.79,
+      "famRFU_endpoint": 105.68,
+      "roxRFU_endpoint": 30.73,
+      "cy5RFU_endpoint": 72.27,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        35.79,
+        50.83,
+        72.22,
+        102.59,
+        145.57
+      ],
+      "famRFU_points": [
+        35.42,
+        50.3,
+        71.46,
+        101.51,
+        144.07
+      ],
+      "roxRFU_points": [
+        10.34,
+        14.63,
+        20.75,
+        29.49,
+        41.96
+      ],
+      "cy5RFU_points": [
+        24.23,
+        34.4,
+        48.87,
+        69.42,
+        98.53
+      ]
+    },
+    {
+      "wellNum": "G06",
+      "wellContent": "Unkn",
+      "hexCq": "4.06",
+      "famCq": "2",
+      "roxCq": "4.05",
+      "cy5Cq": "3.08",
+      "hexRFU_endpoint": 85.62,
+      "famRFU_endpoint": 183.19,
+      "roxRFU_endpoint": 94.81,
+      "cy5RFU_endpoint": 120.12,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        28.72,
+        40.75,
+        57.87,
+        82.22,
+        116.76
+      ],
+      "famRFU_points": [
+        61.2,
+        87.19,
+        124.05,
+        176.13,
+        249.38
+      ],
+      "roxRFU_points": [
+        31.78,
+        45.12,
+        64.1,
+        91.06,
+        129.26
+      ],
+      "cy5RFU_points": [
+        40.26,
+        57.17,
+        81.23,
+        115.38,
+        163.74
+      ]
+    },
+    {
+      "wellNum": "G07",
+      "wellContent": "Unkn",
+      "hexCq": "1.84",
+      "famCq": "3.71",
+      "roxCq": "2.18",
+      "cy5Cq": "3.68",
+      "hexRFU_endpoint": 186.52,
+      "famRFU_endpoint": 99.33,
+      "roxRFU_endpoint": 181.45,
+      "cy5RFU_endpoint": 96.51,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        62.28,
+        88.78,
+        126.33,
+        179.36,
+        253.87
+      ],
+      "famRFU_points": [
+        33.3,
+        47.28,
+        67.16,
+        95.41,
+        135.43
+      ],
+      "roxRFU_points": [
+        60.6,
+        86.36,
+        122.89,
+        174.47,
+        246.98
+      ],
+      "cy5RFU_points": [
+        32.37,
+        45.94,
+        65.24,
+        92.69,
+        131.61
+      ]
+    },
+    {
+      "wellNum": "G08",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "1.42",
+      "roxCq": "2.22",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": 29.73,
+      "famRFU_endpoint": 222.34,
+      "roxRFU_endpoint": 178.52,
+      "cy5RFU_endpoint": 60.82,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        10.02,
+        14.15,
+        20.05,
+        28.51,
+        40.63
+      ],
+      "famRFU_points": [
+        74.16,
+        105.83,
+        150.67,
+        213.88,
+        302.47
+      ],
+      "roxRFU_points": [
+        59.64,
+        84.97,
+        120.89,
+        171.64,
+        243.02
+      ],
+      "cy5RFU_points": [
+        20.43,
+        28.94,
+        41.09,
+        58.39,
+        82.98
+      ]
+    },
+    {
+      "wellNum": "G09",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "1.45",
+      "roxCq": "3.69",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": 35.18,
+      "famRFU_endpoint": 219.24,
+      "roxRFU_endpoint": 106.22,
+      "cy5RFU_endpoint": 59.95,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        11.85,
+        16.74,
+        23.74,
+        33.75,
+        48.05
+      ],
+      "famRFU_points": [
+        73.13,
+        104.36,
+        148.56,
+        210.89,
+        298.28
+      ],
+      "roxRFU_points": [
+        35.59,
+        50.55,
+        71.83,
+        102.04,
+        144.79
+      ],
+      "cy5RFU_points": [
+        20.14,
+        28.53,
+        40.5,
+        57.55,
+        81.8
+      ]
+    },
+    {
+      "wellNum": "G10",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "1.38",
+      "roxCq": "1.8",
+      "cy5Cq": "2.85",
+      "hexRFU_endpoint": 25.76,
+      "famRFU_endpoint": 224.85,
+      "roxRFU_endpoint": 207.44,
+      "cy5RFU_endpoint": 129.97,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        8.69,
+        12.26,
+        17.37,
+        24.7,
+        35.21
+      ],
+      "famRFU_points": [
+        74.99,
+        107.03,
+        152.38,
+        216.3,
+        305.88
+      ],
+      "roxRFU_points": [
+        69.2,
+        98.74,
+        140.56,
+        199.53,
+        282.23
+      ],
+      "cy5RFU_points": [
+        43.55,
+        61.86,
+        87.91,
+        124.86,
+        177.15
+      ]
+    },
+    {
+      "wellNum": "G11",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "roxCq": "NaN",
+      "cy5Cq": "4.85",
+      "hexRFU_endpoint": 40.12,
+      "famRFU_endpoint": 36.38,
+      "roxRFU_endpoint": 32.83,
+      "cy5RFU_endpoint": 64.57,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        13.48,
+        19.09,
+        27.1,
+        38.51,
+        54.76
+      ],
+      "famRFU_points": [
+        12.23,
+        17.31,
+        24.57,
+        34.92,
+        49.66
+      ],
+      "roxRFU_points": [
+        11.04,
+        15.62,
+        22.17,
+        31.5,
+        44.81
+      ],
+      "cy5RFU_points": [
+        21.66,
+        30.73,
+        43.65,
+        62.01,
+        88.06
+      ]
+    },
+    {
+      "wellNum": "G12",
+      "wellContent": "Unkn",
+      "hexCq": "1.77",
+      "famCq": "NaN",
+      "roxCq": "2.13",
+      "cy5Cq": "2.88",
+      "hexRFU_endpoint": 190.37,
+      "famRFU_endpoint": 47.08,
+      "roxRFU_endpoint": 185.13,
+      "cy5RFU_endpoint": 128.96,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        63.57,
+        90.61,
+        128.94,
+        183.06,
+        259.1
+      ],
+      "famRFU_points": [
+        15.82,
+        22.41,
+        31.8,
+        45.19,
+        64.25
+      ],
+      "roxRFU_points": [
+        61.81,
+        88.12,
+        125.4,
+        178.03,
+        251.97
+      ],
+      "cy5RFU_points": [
+        43.21,
+        61.38,
+        87.22,
+        123.89,
+        175.78
+      ]
+    },
+    {
+      "wellNum": "H01",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "3.79",
+      "roxCq": "3.59",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": 42.52,
+      "famRFU_endpoint": 96.92,
+      "roxRFU_endpoint": 110.07,
+      "cy5RFU_endpoint": 53.77,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        14.29,
+        20.24,
+        28.72,
+        40.81,
+        58.03
+      ],
+      "famRFU_points": [
+        32.5,
+        46.13,
+        65.53,
+        93.09,
+        132.15
+      ],
+      "roxRFU_points": [
+        36.88,
+        52.39,
+        74.44,
+        105.74,
+        150.03
+      ],
+      "cy5RFU_points": [
+        18.06,
+        25.59,
+        36.32,
+        51.61,
+        73.37
+      ]
+    },
+    {
+      "wellNum": "H02",
+      "wellContent": "Unkn",
+      "hexCq": "3.88",
+      "famCq": "NaN",
+      "roxCq": "NaN",
+      "cy5Cq": "1.25",
+      "hexRFU_endpoint": 91.28,
+      "famRFU_endpoint": 45.39,
+      "roxRFU_endpoint": 26.49,
+      "cy5RFU_endpoint": 227.71,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        30.61,
+        43.44,
+        61.71,
+        87.67,
+        124.47
+      ],
+      "famRFU_points": [
+        15.25,
+        21.6,
+        30.66,
+        43.57,
+        61.95
+      ],
+      "roxRFU_points": [
+        8.93,
+        12.61,
+        17.87,
+        25.41,
+        36.2
+      ],
+      "cy5RFU_points": [
+        76.01,
+        108.39,
+        154.26,
+        218.99,
+        309.88
+      ]
+    },
+    {
+      "wellNum": "H03",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "roxCq": "NaN",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": 36.73,
+      "famRFU_endpoint": 42.48,
+      "roxRFU_endpoint": 42.05,
+      "cy5RFU_endpoint": 55.19,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        12.35,
+        17.48,
+        24.81,
+        35.25,
+        50.14
+      ],
+      "famRFU_points": [
+        14.28,
+        20.22,
+        28.69,
+        40.77,
+        57.98
+      ],
+      "roxRFU_points": [
+        14.13,
+        20.01,
+        28.4,
+        40.36,
+        57.38
+      ],
+      "cy5RFU_points": [
+        18.54,
+        26.26,
+        37.28,
+        52.97,
+        75.31
+      ]
+    },
+    {
+      "wellNum": "H04",
+      "wellContent": "Unkn",
+      "hexCq": "3.24",
+      "famCq": "NaN",
+      "roxCq": "2.34",
+      "cy5Cq": "3.11",
+      "hexRFU_endpoint": 113.65,
+      "famRFU_endpoint": 47.37,
+      "roxRFU_endpoint": 170.28,
+      "cy5RFU_endpoint": 118.68,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        38.07,
+        54.09,
+        76.86,
+        109.18,
+        154.9
+      ],
+      "famRFU_points": [
+        15.92,
+        22.55,
+        32.0,
+        45.47,
+        64.65
+      ],
+      "roxRFU_points": [
+        56.9,
+        81.05,
+        115.3,
+        163.71,
+        231.83
+      ],
+      "cy5RFU_points": [
+        39.77,
+        56.49,
+        80.26,
+        114.01,
+        161.78
+      ]
+    },
+    {
+      "wellNum": "H05",
+      "wellContent": "Unkn",
+      "hexCq": "1.56",
+      "famCq": "NaN",
+      "roxCq": "4.22",
+      "cy5Cq": "3.02",
+      "hexRFU_endpoint": 204.06,
+      "famRFU_endpoint": 45.55,
+      "roxRFU_endpoint": 88.29,
+      "cy5RFU_endpoint": 123.47,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        68.1,
+        97.13,
+        138.25,
+        196.26,
+        277.67
+      ],
+      "famRFU_points": [
+        15.31,
+        21.68,
+        30.77,
+        43.72,
+        62.16
+      ],
+      "roxRFU_points": [
+        29.61,
+        42.02,
+        59.68,
+        84.79,
+        120.39
+      ],
+      "cy5RFU_points": [
+        41.37,
+        58.76,
+        83.5,
+        118.61,
+        168.29
+      ]
+    },
+    {
+      "wellNum": "H06",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "roxCq": "3.8",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": 37.14,
+      "famRFU_endpoint": 35.48,
+      "roxRFU_endpoint": 102.82,
+      "cy5RFU_endpoint": 51.37,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        12.48,
+        17.67,
+        25.08,
+        35.64,
+        50.69
+      ],
+      "famRFU_points": [
+        11.93,
+        16.88,
+        23.96,
+        34.05,
+        48.42
+      ],
+      "roxRFU_points": [
+        34.46,
+        48.94,
+        69.53,
+        98.77,
+        140.17
+      ],
+      "cy5RFU_points": [
+        17.26,
+        24.45,
+        34.7,
+        49.31,
+        70.11
+      ]
+    },
+    {
+      "wellNum": "H07",
+      "wellContent": "Unkn",
+      "hexCq": "1.86",
+      "famCq": "3.57",
+      "roxCq": "1.69",
+      "cy5Cq": "4.7",
+      "hexRFU_endpoint": 185.16,
+      "famRFU_endpoint": 104.31,
+      "roxRFU_endpoint": 215.08,
+      "cy5RFU_endpoint": 67.57,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        61.83,
+        88.13,
+        125.41,
+        178.05,
+        252.02
+      ],
+      "famRFU_points": [
+        34.97,
+        49.65,
+        70.53,
+        100.19,
+        142.21
+      ],
+      "roxRFU_points": [
+        71.73,
+        102.38,
+        145.76,
+        206.9,
+        292.58
+      ],
+      "cy5RFU_points": [
+        22.67,
+        32.16,
+        45.67,
+        64.88,
+        92.15
+      ]
+    },
+    {
+      "wellNum": "H08",
+      "wellContent": "Unkn",
+      "hexCq": "3.49",
+      "famCq": "NaN",
+      "roxCq": "3.41",
+      "cy5Cq": "3.08",
+      "hexRFU_endpoint": 103.57,
+      "famRFU_endpoint": 46.24,
+      "roxRFU_endpoint": 117.11,
+      "cy5RFU_endpoint": 119.99,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        34.71,
+        49.29,
+        70.03,
+        99.49,
+        141.19
+      ],
+      "famRFU_points": [
+        15.54,
+        22.01,
+        31.23,
+        44.39,
+        63.11
+      ],
+      "roxRFU_points": [
+        39.22,
+        55.74,
+        79.22,
+        112.52,
+        159.6
+      ],
+      "cy5RFU_points": [
+        40.22,
+        57.11,
+        81.14,
+        115.26,
+        163.57
+      ]
+    },
+    {
+      "wellNum": "H09",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "2.18",
+      "roxCq": "1.52",
+      "cy5Cq": "4.41",
+      "hexRFU_endpoint": 31.24,
+      "famRFU_endpoint": 170.68,
+      "roxRFU_endpoint": 227.9,
+      "cy5RFU_endpoint": 74.76,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        10.52,
+        14.87,
+        21.08,
+        29.97,
+        42.67
+      ],
+      "famRFU_points": [
+        57.05,
+        81.24,
+        115.55,
+        164.08,
+        232.41
+      ],
+      "roxRFU_points": [
+        75.97,
+        108.48,
+        154.48,
+        219.26,
+        309.97
+      ],
+      "cy5RFU_points": [
+        25.05,
+        35.58,
+        50.56,
+        71.82,
+        101.9
+      ]
+    },
+    {
+      "wellNum": "H10",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "roxCq": "4.06",
+      "cy5Cq": "1.82",
+      "hexRFU_endpoint": 43.33,
+      "famRFU_endpoint": 36.28,
+      "roxRFU_endpoint": 94.32,
+      "cy5RFU_endpoint": 186.76,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        14.56,
+        20.62,
+        29.27,
+        41.59,
+        59.13
+      ],
+      "famRFU_points": [
+        12.2,
+        17.27,
+        24.5,
+        34.82,
+        49.52
+      ],
+      "roxRFU_points": [
+        31.63,
+        44.89,
+        63.77,
+        90.59,
+        128.61
+      ],
+      "cy5RFU_points": [
+        62.4,
+        88.89,
+        126.46,
+        179.56,
+        254.25
+      ]
+    },
+    {
+      "wellNum": "H11",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "roxCq": "1.73",
+      "cy5Cq": "4.46",
+      "hexRFU_endpoint": 40.57,
+      "famRFU_endpoint": 45.83,
+      "roxRFU_endpoint": 211.79,
+      "cy5RFU_endpoint": 73.46,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        13.64,
+        19.31,
+        27.4,
+        38.94,
+        55.37
+      ],
+      "famRFU_points": [
+        15.4,
+        21.81,
+        30.96,
+        43.99,
+        62.54
+      ],
+      "roxRFU_points": [
+        70.65,
+        100.81,
+        143.51,
+        203.72,
+        288.14
+      ],
+      "cy5RFU_points": [
+        24.62,
+        34.97,
+        49.68,
+        70.57,
+        100.14
+      ]
+    },
+    {
+      "wellNum": "H12",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "1.91",
+      "roxCq": "3.69",
+      "cy5Cq": "NaN",
+      "hexRFU_endpoint": 27.08,
+      "famRFU_endpoint": 188.49,
+      "roxRFU_endpoint": 106.41,
+      "cy5RFU_endpoint": 47.9,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        9.12,
+        12.89,
+        18.27,
+        25.97,
+        36.99
+      ],
+      "famRFU_points": [
+        62.96,
+        89.72,
+        127.65,
+        181.24,
+        256.58
+      ],
+      "roxRFU_points": [
+        35.66,
+        50.65,
+        71.96,
+        102.22,
+        145.06
+      ],
+      "cy5RFU_points": [
+        16.09,
+        22.79,
+        32.35,
+        45.98,
+        65.36
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+,,1,2,3,4,5,6,7,8,9,10,11,12
+A,Content,Neg Ctrl,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Pos Ctrl,Unkn,Unkn
+A,Sample,,,,,,,,,,,,
+A,Cq,2.69253387814134,NaN,NaN,NaN,NaN,NaN,NaN,2.40626262688358,NaN,NaN,3.06299794174963,2.94591820067819
+A,copy number,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+B,Content,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn
+B,Sample,,,,,,,,,,,,
+B,Cq,NaN,NaN,2.80044259755895,NaN,NaN,2.34489378376387,NaN,2.4175125768807,2.72480346386358,4.64779864491682,NaN,2.29757726933973
+B,copy number,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+C,Content,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn
+C,Sample,,,,,,,,,,,,
+C,Cq,NaN,NaN,2.69954319269774,NaN,NaN,NaN,NaN,NaN,NaN,2.792908207513,3.08869798925378,NaN
+C,copy number,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+D,Content,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn
+D,Sample,,,,,,,,,,,,
+D,Cq,NaN,NaN,2.6426738512218,1.02324875221596,NaN,NaN,NaN,NaN,2.3533656065996,2.17357855919718,NaN,2.73583808111884
+D,copy number,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+E,Content,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn
+E,Sample,,,,,,,,,,,,
+E,Cq,NaN,2.62796362229479,NaN,NaN,NaN,NaN,NaN,2.82234753149921,NaN,4.4843453986605,NaN,NaN
+E,copy number,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+F,Content,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn
+F,Sample,,,,,,,,,,,,
+F,Cq,NaN,2.83853025267707,NaN,NaN,4.9998325248993,NaN,NaN,NaN,NaN,4.81561179535349,3.0343563783728,NaN
+F,copy number,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+G,Content,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn
+G,Sample,,,,,,,,,,,,
+G,Cq,NaN,NaN,NaN,NaN,NaN,NaN,NaN,2.11800872220421,NaN,NaN,3.10160016220615,NaN
+G,copy number,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+H,Content,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn
+H,Sample,,,,,,,,,,,,
+H,Cq,NaN,2.15807588551174,NaN,NaN,NaN,NaN,NaN,4.79688399670013,2.47003736380735,4.71922717194407,NaN,NaN
+H,copy number,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN

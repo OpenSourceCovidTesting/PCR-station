@@ -1,0 +1,33 @@
+,,1,2,3,4,5,6,7,8,9,10,11,12
+A,Content,Neg Ctrl,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Pos Ctrl,Unkn,Unkn
+A,Sample,,,,,,,,,,,,
+A,Cq,NaN,NaN,3.13133798737576,2.59389823077204,NaN,3.93951239205837,NaN,4.93888946427,2.40197328463587,2.21761755045447,4.61990549120877,NaN
+A,copy number,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+B,Content,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn
+B,Sample,,,,,,,,,,,,
+B,Cq,3.12506726091394,3.89898825996422,4.09822644867758,4.18177313934519,NaN,2.25474711997861,4.41376316435813,4.36683969300424,4.77360052813953,NaN,2.50100663927884,3.73886457223849
+B,copy number,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+C,Content,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn
+C,Sample,,,,,,,,,,,,
+C,Cq,2.67621442783772,NaN,4.15784528889886,NaN,4.6637698642116,NaN,NaN,NaN,NaN,2.42076161455139,2.23766962722548,4.563032807648
+C,copy number,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+D,Content,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn
+D,Sample,,,,,,,,,,,,
+D,Cq,NaN,1.0931725934665,2.6837933747428,NaN,3.14524989381457,NaN,3.06738132502869,4.11233110583391,2.22085318590587,2.15926246682919,NaN,NaN
+D,copy number,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+E,Content,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn
+E,Sample,,,,,,,,,,,,
+E,Cq,NaN,2.23760368267975,NaN,NaN,NaN,NaN,NaN,NaN,4.0992777204793,NaN,NaN,NaN
+E,copy number,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+F,Content,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn
+F,Sample,,,,,,,,,,,,
+F,Cq,2.68134566981234,NaN,NaN,NaN,NaN,4.65282021519517,4.67367183096803,NaN,NaN,NaN,NaN,NaN
+F,copy number,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+G,Content,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn
+G,Sample,,,,,,,,,,,,
+G,Cq,NaN,2.88430376200771,NaN,4.46234160525349,NaN,NaN,2.53626785379563,NaN,NaN,NaN,NaN,NaN
+G,copy number,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+H,Content,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn
+H,Sample,,,,,,,,,,,,
+H,Cq,NaN,2.4703282176555,2.91298790155084,NaN,NaN,NaN,NaN,NaN,NaN,NaN,4.89731557060352,NaN
+H,copy number,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN

@@ -1,0 +1,2427 @@
+﻿{
+  "labName": "Calcinate Lab",
+  "username": "JohnSmith",
+  "plateBarcode": "default",
+  "pcrSerial": "CFX96-SIM00",
+  "runDate": "19-08-2020",
+  "runTime": "01-18-29",
+  "testKitName": "Primerdesign Ltd COVID-19",
+  "fluorophores": [
+    "HEX",
+    "FAM"
+  ],
+  "numCycles": 6,
+  "numWells": 96,
+  "NEC_hexCq": "NaN",
+  "PCT_hexCq": "NaN",
+  "NEC_famCq": "NaN",
+  "PCT_famCq": "NaN",
+  "NEC_hexRFU_endpoint": 847.65,
+  "PCT_hexRFU_endpoint": 935.42,
+  "NEC_famRFU_endpoint": 952.94,
+  "PCT_famRFU_endpoint": 403.69,
+  "NECresult": "FAIL",
+  "PCTresult": "FAIL",
+  "Wells": [
+    {
+      "wellNum": "A01",
+      "wellContent": "Neg Ctrl",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 847.65,
+      "famRFU_endpoint": 952.94,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        389.19,
+        451.64,
+        539.15,
+        660.79,
+        827.97,
+        1054.19
+      ],
+      "famRFU_points": [
+        434.8,
+        505.98,
+        605.45,
+        743.17,
+        931.4,
+        1184.24
+      ]
+    },
+    {
+      "wellNum": "A02",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 112.41,
+      "famRFU_endpoint": 407.39,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        53.26,
+        60.96,
+        71.91,
+        87.45,
+        109.41,
+        140.36
+      ],
+      "famRFU_points": [
+        191.56,
+        219.99,
+        260.25,
+        317.1,
+        396.91,
+        508.17
+      ]
+    },
+    {
+      "wellNum": "A03",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 694.69,
+      "famRFU_endpoint": 952.51,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        321.49,
+        371.77,
+        442.49,
+        541.27,
+        678.0,
+        864.79
+      ],
+      "famRFU_points": [
+        434.59,
+        505.75,
+        605.18,
+        742.84,
+        930.99,
+        1183.71
+      ]
+    },
+    {
+      "wellNum": "A04",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 95.8,
+      "famRFU_endpoint": 953.24,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        46.71,
+        52.81,
+        61.62,
+        74.39,
+        92.95,
+        120.07
+      ],
+      "famRFU_points": [
+        435.51,
+        506.52,
+        605.79,
+        743.34,
+        931.58,
+        1184.81
+      ]
+    },
+    {
+      "wellNum": "A05",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 320.93,
+      "famRFU_endpoint": 416.49,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        151.46,
+        173.66,
+        205.16,
+        249.73,
+        312.54,
+        400.51
+      ],
+      "famRFU_points": [
+        195.67,
+        224.78,
+        266.02,
+        324.2,
+        405.82,
+        519.46
+      ]
+    },
+    {
+      "wellNum": "A06",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 904.64,
+      "famRFU_endpoint": 338.63,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        413.89,
+        481.06,
+        575.04,
+        705.38,
+        883.95,
+        1124.58
+      ],
+      "famRFU_points": [
+        159.98,
+        183.34,
+        216.51,
+        263.49,
+        329.74,
+        422.65
+      ]
+    },
+    {
+      "wellNum": "A07",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 119.36,
+      "famRFU_endpoint": 271.07,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        56.84,
+        64.92,
+        76.43,
+        92.83,
+        116.12,
+        149.14
+      ],
+      "famRFU_points": [
+        128.29,
+        146.91,
+        173.38,
+        210.9,
+        263.9,
+        338.41
+      ]
+    },
+    {
+      "wellNum": "A08",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 242.04,
+      "famRFU_endpoint": 297.98,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        114.68,
+        131.26,
+        154.85,
+        188.3,
+        235.61,
+        302.22
+      ],
+      "famRFU_points": [
+        140.82,
+        161.37,
+        190.54,
+        231.86,
+        290.14,
+        371.94
+      ]
+    },
+    {
+      "wellNum": "A09",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 280.0,
+      "famRFU_endpoint": 241.4,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        132.44,
+        151.7,
+        179.07,
+        217.85,
+        272.61,
+        349.53
+      ],
+      "famRFU_points": [
+        114.39,
+        130.93,
+        154.44,
+        187.8,
+        234.98,
+        301.42
+      ]
+    },
+    {
+      "wellNum": "A10",
+      "wellContent": "Pos Ctrl",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 935.42,
+      "famRFU_endpoint": 403.69,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        427.46,
+        497.11,
+        594.48,
+        729.43,
+        914.14,
+        1162.68
+      ],
+      "famRFU_points": [
+        190.0,
+        218.1,
+        257.93,
+        314.19,
+        393.27,
+        503.61
+      ]
+    },
+    {
+      "wellNum": "A11",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 356.53,
+      "famRFU_endpoint": 367.52,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        167.78,
+        192.61,
+        227.8,
+        277.49,
+        347.33,
+        444.78
+      ],
+      "famRFU_points": [
+        173.09,
+        198.64,
+        234.85,
+        286.03,
+        358.0,
+        458.53
+      ]
+    },
+    {
+      "wellNum": "A12",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 347.75,
+      "famRFU_endpoint": 365.22,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        163.93,
+        188.05,
+        222.26,
+        270.63,
+        338.71,
+        433.92
+      ],
+      "famRFU_points": [
+        172.02,
+        197.4,
+        233.39,
+        284.24,
+        355.76,
+        455.67
+      ]
+    },
+    {
+      "wellNum": "B01",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 887.65,
+      "famRFU_endpoint": 93.31,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        407.53,
+        472.94,
+        564.59,
+        691.98,
+        867.05,
+        1103.93
+      ],
+      "famRFU_points": [
+        44.94,
+        51.08,
+        59.88,
+        72.51,
+        90.66,
+        116.76
+      ]
+    },
+    {
+      "wellNum": "B02",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 140.86,
+      "famRFU_endpoint": 113.5,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        66.63,
+        76.32,
+        90.09,
+        109.6,
+        137.14,
+        175.85
+      ],
+      "famRFU_points": [
+        53.97,
+        61.68,
+        72.66,
+        88.28,
+        110.44,
+        141.79
+      ]
+    },
+    {
+      "wellNum": "B03",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 146.93,
+      "famRFU_endpoint": 318.38,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        69.48,
+        79.6,
+        93.96,
+        114.32,
+        143.05,
+        183.41
+      ],
+      "famRFU_points": [
+        150.33,
+        172.32,
+        203.54,
+        247.74,
+        310.04,
+        397.35
+      ]
+    },
+    {
+      "wellNum": "B04",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 892.4,
+      "famRFU_endpoint": 730.64,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        408.41,
+        474.64,
+        567.3,
+        695.82,
+        871.96,
+        1109.41
+      ],
+      "famRFU_points": [
+        337.7,
+        390.73,
+        465.28,
+        569.33,
+        713.18,
+        909.4
+      ]
+    },
+    {
+      "wellNum": "B05",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 254.88,
+      "famRFU_endpoint": 314.86,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        120.69,
+        138.18,
+        163.04,
+        198.3,
+        248.13,
+        318.22
+      ],
+      "famRFU_points": [
+        148.68,
+        170.43,
+        201.3,
+        245.0,
+        306.61,
+        392.97
+      ]
+    },
+    {
+      "wellNum": "B06",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 397.1,
+      "famRFU_endpoint": 894.6,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        187.09,
+        214.67,
+        253.77,
+        309.04,
+        386.8,
+        495.46
+      ],
+      "famRFU_points": [
+        409.86,
+        476.09,
+        568.8,
+        697.49,
+        874.02,
+        1112.29
+      ]
+    },
+    {
+      "wellNum": "B07",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 105.05,
+      "famRFU_endpoint": 961.45,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        51.01,
+        57.78,
+        67.52,
+        81.59,
+        101.97,
+        131.59
+      ],
+      "famRFU_points": [
+        439.12,
+        510.79,
+        610.97,
+        749.76,
+        939.63,
+        1194.97
+      ]
+    },
+    {
+      "wellNum": "B08",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 299.29,
+      "famRFU_endpoint": 426.85,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        141.25,
+        161.95,
+        191.33,
+        232.9,
+        291.47,
+        373.51
+      ],
+      "famRFU_points": [
+        200.47,
+        230.34,
+        272.62,
+        332.26,
+        415.92,
+        532.36
+      ]
+    },
+    {
+      "wellNum": "B09",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 712.13,
+      "famRFU_endpoint": 906.69,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        329.17,
+        380.86,
+        453.5,
+        554.91,
+        695.11,
+        886.38
+      ],
+      "famRFU_points": [
+        414.79,
+        482.13,
+        576.34,
+        706.98,
+        885.96,
+        1127.12
+      ]
+    },
+    {
+      "wellNum": "B10",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 782.5,
+      "famRFU_endpoint": 110.47,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        361.11,
+        418.11,
+        498.17,
+        609.81,
+        763.93,
+        973.77
+      ],
+      "famRFU_points": [
+        52.99,
+        60.33,
+        70.84,
+        85.87,
+        107.38,
+        138.16
+      ]
+    },
+    {
+      "wellNum": "B11",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 125.75,
+      "famRFU_endpoint": 823.56,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        60.18,
+        68.59,
+        80.6,
+        97.76,
+        122.27,
+        157.22
+      ],
+      "famRFU_points": [
+        379.05,
+        439.4,
+        524.06,
+        641.91,
+        804.23,
+        1024.53
+      ]
+    },
+    {
+      "wellNum": "B12",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 350.25,
+      "famRFU_endpoint": 128.05,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        165.14,
+        189.42,
+        223.86,
+        272.57,
+        341.13,
+        437.05
+      ],
+      "famRFU_points": [
+        60.94,
+        69.62,
+        81.99,
+        99.59,
+        124.58,
+        159.98
+      ]
+    },
+    {
+      "wellNum": "C01",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 318.11,
+      "famRFU_endpoint": 860.69,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        150.58,
+        172.43,
+        203.47,
+        247.49,
+        309.69,
+        397.14
+      ],
+      "famRFU_points": [
+        395.14,
+        458.56,
+        547.44,
+        670.96,
+        840.71,
+        1070.39
+      ]
+    },
+    {
+      "wellNum": "C02",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 854.3,
+      "famRFU_endpoint": 308.15,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        392.61,
+        455.42,
+        543.47,
+        665.94,
+        834.38,
+        1062.58
+      ],
+      "famRFU_points": [
+        145.71,
+        166.93,
+        197.06,
+        239.76,
+        300.03,
+        384.66
+      ]
+    },
+    {
+      "wellNum": "C03",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 202.87,
+      "famRFU_endpoint": 972.24,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        97.15,
+        110.69,
+        130.04,
+        157.71,
+        197.25,
+        253.65
+      ],
+      "famRFU_points": [
+        443.49,
+        516.16,
+        617.69,
+        758.23,
+        950.29,
+        1208.19
+      ]
+    },
+    {
+      "wellNum": "C04",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 151.95,
+      "famRFU_endpoint": 113.17,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        72.24,
+        82.57,
+        97.28,
+        118.18,
+        147.85,
+        189.82
+      ],
+      "famRFU_points": [
+        53.87,
+        61.54,
+        72.46,
+        88.01,
+        110.1,
+        141.39
+      ]
+    },
+    {
+      "wellNum": "C05",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 333.86,
+      "famRFU_endpoint": 105.83,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        157.54,
+        180.64,
+        213.42,
+        259.8,
+        325.13,
+        416.64
+      ],
+      "famRFU_points": [
+        50.49,
+        57.62,
+        67.79,
+        82.29,
+        102.93,
+        132.26
+      ]
+    },
+    {
+      "wellNum": "C06",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 334.03,
+      "famRFU_endpoint": 140.73,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        157.64,
+        180.74,
+        213.54,
+        259.93,
+        325.3,
+        416.86
+      ],
+      "famRFU_points": [
+        67.02,
+        76.54,
+        90.12,
+        109.45,
+        136.91,
+        175.84
+      ]
+    },
+    {
+      "wellNum": "C07",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 116.24,
+      "famRFU_endpoint": 394.49,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        55.49,
+        63.31,
+        74.47,
+        90.39,
+        113.05,
+        145.29
+      ],
+      "famRFU_points": [
+        185.61,
+        213.09,
+        252.04,
+        307.04,
+        384.32,
+        492.12
+      ]
+    },
+    {
+      "wellNum": "C08",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 316.56,
+      "famRFU_endpoint": 962.29,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        149.82,
+        171.57,
+        202.47,
+        246.29,
+        308.2,
+        395.2
+      ],
+      "famRFU_points": [
+        439.2,
+        511.03,
+        611.43,
+        750.45,
+        940.51,
+        1195.9
+      ]
+    },
+    {
+      "wellNum": "C09",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 145.32,
+      "famRFU_endpoint": 426.15,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        68.82,
+        78.79,
+        92.96,
+        113.05,
+        141.46,
+        181.44
+      ],
+      "famRFU_points": [
+        200.18,
+        229.98,
+        272.19,
+        331.72,
+        415.23,
+        531.5
+      ]
+    },
+    {
+      "wellNum": "C10",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 801.06,
+      "famRFU_endpoint": 312.38,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        368.98,
+        427.58,
+        509.81,
+        624.34,
+        782.2,
+        996.63
+      ],
+      "famRFU_points": [
+        147.72,
+        169.22,
+        199.77,
+        243.05,
+        304.15,
+        389.94
+      ]
+    },
+    {
+      "wellNum": "C11",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 248.86,
+      "famRFU_endpoint": 809.65,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        118.32,
+        135.23,
+        159.31,
+        193.56,
+        242.16,
+        310.87
+      ],
+      "famRFU_points": [
+        372.79,
+        432.06,
+        515.24,
+        631.05,
+        790.62,
+        1007.27
+      ]
+    },
+    {
+      "wellNum": "C12",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 291.4,
+      "famRFU_endpoint": 289.94,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        137.59,
+        157.72,
+        186.3,
+        226.75,
+        283.76,
+        363.68
+      ],
+      "famRFU_points": [
+        137.07,
+        157.04,
+        185.41,
+        225.59,
+        282.3,
+        361.92
+      ]
+    },
+    {
+      "wellNum": "D01",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 833.37,
+      "famRFU_endpoint": 308.89,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        382.92,
+        444.21,
+        530.14,
+        649.63,
+        813.96,
+        1036.53
+      ],
+      "famRFU_points": [
+        146.12,
+        167.36,
+        197.55,
+        240.33,
+        300.73,
+        385.6
+      ]
+    },
+    {
+      "wellNum": "D02",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 141.79,
+      "famRFU_endpoint": 324.47,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        66.89,
+        76.71,
+        90.64,
+        110.34,
+        138.08,
+        176.95
+      ],
+      "famRFU_points": [
+        153.1,
+        175.55,
+        207.41,
+        252.49,
+        315.99,
+        404.92
+      ]
+    },
+    {
+      "wellNum": "D03",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 694.55,
+      "famRFU_endpoint": 827.77,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        321.38,
+        371.67,
+        442.39,
+        541.17,
+        677.87,
+        864.61
+      ],
+      "famRFU_points": [
+        380.46,
+        441.31,
+        526.61,
+        645.25,
+        808.46,
+        1029.59
+      ]
+    },
+    {
+      "wellNum": "D04",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 359.76,
+      "famRFU_endpoint": 266.34,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        169.5,
+        194.48,
+        229.91,
+        279.98,
+        350.42,
+        448.87
+      ],
+      "famRFU_points": [
+        126.03,
+        144.33,
+        170.35,
+        207.22,
+        259.3,
+        332.5
+      ]
+    },
+    {
+      "wellNum": "D05",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 854.25,
+      "famRFU_endpoint": 300.49,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        392.11,
+        455.08,
+        543.32,
+        665.95,
+        834.43,
+        1062.36
+      ],
+      "famRFU_points": [
+        142.24,
+        162.87,
+        192.2,
+        233.78,
+        292.54,
+        375.15
+      ]
+    },
+    {
+      "wellNum": "D06",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 359.62,
+      "famRFU_endpoint": 310.15,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        169.17,
+        194.23,
+        229.75,
+        279.9,
+        350.34,
+        448.61
+      ],
+      "famRFU_points": [
+        146.48,
+        167.89,
+        198.3,
+        241.34,
+        302.02,
+        387.1
+      ]
+    },
+    {
+      "wellNum": "D07",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 408.65,
+      "famRFU_endpoint": 276.43,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        192.1,
+        220.63,
+        261.04,
+        318.08,
+        398.15,
+        509.72
+      ],
+      "famRFU_points": [
+        130.78,
+        149.79,
+        176.8,
+        215.07,
+        269.13,
+        345.09
+      ]
+    },
+    {
+      "wellNum": "D08",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 868.19,
+      "famRFU_endpoint": 270.15,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        398.49,
+        462.5,
+        552.18,
+        676.82,
+        848.06,
+        1079.69
+      ],
+      "famRFU_points": [
+        128.12,
+        146.58,
+        172.85,
+        210.15,
+        262.94,
+        337.35
+      ]
+    },
+    {
+      "wellNum": "D09",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 722.48,
+      "famRFU_endpoint": 313.91,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        333.98,
+        386.41,
+        460.1,
+        562.97,
+        705.2,
+        899.27
+      ],
+      "famRFU_points": [
+        148.37,
+        170.0,
+        200.73,
+        244.25,
+        305.66,
+        391.83
+      ]
+    },
+    {
+      "wellNum": "D10",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 884.46,
+      "famRFU_endpoint": 921.05,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        405.21,
+        470.69,
+        562.35,
+        689.58,
+        864.11,
+        1099.68
+      ],
+      "famRFU_points": [
+        421.05,
+        489.57,
+        585.39,
+        718.21,
+        900.06,
+        1144.88
+      ]
+    },
+    {
+      "wellNum": "D11",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 302.16,
+      "famRFU_endpoint": 862.74,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        143.22,
+        163.9,
+        193.31,
+        235.06,
+        294.12,
+        377.29
+      ],
+      "famRFU_points": [
+        395.99,
+        459.6,
+        548.72,
+        672.57,
+        842.73,
+        1072.91
+      ]
+    },
+    {
+      "wellNum": "D12",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 309.33,
+      "famRFU_endpoint": 775.33,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        146.26,
+        167.56,
+        197.82,
+        240.68,
+        301.19,
+        386.13
+      ],
+      "famRFU_points": [
+        357.62,
+        414.16,
+        493.56,
+        604.24,
+        756.97,
+        964.79
+      ]
+    },
+    {
+      "wellNum": "E01",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 142.02,
+      "famRFU_endpoint": 116.26,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        67.61,
+        77.23,
+        90.94,
+        110.45,
+        138.16,
+        177.44
+      ],
+      "famRFU_points": [
+        55.41,
+        63.26,
+        74.46,
+        90.41,
+        113.09,
+        145.28
+      ]
+    },
+    {
+      "wellNum": "E02",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 300.13,
+      "famRFU_endpoint": 796.68,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        142.17,
+        162.74,
+        191.99,
+        233.49,
+        292.16,
+        374.73
+      ],
+      "famRFU_points": [
+        367.0,
+        425.26,
+        507.03,
+        620.93,
+        777.92,
+        991.2
+      ]
+    },
+    {
+      "wellNum": "E03",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 162.94,
+      "famRFU_endpoint": 107.57,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        77.07,
+        88.28,
+        104.21,
+        126.77,
+        158.63,
+        203.41
+      ],
+      "famRFU_points": [
+        51.27,
+        58.53,
+        68.9,
+        83.65,
+        104.64,
+        134.42
+      ]
+    },
+    {
+      "wellNum": "E04",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 97.06,
+      "famRFU_endpoint": 806.91,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        46.93,
+        53.25,
+        62.33,
+        75.4,
+        94.26,
+        121.52
+      ],
+      "famRFU_points": [
+        371.72,
+        430.73,
+        513.54,
+        628.9,
+        787.9,
+        1003.93
+      ]
+    },
+    {
+      "wellNum": "E05",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 320.84,
+      "famRFU_endpoint": 136.22,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        151.47,
+        173.64,
+        205.12,
+        249.66,
+        312.45,
+        400.42
+      ],
+      "famRFU_points": [
+        64.8,
+        74.04,
+        87.21,
+        105.94,
+        132.53,
+        170.18
+      ]
+    },
+    {
+      "wellNum": "E06",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 757.34,
+      "famRFU_endpoint": 314.99,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        349.76,
+        404.83,
+        482.21,
+        590.17,
+        739.31,
+        942.55
+      ],
+      "famRFU_points": [
+        148.86,
+        170.58,
+        201.42,
+        245.09,
+        306.71,
+        393.17
+      ]
+    },
+    {
+      "wellNum": "E07",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 928.28,
+      "famRFU_endpoint": 392.33,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        424.4,
+        493.44,
+        590.0,
+        723.85,
+        907.12,
+        1153.88
+      ],
+      "famRFU_points": [
+        184.8,
+        212.06,
+        250.71,
+        305.34,
+        382.17,
+        489.49
+      ]
+    },
+    {
+      "wellNum": "E08",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 88.32,
+      "famRFU_endpoint": 908.39,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        42.98,
+        48.64,
+        56.79,
+        68.59,
+        85.71,
+        110.67
+      ],
+      "famRFU_points": [
+        416.15,
+        483.41,
+        577.56,
+        708.25,
+        887.5,
+        1129.43
+      ]
+    },
+    {
+      "wellNum": "E09",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 384.18,
+      "famRFU_endpoint": 362.15,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        180.8,
+        207.55,
+        245.46,
+        299.01,
+        374.26,
+        479.27
+      ],
+      "famRFU_points": [
+        170.62,
+        195.77,
+        231.44,
+        281.84,
+        352.75,
+        451.85
+      ]
+    },
+    {
+      "wellNum": "E10",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 298.84,
+      "famRFU_endpoint": 982.19,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        141.88,
+        162.25,
+        191.25,
+        232.45,
+        290.84,
+        373.23
+      ],
+      "famRFU_points": [
+        447.73,
+        521.25,
+        623.94,
+        766.03,
+        960.09,
+        1220.46
+      ]
+    },
+    {
+      "wellNum": "E11",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 841.67,
+      "famRFU_endpoint": 835.08,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        386.35,
+        448.39,
+        535.33,
+        656.14,
+        822.14,
+        1046.72
+      ],
+      "famRFU_points": [
+        383.64,
+        445.08,
+        531.21,
+        650.97,
+        815.64,
+        1038.63
+      ]
+    },
+    {
+      "wellNum": "E12",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 121.66,
+      "famRFU_endpoint": 139.71,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        57.96,
+        66.19,
+        77.92,
+        94.61,
+        118.35,
+        152.02
+      ],
+      "famRFU_points": [
+        66.51,
+        75.97,
+        89.46,
+        108.66,
+        135.92,
+        174.56
+      ]
+    },
+    {
+      "wellNum": "F01",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 318.27,
+      "famRFU_endpoint": 321.3,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        150.27,
+        172.26,
+        203.48,
+        247.66,
+        309.94,
+        397.22
+      ],
+      "famRFU_points": [
+        151.67,
+        173.88,
+        205.41,
+        250.02,
+        312.89,
+        400.98
+      ]
+    },
+    {
+      "wellNum": "F02",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 104.76,
+      "famRFU_endpoint": 118.01,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        49.96,
+        57.03,
+        67.1,
+        81.47,
+        101.9,
+        130.92
+      ],
+      "famRFU_points": [
+        56.24,
+        64.22,
+        75.58,
+        91.77,
+        114.8,
+        147.47
+      ]
+    },
+    {
+      "wellNum": "F03",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 129.53,
+      "famRFU_endpoint": 322.03,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        61.71,
+        70.47,
+        82.96,
+        100.73,
+        126.01,
+        161.86
+      ],
+      "famRFU_points": [
+        152.04,
+        174.29,
+        205.88,
+        250.58,
+        313.6,
+        401.91
+      ]
+    },
+    {
+      "wellNum": "F04",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 359.6,
+      "famRFU_endpoint": 126.65,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        169.3,
+        194.32,
+        229.78,
+        279.87,
+        350.3,
+        448.63
+      ],
+      "famRFU_points": [
+        60.34,
+        68.9,
+        81.11,
+        98.49,
+        123.2,
+        158.25
+      ]
+    },
+    {
+      "wellNum": "F05",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 294.92,
+      "famRFU_endpoint": 105.2,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        139.43,
+        159.75,
+        188.6,
+        229.47,
+        287.16,
+        368.14
+      ],
+      "famRFU_points": [
+        50.18,
+        57.27,
+        67.38,
+        81.8,
+        102.32,
+        131.47
+      ]
+    },
+    {
+      "wellNum": "F06",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 896.1,
+      "famRFU_endpoint": 107.24,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        410.94,
+        477.14,
+        569.85,
+        698.62,
+        875.4,
+        1114.29
+      ],
+      "famRFU_points": [
+        51.59,
+        58.66,
+        68.8,
+        83.34,
+        104.21,
+        134.17
+      ]
+    },
+    {
+      "wellNum": "F07",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 278.26,
+      "famRFU_endpoint": 267.95,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        131.62,
+        150.76,
+        177.96,
+        216.5,
+        270.91,
+        347.36
+      ],
+      "famRFU_points": [
+        126.81,
+        145.22,
+        171.39,
+        208.47,
+        260.87,
+        334.52
+      ]
+    },
+    {
+      "wellNum": "F08",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 359.24,
+      "famRFU_endpoint": 124.65,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        169.34,
+        194.26,
+        229.6,
+        279.57,
+        349.89,
+        448.25
+      ],
+      "famRFU_points": [
+        59.42,
+        67.84,
+        79.84,
+        96.93,
+        121.25,
+        155.77
+      ]
+    },
+    {
+      "wellNum": "F09",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 117.09,
+      "famRFU_endpoint": 139.15,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        55.77,
+        63.69,
+        74.99,
+        91.06,
+        113.91,
+        146.31
+      ],
+      "famRFU_points": [
+        66.25,
+        75.67,
+        89.1,
+        108.22,
+        135.38,
+        173.86
+      ]
+    },
+    {
+      "wellNum": "F10",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 767.71,
+      "famRFU_endpoint": 870.55,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        354.09,
+        410.08,
+        488.7,
+        598.3,
+        749.53,
+        955.3
+      ],
+      "famRFU_points": [
+        399.16,
+        463.49,
+        553.59,
+        678.7,
+        850.45,
+        1082.49
+      ]
+    },
+    {
+      "wellNum": "F11",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 98.07,
+      "famRFU_endpoint": 911.66,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        47.38,
+        53.78,
+        62.97,
+        76.2,
+        95.25,
+        122.76
+      ],
+      "famRFU_points": [
+        417.51,
+        485.06,
+        579.61,
+        710.81,
+        890.72,
+        1133.44
+      ]
+    },
+    {
+      "wellNum": "F12",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 319.58,
+      "famRFU_endpoint": 866.12,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        150.96,
+        173.02,
+        204.34,
+        248.67,
+        311.2,
+        398.88
+      ],
+      "famRFU_points": [
+        397.54,
+        461.4,
+        550.87,
+        675.2,
+        846.03,
+        1077.12
+      ]
+    },
+    {
+      "wellNum": "G01",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 359.0,
+      "famRFU_endpoint": 120.99,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        169.05,
+        194.02,
+        229.4,
+        279.4,
+        349.7,
+        447.9
+      ],
+      "famRFU_points": [
+        57.65,
+        65.83,
+        77.49,
+        94.09,
+        117.7,
+        151.19
+      ]
+    },
+    {
+      "wellNum": "G02",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 147.13,
+      "famRFU_endpoint": 115.85,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        69.66,
+        79.77,
+        94.12,
+        114.47,
+        143.23,
+        183.7
+      ],
+      "famRFU_points": [
+        55.19,
+        63.03,
+        74.19,
+        90.09,
+        112.7,
+        144.76
+      ]
+    },
+    {
+      "wellNum": "G03",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 885.18,
+      "famRFU_endpoint": 304.36,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        405.81,
+        471.24,
+        562.88,
+        690.12,
+        864.76,
+        1100.66
+      ],
+      "famRFU_points": [
+        144.07,
+        164.97,
+        194.68,
+        236.8,
+        296.31,
+        379.98
+      ]
+    },
+    {
+      "wellNum": "G04",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 825.03,
+      "famRFU_endpoint": 110.07,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        379.89,
+        440.29,
+        525.03,
+        643.04,
+        805.63,
+        1026.41
+      ],
+      "famRFU_points": [
+        52.84,
+        60.14,
+        70.59,
+        85.55,
+        106.98,
+        137.67
+      ]
+    },
+    {
+      "wellNum": "G05",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 415.9,
+      "famRFU_endpoint": 330.6,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        195.39,
+        224.47,
+        265.64,
+        323.73,
+        405.24,
+        518.72
+      ],
+      "famRFU_points": [
+        155.95,
+        178.84,
+        211.32,
+        257.27,
+        321.97,
+        412.55
+      ]
+    },
+    {
+      "wellNum": "G06",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 106.8,
+      "famRFU_endpoint": 114.64,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        50.91,
+        58.12,
+        68.4,
+        83.05,
+        103.88,
+        133.46
+      ],
+      "famRFU_points": [
+        54.63,
+        62.38,
+        73.42,
+        89.15,
+        111.51,
+        143.25
+      ]
+    },
+    {
+      "wellNum": "G07",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 117.51,
+      "famRFU_endpoint": 747.75,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        56.05,
+        63.97,
+        75.28,
+        91.38,
+        114.3,
+        146.86
+      ],
+      "famRFU_points": [
+        345.58,
+        399.87,
+        476.17,
+        582.67,
+        729.89,
+        930.7
+      ]
+    },
+    {
+      "wellNum": "G08",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 270.71,
+      "famRFU_endpoint": 765.48,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        128.4,
+        146.9,
+        173.22,
+        210.59,
+        263.49,
+        338.06
+      ],
+      "famRFU_points": [
+        353.32,
+        409.06,
+        487.35,
+        596.54,
+        747.3,
+        952.61
+      ]
+    },
+    {
+      "wellNum": "G09",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 123.64,
+      "famRFU_endpoint": 148.67,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        58.87,
+        67.24,
+        79.17,
+        96.15,
+        120.28,
+        154.48
+      ],
+      "famRFU_points": [
+        70.74,
+        80.83,
+        95.19,
+        115.63,
+        144.65,
+        185.74
+      ]
+    },
+    {
+      "wellNum": "G10",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 346.75,
+      "famRFU_endpoint": 928.34,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        163.97,
+        187.83,
+        221.74,
+        269.79,
+        337.62,
+        432.84
+      ],
+      "famRFU_points": [
+        424.53,
+        493.54,
+        590.06,
+        723.88,
+        907.15,
+        1153.98
+      ]
+    },
+    {
+      "wellNum": "G11",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 114.49,
+      "famRFU_endpoint": 328.97,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        54.62,
+        62.33,
+        73.34,
+        89.03,
+        111.36,
+        143.09
+      ],
+      "famRFU_points": [
+        155.27,
+        178.02,
+        210.3,
+        255.99,
+        320.37,
+        410.55
+      ]
+    },
+    {
+      "wellNum": "G12",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 106.68,
+      "famRFU_endpoint": 297.32,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        50.87,
+        58.07,
+        68.33,
+        82.96,
+        103.76,
+        133.32
+      ],
+      "famRFU_points": [
+        140.54,
+        161.03,
+        190.12,
+        231.34,
+        289.49,
+        371.12
+      ]
+    },
+    {
+      "wellNum": "H01",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 131.21,
+      "famRFU_endpoint": 342.43,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        62.46,
+        71.35,
+        84.02,
+        102.04,
+        127.65,
+        163.93
+      ],
+      "famRFU_points": [
+        161.51,
+        185.23,
+        218.88,
+        266.47,
+        333.5,
+        427.31
+      ]
+    },
+    {
+      "wellNum": "H02",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 328.05,
+      "famRFU_endpoint": 247.76,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        154.79,
+        177.49,
+        209.71,
+        255.28,
+        319.49,
+        409.39
+      ],
+      "famRFU_points": [
+        117.38,
+        134.36,
+        158.5,
+        192.75,
+        241.18,
+        309.36
+      ]
+    },
+    {
+      "wellNum": "H03",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 374.45,
+      "famRFU_endpoint": 859.21,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        176.66,
+        202.57,
+        239.35,
+        291.39,
+        364.68,
+        467.27
+      ],
+      "famRFU_points": [
+        394.41,
+        457.75,
+        546.49,
+        669.81,
+        839.28,
+        1068.54
+      ]
+    },
+    {
+      "wellNum": "H04",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 139.35,
+      "famRFU_endpoint": 338.44,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        66.39,
+        75.81,
+        89.24,
+        108.37,
+        135.56,
+        174.12
+      ],
+      "famRFU_points": [
+        159.65,
+        183.09,
+        216.34,
+        263.37,
+        329.61,
+        422.34
+      ]
+    },
+    {
+      "wellNum": "H05",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 144.68,
+      "famRFU_endpoint": 130.97,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        68.42,
+        78.38,
+        92.53,
+        112.57,
+        140.86,
+        180.61
+      ],
+      "famRFU_points": [
+        62.35,
+        71.22,
+        83.87,
+        101.86,
+        127.42,
+        163.64
+      ]
+    },
+    {
+      "wellNum": "H06",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 290.78,
+      "famRFU_endpoint": 425.03,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        137.48,
+        157.5,
+        185.95,
+        226.25,
+        283.12,
+        362.97
+      ],
+      "famRFU_points": [
+        199.63,
+        229.36,
+        271.47,
+        330.85,
+        414.15,
+        530.1
+      ]
+    },
+    {
+      "wellNum": "H07",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 256.99,
+      "famRFU_endpoint": 259.9,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        121.66,
+        139.31,
+        164.38,
+        199.94,
+        250.18,
+        320.85
+      ],
+      "famRFU_points": [
+        123.04,
+        140.89,
+        166.24,
+        202.2,
+        253.01,
+        324.48
+      ]
+    },
+    {
+      "wellNum": "H08",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 305.57,
+      "famRFU_endpoint": 326.68,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        144.07,
+        165.25,
+        195.31,
+        237.8,
+        297.61,
+        381.3
+      ],
+      "famRFU_points": [
+        154.16,
+        176.76,
+        208.83,
+        254.21,
+        318.14,
+        407.68
+      ]
+    },
+    {
+      "wellNum": "H09",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 923.65,
+      "famRFU_endpoint": 764.19,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        422.23,
+        490.94,
+        587.04,
+        720.24,
+        902.61,
+        1148.11
+      ],
+      "famRFU_points": [
+        352.54,
+        408.25,
+        486.48,
+        595.55,
+        746.07,
+        950.94
+      ]
+    },
+    {
+      "wellNum": "H10",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 113.47,
+      "famRFU_endpoint": 370.8,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        54.14,
+        61.79,
+        72.69,
+        88.23,
+        110.36,
+        141.82
+      ],
+      "famRFU_points": [
+        174.67,
+        200.43,
+        236.96,
+        288.58,
+        361.19,
+        462.63
+      ]
+    },
+    {
+      "wellNum": "H11",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 864.74,
+      "famRFU_endpoint": 255.11,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        397.21,
+        460.86,
+        550.07,
+        674.1,
+        844.62,
+        1075.5
+      ],
+      "famRFU_points": [
+        121.07,
+        138.48,
+        163.25,
+        198.44,
+        248.28,
+        318.6
+      ]
+    },
+    {
+      "wellNum": "H12",
+      "wellContent": "Unkn",
+      "hexCq": "NaN",
+      "famCq": "NaN",
+      "hexRFU_endpoint": 334.7,
+      "famRFU_endpoint": 102.36,
+      "test_call": "Inconclusive",
+      "hexRFU_points": [
+        157.73,
+        180.96,
+        213.91,
+        260.48,
+        326.0,
+        417.62
+      ],
+      "famRFU_points": [
+        48.81,
+        55.72,
+        65.56,
+        79.6,
+        99.56,
+        127.91
+      ]
+    }
+  ]
+}

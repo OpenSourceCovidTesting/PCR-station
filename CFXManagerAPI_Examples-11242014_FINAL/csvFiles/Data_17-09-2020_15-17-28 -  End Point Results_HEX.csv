@@ -1,0 +1,97 @@
+,Well,Fluor,Target,Content,Sample,End RFU,Call,Sample Type,CallType,Is Control
+,A01,HEX,IEC,Neg Ctrl,,72.275159698011,,ControlNegative,Negative,True
+,A02,HEX,IEC,Unkn,,133.934187201352,(+) Positive,Unknown,Positive,False
+,A03,HEX,IEC,Unkn,,258.583481493549,(+) Positive,Unknown,Positive,False
+,A04,HEX,IEC,Unkn,,136.713718800691,(+) Positive,Unknown,Positive,False
+,A05,HEX,IEC,Unkn,,309.191967464318,(+) Positive,Unknown,Positive,False
+,A06,HEX,IEC,Unkn,,162.551955206465,(+) Positive,Unknown,Positive,False
+,A07,HEX,IEC,Unkn,,18.3164662054012,,Unknown,NoCall,False
+,A08,HEX,IEC,Unkn,,57.623889449942,,Unknown,NoCall,False
+,A09,HEX,IEC,Unkn,,21.6832018393525,,Unknown,NoCall,False
+,A10,HEX,IEC,Pos Ctrl,,14.2507026157893,,ControlPositive,NoCall,False
+,A11,HEX,IEC,Unkn,,22.9535074907326,,Unknown,NoCall,False
+,A12,HEX,IEC,Unkn,,283.495713886153,(+) Positive,Unknown,Positive,False
+,B01,HEX,IEC,Unkn,,269.499940290519,(+) Positive,Unknown,Positive,False
+,B02,HEX,IEC,Unkn,,166.293003704696,(+) Positive,Unknown,Positive,False
+,B03,HEX,IEC,Unkn,,64.1074517320927,,Unknown,NoCall,False
+,B04,HEX,IEC,Unkn,,168.49196511971,(+) Positive,Unknown,Positive,False
+,B05,HEX,IEC,Unkn,,23.256238449153,,Unknown,NoCall,False
+,B06,HEX,IEC,Unkn,,20.4811780552353,,Unknown,NoCall,False
+,B07,HEX,IEC,Unkn,,67.0505179190743,,Unknown,NoCall,False
+,B08,HEX,IEC,Unkn,,56.7048389447038,,Unknown,NoCall,False
+,B09,HEX,IEC,Unkn,,152.348422158294,(+) Positive,Unknown,Positive,False
+,B10,HEX,IEC,Unkn,,75.8323283840735,,Unknown,NoCall,False
+,B11,HEX,IEC,Unkn,,179.146746745964,(+) Positive,Unknown,Positive,False
+,B12,HEX,IEC,Unkn,,135.853241723309,(+) Positive,Unknown,Positive,False
+,C01,HEX,IEC,Unkn,,15.6454679045484,,Unknown,NoCall,False
+,C02,HEX,IEC,Unkn,,54.4778082489935,,Unknown,NoCall,False
+,C03,HEX,IEC,Unkn,,293.404525469452,(+) Positive,Unknown,Positive,False
+,C04,HEX,IEC,Unkn,,19.8514203034265,,Unknown,NoCall,False
+,C05,HEX,IEC,Unkn,,22.2859037165099,,Unknown,NoCall,False
+,C06,HEX,IEC,Unkn,,317.842284611222,(+) Positive,Unknown,Positive,False
+,C07,HEX,IEC,Unkn,,9.86361056464702,,Unknown,NoCall,False
+,C08,HEX,IEC,Unkn,,15.7149746006691,,Unknown,NoCall,False
+,C09,HEX,IEC,Unkn,,53.5754263821658,,Unknown,NoCall,False
+,C10,HEX,IEC,Unkn,,256.617221312339,(+) Positive,Unknown,Positive,False
+,C11,HEX,IEC,Unkn,,282.888007663585,(+) Positive,Unknown,Positive,False
+,C12,HEX,IEC,Unkn,,64.6294851622604,,Unknown,NoCall,False
+,D01,HEX,IEC,Unkn,,8.94762535386599,,Unknown,NoCall,False
+,D02,HEX,IEC,Unkn,,348.65794214462,(+) Positive,Unknown,Positive,False
+,D03,HEX,IEC,Unkn,,59.4345997439712,,Unknown,NoCall,False
+,D04,HEX,IEC,Unkn,,334.243100086081,(+) Positive,Unknown,Positive,False
+,D05,HEX,IEC,Unkn,,179.423136971957,(+) Positive,Unknown,Positive,False
+,D06,HEX,IEC,Unkn,,318.915875148706,(+) Positive,Unknown,Positive,False
+,D07,HEX,IEC,Unkn,,21.2232990767312,,Unknown,NoCall,False
+,D08,HEX,IEC,Unkn,,361.032331677306,(+) Positive,Unknown,Positive,False
+,D09,HEX,IEC,Unkn,,149.882823560636,(+) Positive,Unknown,Positive,False
+,D10,HEX,IEC,Unkn,,27.3672025691054,,Unknown,NoCall,False
+,D11,HEX,IEC,Unkn,,352.280805804741,(+) Positive,Unknown,Positive,False
+,D12,HEX,IEC,Unkn,,65.3615279510182,,Unknown,NoCall,False
+,E01,HEX,IEC,Unkn,,335.436257496293,(+) Positive,Unknown,Positive,False
+,E02,HEX,IEC,Unkn,,272.428404997569,(+) Positive,Unknown,Positive,False
+,E03,HEX,IEC,Unkn,,332.986746481521,(+) Positive,Unknown,Positive,False
+,E04,HEX,IEC,Unkn,,291.919720460605,(+) Positive,Unknown,Positive,False
+,E05,HEX,IEC,Unkn,,155.085443258087,(+) Positive,Unknown,Positive,False
+,E06,HEX,IEC,Unkn,,133.853601096875,(+) Positive,Unknown,Positive,False
+,E07,HEX,IEC,Unkn,,16.425875015195,,Unknown,NoCall,False
+,E08,HEX,IEC,Unkn,,54.3764143558459,,Unknown,NoCall,False
+,E09,HEX,IEC,Unkn,,283.607116376714,(+) Positive,Unknown,Positive,False
+,E10,HEX,IEC,Unkn,,151.8960159288,(+) Positive,Unknown,Positive,False
+,E11,HEX,IEC,Unkn,,173.862060237177,(+) Positive,Unknown,Positive,False
+,E12,HEX,IEC,Unkn,,22.1376866621747,,Unknown,NoCall,False
+,F01,HEX,IEC,Unkn,,147.535210096386,(+) Positive,Unknown,Positive,False
+,F02,HEX,IEC,Unkn,,74.924667366394,,Unknown,NoCall,False
+,F03,HEX,IEC,Unkn,,132.609318250803,(+) Positive,Unknown,Positive,False
+,F04,HEX,IEC,Unkn,,74.1888822946008,,Unknown,NoCall,False
+,F05,HEX,IEC,Unkn,,326.953052436086,(+) Positive,Unknown,Positive,False
+,F06,HEX,IEC,Unkn,,18.0921797953712,,Unknown,NoCall,False
+,F07,HEX,IEC,Unkn,,71.7527331042269,,Unknown,NoCall,False
+,F08,HEX,IEC,Unkn,,84.2521939536884,,Unknown,NoCall,False
+,F09,HEX,IEC,Unkn,,309.869238281557,(+) Positive,Unknown,Positive,False
+,F10,HEX,IEC,Unkn,,71.5774065108724,,Unknown,NoCall,False
+,F11,HEX,IEC,Unkn,,343.997567306755,(+) Positive,Unknown,Positive,False
+,F12,HEX,IEC,Unkn,,324.035882281186,(+) Positive,Unknown,Positive,False
+,G01,HEX,IEC,Unkn,,263.924761269644,(+) Positive,Unknown,Positive,False
+,G02,HEX,IEC,Unkn,,74.6251618096552,,Unknown,NoCall,False
+,G03,HEX,IEC,Unkn,,12.8203884239141,,Unknown,NoCall,False
+,G04,HEX,IEC,Unkn,,60.6494109619485,,Unknown,NoCall,False
+,G05,HEX,IEC,Unkn,,161.312605322265,(+) Positive,Unknown,Positive,False
+,G06,HEX,IEC,Unkn,,24.1782067854665,,Unknown,NoCall,False
+,G07,HEX,IEC,Unkn,,296.039595314654,(+) Positive,Unknown,Positive,False
+,G08,HEX,IEC,Unkn,,178.349157118984,(+) Positive,Unknown,Positive,False
+,G09,HEX,IEC,Unkn,,62.9826384374052,,Unknown,NoCall,False
+,G10,HEX,IEC,Unkn,,65.6107903423004,,Unknown,NoCall,False
+,G11,HEX,IEC,Unkn,,270.917908607037,(+) Positive,Unknown,Positive,False
+,G12,HEX,IEC,Unkn,,15.9555222309864,,Unknown,NoCall,False
+,H01,HEX,IEC,Unkn,,65.6271922100777,,Unknown,NoCall,False
+,H02,HEX,IEC,Unkn,,64.2786516247803,,Unknown,NoCall,False
+,H03,HEX,IEC,Unkn,,76.5006424239973,,Unknown,NoCall,False
+,H04,HEX,IEC,Unkn,,131.720656536028,(+) Positive,Unknown,Positive,False
+,H05,HEX,IEC,Unkn,,170.918633011219,(+) Positive,Unknown,Positive,False
+,H06,HEX,IEC,Unkn,,75.3693723110302,,Unknown,NoCall,False
+,H07,HEX,IEC,Unkn,,58.8534483596042,,Unknown,NoCall,False
+,H08,HEX,IEC,Unkn,,354.724423903877,(+) Positive,Unknown,Positive,False
+,H09,HEX,IEC,Unkn,,15.7346744429065,,Unknown,NoCall,False
+,H10,HEX,IEC,Unkn,,137.941287975737,(+) Positive,Unknown,Positive,False
+,H11,HEX,IEC,Unkn,,66.3313838325683,,Unknown,NoCall,False
+,H12,HEX,IEC,Unkn,,27.0214062734662,,Unknown,NoCall,False
